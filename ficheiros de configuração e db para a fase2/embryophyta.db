@@ -1,0 +1,21 @@
+# tabela DNS para o dominio de embryophyta.plantae.
+
+@ DEFAULT embryophyta.plantae
+TTL DEFAULT 86400
+
+@ SOASP carvalho.embryophyta.plantae. TTL
+@ SOAADMIN a99999\.alunos.uminho.pt. TTL
+@ SOASERIAL 23434523 TTL
+@ SOAREFRESH 14400 TTL
+@ SOARETRY 3600 TTL
+@ SOAEXPIRE 604800 TTL
+
+@ NS carvalho.embryophyta.plantae. TTL
+
+@ MX mx1.embryophyta.plantae. TTL
+
+carvalho A 10.2.2.220
+eucalipto A 10.2.2.221
+
+mx1 CNAME carvalho
+clipe CNAME eucalipto

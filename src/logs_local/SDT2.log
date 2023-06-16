@@ -1,0 +1,111 @@
+28:11:2022.15:55:01 SP log-file-created logs_local/SDT2.log
+28:11:2022.15:55:01 ST 1223 20000 debug
+28:11:2022.15:55:01 EV 127.0.0.1 config-file-read dns_local/SDT2.conf
+28:11:2022.15:55:01 EV 127.0.0.1 SP db-file-read dns_local/plantae.db
+28:11:2022.15:55:01 EV 127.0.0.1 TCP socket
+28:11:2022.15:55:01 EV 127.0.0.1 TCP bind on port 1223
+28:11:2022.15:55:01 EV 127.0.0.1 TCP listening
+28:11:2022.15:55:01 EV 127.0.0.1 UDP socket
+28:11:2022.15:55:01 EV 127.0.0.1 UDP bind on port 1223
+28:11:2022.15:55:01 EV 127.0.0.1 DB file for domain plantae sent to 127.0.0.1
+28:11:2022.16:06:45 ST 1223 20000 debug
+28:11:2022.16:06:45 EV 127.0.0.1 config-file-read dns_local/SDT2.conf
+28:11:2022.16:06:45 EV 127.0.0.1 SP db-file-read dns_local/plantae.db
+28:11:2022.16:06:45 EV 127.0.0.1 TCP socket
+28:11:2022.16:06:45 EV 127.0.0.1 TCP bind on port 1223
+28:11:2022.16:06:45 EV 127.0.0.1 TCP listening
+28:11:2022.16:06:45 EV 127.0.0.1 UDP socket
+28:11:2022.16:06:45 EV 127.0.0.1 UDP bind on port 1223
+28:11:2022.16:06:45 EV 127.0.0.1 DB file for domain plantae sent to 127.0.0.1
+28:11:2022.16:19:33 ST 1223 20000 debug
+28:11:2022.16:19:33 EV 127.0.0.1 config-file-read dns_local/SDT2.conf
+28:11:2022.16:19:33 EV 127.0.0.1 SP db-file-read dns_local/plantae.db
+28:11:2022.16:19:33 EV 127.0.0.1 TCP socket
+28:11:2022.16:19:33 EV 127.0.0.1 TCP bind on port 1223
+28:11:2022.16:19:33 EV 127.0.0.1 TCP listening
+28:11:2022.16:19:33 EV 127.0.0.1 UDP socket
+28:11:2022.16:19:33 EV 127.0.0.1 UDP bind on port 1223
+28:11:2022.16:19:33 EV 127.0.0.1 DB file for domain plantae sent to 127.0.0.1
+01:12:2022.00:32:35 ST 1223 20000 debug
+01:12:2022.00:32:35 EV 127.0.0.1 config-file-read dns_local/SDT2.conf
+01:12:2022.00:32:35 EV 127.0.0.1 SP db-file-read dns_local/plantae.db
+01:12:2022.00:32:35 EV 127.0.0.1 TCP socket
+01:12:2022.00:32:35 EV 127.0.0.1 TCP bind on port 1223
+01:12:2022.00:32:35 EV 127.0.0.1 TCP listening
+01:12:2022.00:32:35 EV 127.0.0.1 UDP socket
+01:12:2022.00:32:35 EV 127.0.0.1 UDP bind on port 1223
+01:12:2022.01:34:27 ST 1222 20000 debug
+01:12:2022.01:34:27 EV 127.0.0.1 config-file-read dns_local/SDT2.conf
+01:12:2022.01:34:27 EV 127.0.0.1 SP db-file-read dns_local/plantae.db
+01:12:2022.01:34:27 EV 127.0.0.1 TCP socket
+01:12:2022.01:34:27 EV 127.0.0.1 TCP bind on port 1222
+01:12:2022.01:34:27 EV 127.0.0.1 TCP listening
+01:12:2022.01:34:27 EV 127.0.0.1 UDP socket
+01:12:2022.01:34:27 EV 127.0.0.1 UDP bind on port 1222
+01:12:2022.01:34:52 ST 1223 20000 debug
+01:12:2022.01:34:52 EV 127.0.0.1 config-file-read dns_local/SDT2.conf
+01:12:2022.01:34:52 EV 127.0.0.1 SP db-file-read dns_local/plantae.db
+01:12:2022.01:34:52 EV 127.0.0.1 TCP socket
+01:12:2022.01:34:52 EV 127.0.0.1 TCP bind on port 1223
+01:12:2022.01:34:52 EV 127.0.0.1 TCP listening
+01:12:2022.01:34:52 EV 127.0.0.1 UDP socket
+01:12:2022.01:34:52 EV 127.0.0.1 UDP bind on port 1223
+01:12:2022.01:34:52 ZT 127.0.0.1 Domain plantae transfer to 127.0.0.1
+01:12:2022.01:34:53 ZT 127.0.0.1 Domain plantae transfer to 127.0.0.1
+01:12:2022.01:34:54 ZT 127.0.0.1 Domain plantae transfer to 127.0.0.1
+01:12:2022.01:34:55 ZT 127.0.0.1 Domain plantae transfer to 127.0.0.1
+01:12:2022.01:34:56 ZT 127.0.0.1 Domain plantae transfer to 127.0.0.1
+01:12:2022.01:34:57 ZT 127.0.0.1 Domain plantae transfer to 127.0.0.1
+01:12:2022.01:34:58 ZT 127.0.0.1 Domain plantae transfer to 127.0.0.1
+01:12:2022.01:34:59 ZT 127.0.0.1 Domain plantae transfer to 127.0.0.1
+01:12:2022.01:35:00 ZT 127.0.0.1 Domain plantae transfer to 127.0.0.1
+01:12:2022.01:35:01 ZT 127.0.0.1 Domain plantae transfer to 127.0.0.1
+01:12:2022.01:35:02 ZT 127.0.0.1 Domain plantae transfer to 127.0.0.1
+01:12:2022.01:35:03 ZT 127.0.0.1 Domain plantae transfer to 127.0.0.1
+01:12:2022.01:35:04 ZT 127.0.0.1 Domain plantae transfer to 127.0.0.1
+01:12:2022.01:37:00 ST 1223 20000 debug
+01:12:2022.01:37:00 EV 127.0.0.1 config-file-read dns_local/SDT2.conf
+01:12:2022.01:37:00 EV 127.0.0.1 SP db-file-read dns_local/plantae.db
+01:12:2022.01:37:00 EV 127.0.0.1 TCP socket
+01:12:2022.01:37:00 EV 127.0.0.1 TCP bind on port 1223
+01:12:2022.01:37:00 EV 127.0.0.1 TCP listening
+01:12:2022.01:37:00 EV 127.0.0.1 UDP socket
+01:12:2022.01:37:00 EV 127.0.0.1 UDP bind on port 1223
+01:12:2022.01:37:00 ZT 127.0.0.1 Domain plantae transfer to 127.0.0.1
+02:12:2022.23:46:55 ST 1223 20000 debug
+02:12:2022.23:46:55 EV 127.0.0.1 config-file-read dns_local/SDT2.conf
+02:12:2022.23:46:55 EV 127.0.0.1 SP db-file-read dns_local/plantae.db
+02:12:2022.23:46:55 EV 127.0.0.1 TCP socket
+02:12:2022.23:46:55 EV 127.0.0.1 TCP bind on port 1223
+02:12:2022.23:46:55 EV 127.0.0.1 TCP listening
+02:12:2022.23:46:55 EV 127.0.0.1 UDP socket
+02:12:2022.23:46:55 EV 127.0.0.1 UDP bind on port 1223
+02:12:2022.23:46:59 ZT 127.0.0.1 Domain plantae transfer to 127.0.0.1
+30:12:2022.15:08:12 ST 1223 20000 debug
+30:12:2022.15:08:12 EV 127.0.0.1 config-file-read dns_local/SDT2.conf
+30:12:2022.15:08:12 EV 127.0.0.1 SP db-file-read dns_local/plantae.db
+30:12:2022.15:08:12 EV 127.0.0.1 TCP socket
+30:12:2022.15:08:12 EV 127.0.0.1 TCP bind on port 1223
+30:12:2022.15:08:12 EV 127.0.0.1 TCP listening
+30:12:2022.15:08:12 EV 127.0.0.1 UDP socket
+30:12:2022.15:08:12 EV 127.0.0.1 UDP bind on port 1223
+30:12:2022.15:08:12 ZT 127.0.0.1 Domain plantae transfer to 127.0.0.1
+30:12:2022.15:08:16 ZT 127.0.0.1 Domain plantae transfer to 127.0.0.1
+30:12:2022.18:21:42 ST 1223 20000 debug
+30:12:2022.18:21:42 EV 127.0.0.1 config-file-read dns_local/SDT2.conf
+30:12:2022.18:21:42 EV 127.0.0.1 SP db-file-read dns_local/plantae.db
+30:12:2022.18:21:42 EV 127.0.0.1 TCP socket
+30:12:2022.18:21:42 EV 127.0.0.1 TCP bind on port 1223
+30:12:2022.18:21:42 EV 127.0.0.1 TCP listening
+30:12:2022.18:21:42 EV 127.0.0.1 UDP socket
+30:12:2022.18:21:42 EV 127.0.0.1 UDP bind on port 1223
+30:12:2022.18:21:46 ZT 127.0.0.1 Domain plantae transfer to 127.0.0.1 not made due to version 23434523
+30:12:2022.18:21:46 ZT 127.0.0.1 Domain plantae transfer to 127.0.0.1 not made due to version 23434523
+02:01:2023.14:56:27 ST 1223 20000 debug
+02:01:2023.14:56:27 EV 127.0.0.1 config-file-read dns_local/SDT2.conf
+02:01:2023.14:56:27 EV 127.0.0.1 SP db-file-read dns_local/plantae.db
+02:01:2023.14:56:27 EV 127.0.0.1 TCP socket
+02:01:2023.14:56:27 EV 127.0.0.1 TCP bind on port 1223
+02:01:2023.14:56:27 EV 127.0.0.1 TCP listening
+02:01:2023.14:56:27 EV 127.0.0.1 UDP socket
+02:01:2023.14:56:27 EV 127.0.0.1 UDP bind on port 1223

@@ -1,0 +1,691 @@
+28:11:2022.15:45:09 SP log-file-created logs_local/SDT1.log
+28:11:2022.15:45:09 ST 1222 20000 debug
+28:11:2022.15:45:09 EV 127.0.0.1 config-file-read dns_local/SDT1.conf
+28:11:2022.15:45:09 EV 127.0.0.1 SP db-file-read dns_local/animalia.db
+28:11:2022.15:45:09 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+28:11:2022.15:45:09 EV 127.0.0.1 TCP socket
+28:11:2022.15:45:09 EV 127.0.0.1 TCP bind on port 1222
+28:11:2022.15:45:09 EV 127.0.0.1 TCP listening
+28:11:2022.15:45:09 EV 127.0.0.1 UDP socket
+28:11:2022.15:45:09 EV 127.0.0.1 UDP bind on port 1222
+28:11:2022.15:55:01 ST 1222 20000 debug
+28:11:2022.15:55:01 EV 127.0.0.1 config-file-read dns_local/SDT1.conf
+28:11:2022.15:55:01 EV 127.0.0.1 SP db-file-read dns_local/animalia.db
+28:11:2022.15:55:01 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+28:11:2022.15:55:01 EV 127.0.0.1 TCP socket
+28:11:2022.15:55:01 EV 127.0.0.1 TCP bind on port 1222
+28:11:2022.15:55:01 EV 127.0.0.1 TCP listening
+28:11:2022.15:55:01 EV 127.0.0.1 UDP socket
+28:11:2022.15:55:01 EV 127.0.0.1 UDP bind on port 1222
+28:11:2022.16:06:45 ST 1222 20000 debug
+28:11:2022.16:06:45 EV 127.0.0.1 config-file-read dns_local/SDT1.conf
+28:11:2022.16:06:45 EV 127.0.0.1 SP db-file-read dns_local/animalia.db
+28:11:2022.16:06:45 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+28:11:2022.16:06:45 EV 127.0.0.1 TCP socket
+28:11:2022.16:06:45 EV 127.0.0.1 TCP bind on port 1222
+28:11:2022.16:06:45 EV 127.0.0.1 TCP listening
+28:11:2022.16:06:45 EV 127.0.0.1 UDP socket
+28:11:2022.16:06:45 EV 127.0.0.1 UDP bind on port 1222
+28:11:2022.16:06:45 EV 127.0.0.1 DB file for domain animalia sent to 127.0.0.1
+28:11:2022.16:19:33 ST 1222 20000 debug
+28:11:2022.16:19:33 EV 127.0.0.1 config-file-read dns_local/SDT1.conf
+28:11:2022.16:19:33 EV 127.0.0.1 SP db-file-read dns_local/animalia.db
+28:11:2022.16:19:33 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+28:11:2022.16:19:33 EV 127.0.0.1 TCP socket
+28:11:2022.16:19:33 EV 127.0.0.1 TCP bind on port 1222
+28:11:2022.16:19:33 EV 127.0.0.1 TCP listening
+28:11:2022.16:19:33 EV 127.0.0.1 UDP socket
+28:11:2022.16:19:33 EV 127.0.0.1 UDP bind on port 1222
+28:11:2022.16:19:33 EV 127.0.0.1 DB file for domain animalia sent to 127.0.0.1
+28:11:2022.16:19:33 EV 127.0.0.1 DB file for domain animalia sent to 127.0.0.1
+28:11:2022.17:11:56 ST 1222 20000 debug
+28:11:2022.17:11:56 EV 127.0.0.1 config-file-read dns_local/SDT1.conf
+28:11:2022.17:11:56 EV 127.0.0.1 SP db-file-read dns_local/animalia.db
+28:11:2022.17:11:56 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+28:11:2022.17:11:56 EV 127.0.0.1 TCP socket
+28:11:2022.17:11:56 EV 127.0.0.1 TCP bind on port 1222
+28:11:2022.17:11:56 EV 127.0.0.1 TCP listening
+28:11:2022.17:11:56 EV 127.0.0.1 UDP socket
+28:11:2022.17:11:56 EV 127.0.0.1 UDP bind on port 1222
+28:11:2022.17:12:18 RR 127.0.0.1: 19228,Q+R,0,0,0,0;embryophyta.plantae.,MX;;;
+28:11:2022.17:12:18 RP 127.0.0.1: 19228,R+A,0,0,0,0;embryophyta.plantae.,MX;;;
+28:11:2022.18:19:51 ST 1222 20000 debug
+28:11:2022.18:19:51 EV 127.0.0.1 config-file-read dns_local/SDT1.conf
+28:11:2022.18:19:51 EV 127.0.0.1 SP db-file-read dns_local/animalia.db
+28:11:2022.18:19:51 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+28:11:2022.18:19:51 EV 127.0.0.1 TCP socket
+28:11:2022.18:19:51 EV 127.0.0.1 TCP bind on port 1222
+28:11:2022.18:19:51 EV 127.0.0.1 TCP listening
+28:11:2022.18:19:51 EV 127.0.0.1 UDP socket
+28:11:2022.18:19:51 EV 127.0.0.1 UDP bind on port 1222
+28:11:2022.18:20:26 RR 127.0.0.1: 33621,Q+R,0,0,0,0;animalia.,A;;;
+28:11:2022.18:20:26 RP 127.0.0.1: 33621,R+A,0,0,0,0;animalia.,A;;;
+28:11:2022.18:21:24 RR 127.0.0.1: 65518,Q+R,0,0,0,0;animalia.,MX;;;
+28:11:2022.18:21:24 RP 127.0.0.1: 65518,R+A,0,2,2,3;animalia.,MX;animalia. MX mx2.animalia. 86400 0,animalia. MX mx1.animalia. 86400 0,;animalia. NS sdt2.animalia. 86400,animalia. NS sdt1.animalia. 86400,;mx1.animalia. A 10.2.2.1 86400,sdt2.animalia. A 10.2.2.2 86400,sdt1.animalia. A 10.2.2.1 86400,
+30:11:2022.23:12:48 ST 1222 20000 debug
+30:11:2022.23:12:48 EV 127.0.0.1 config-file-read dns_local/SDT1.conf
+30:11:2022.23:12:48 EV 127.0.0.1 SP db-file-read dns_local/animalia.db
+30:11:2022.23:12:48 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+30:11:2022.23:12:48 EV 127.0.0.1 TCP socket
+30:11:2022.23:12:48 EV 127.0.0.1 TCP bind on port 1222
+30:11:2022.23:12:48 EV 127.0.0.1 TCP listening
+30:11:2022.23:12:48 EV 127.0.0.1 UDP socket
+30:11:2022.23:12:48 EV 127.0.0.1 UDP bind on port 1222
+30:11:2022.23:13:11 RR 127.0.0.1: 38697,Q+R,0,0,0,0;animalia.,MX;;;
+30:11:2022.23:13:11 RP 127.0.0.1: 38697,R+A,0,2,2,3;animalia.,MX;animalia. MX mx2.animalia. 86400 0,animalia. MX mx1.animalia. 86400 0,;animalia. NS sdt2.animalia. 86400,animalia. NS sdt1.animalia. 86400,;mx1.animalia. A 10.2.2.1 86400,sdt2.animalia. A 10.2.2.2 86400,sdt1.animalia. A 10.2.2.1 86400,
+30:11:2022.23:15:04 ST 1222 20000 debug
+30:11:2022.23:15:04 EV 127.0.0.1 config-file-read dns_local/SDT1.conf
+30:11:2022.23:15:04 EV 127.0.0.1 SP db-file-read dns_local/animalia.db
+30:11:2022.23:15:04 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+30:11:2022.23:15:04 EV 127.0.0.1 TCP socket
+30:11:2022.23:15:04 EV 127.0.0.1 TCP bind on port 1222
+30:11:2022.23:15:04 EV 127.0.0.1 TCP listening
+30:11:2022.23:15:04 EV 127.0.0.1 UDP socket
+30:11:2022.23:15:04 EV 127.0.0.1 UDP bind on port 1222
+30:11:2022.23:15:10 RR 127.0.0.1: 41718,Q+R,0,0,0,0;animalia.,MX;;;
+30:11:2022.23:15:10 RP 127.0.0.1: 41718,R+A,0,2,2,3;animalia.,MX;animalia. MX mx2.animalia. 86400 0,animalia. MX mx1.animalia. 86400 0,;animalia. NS sdt2.animalia. 86400,animalia. NS sdt1.animalia. 86400,;mx1.animalia. A 10.2.2.1 86400,sdt2.animalia. A 10.2.2.2 86400,sdt1.animalia. A 10.2.2.1 86400,
+30:11:2022.23:17:42 ST 1222 20000 debug
+30:11:2022.23:17:42 EV 127.0.0.1 config-file-read dns_local/SDT1.conf
+30:11:2022.23:17:42 EV 127.0.0.1 SP db-file-read dns_local/animalia.db
+30:11:2022.23:17:42 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+30:11:2022.23:17:42 EV 127.0.0.1 TCP socket
+30:11:2022.23:17:42 EV 127.0.0.1 TCP bind on port 1222
+30:11:2022.23:17:42 EV 127.0.0.1 TCP listening
+30:11:2022.23:17:42 EV 127.0.0.1 UDP socket
+30:11:2022.23:17:42 EV 127.0.0.1 UDP bind on port 1222
+30:11:2022.23:17:50 RR 127.0.0.1: 58012,Q+R,0,0,0,0;animalia.,MX;;;
+30:11:2022.23:17:50 RP 127.0.0.1: 58012,R+A,0,2,2,3;animalia.,MX;animalia. MX mx2.animalia. 86400 0,animalia. MX mx1.animalia. 86400 0,;animalia. NS sdt2.animalia. 86400,animalia. NS sdt1.animalia. 86400,;mx1.animalia. A 10.2.2.1 86400,sdt2.animalia. A 10.2.2.2 86400,sdt1.animalia. A 10.2.2.1 86400,
+30:11:2022.23:57:22 ST 1222 20000 debug
+30:11:2022.23:57:22 EV 127.0.0.1 config-file-read dns_local/SDT1.conf
+30:11:2022.23:57:22 EV 127.0.0.1 SP db-file-read dns_local/animalia.db
+30:11:2022.23:57:22 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+30:11:2022.23:57:22 EV 127.0.0.1 TCP socket
+30:11:2022.23:57:22 EV 127.0.0.1 TCP bind on port 1222
+30:11:2022.23:57:22 EV 127.0.0.1 TCP listening
+30:11:2022.23:57:22 EV 127.0.0.1 UDP socket
+30:11:2022.23:57:22 EV 127.0.0.1 UDP bind on port 1222
+01:12:2022.00:01:40 ST 1222 20000 debug
+01:12:2022.00:01:40 EV 127.0.0.1 config-file-read dns_local/SDT1.conf
+01:12:2022.00:01:40 EV 127.0.0.1 SP db-file-read dns_local/animalia.db
+01:12:2022.00:01:40 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+01:12:2022.00:01:40 EV 127.0.0.1 TCP socket
+01:12:2022.00:01:40 EV 127.0.0.1 TCP bind on port 1222
+01:12:2022.00:01:40 EV 127.0.0.1 TCP listening
+01:12:2022.00:01:40 EV 127.0.0.1 UDP socket
+01:12:2022.00:01:40 EV 127.0.0.1 UDP bind on port 1222
+01:12:2022.00:08:35 ST 1222 20000 debug
+01:12:2022.00:08:35 EV 127.0.0.1 config-file-read dns_local/SDT1.conf
+01:12:2022.00:08:35 EV 127.0.0.1 SP db-file-read dns_local/animalia.db
+01:12:2022.00:08:35 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+01:12:2022.00:08:35 EV 127.0.0.1 TCP socket
+01:12:2022.00:08:35 EV 127.0.0.1 TCP bind on port 1222
+01:12:2022.00:08:35 EV 127.0.0.1 TCP listening
+01:12:2022.00:08:35 EV 127.0.0.1 UDP socket
+01:12:2022.00:08:35 EV 127.0.0.1 UDP bind on port 1222
+01:12:2022.00:09:14 ST 1222 20000 debug
+01:12:2022.00:09:14 EV 127.0.0.1 config-file-read dns_local/SDT1.conf
+01:12:2022.00:09:14 EV 127.0.0.1 SP db-file-read dns_local/animalia.db
+01:12:2022.00:09:14 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+01:12:2022.00:09:14 EV 127.0.0.1 TCP socket
+01:12:2022.00:09:14 EV 127.0.0.1 TCP bind on port 1222
+01:12:2022.00:09:14 EV 127.0.0.1 TCP listening
+01:12:2022.00:09:14 EV 127.0.0.1 UDP socket
+01:12:2022.00:09:14 EV 127.0.0.1 UDP bind on port 1222
+01:12:2022.00:23:38 ST 1222 20000 debug
+01:12:2022.00:23:38 EV 127.0.0.1 config-file-read dns_local/SDT1.conf
+01:12:2022.00:23:38 EV 127.0.0.1 SP db-file-read dns_local/animalia.db
+01:12:2022.00:23:38 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+01:12:2022.00:23:38 EV 127.0.0.1 TCP socket
+01:12:2022.00:23:38 EV 127.0.0.1 TCP bind on port 1222
+01:12:2022.00:23:38 EV 127.0.0.1 TCP listening
+01:12:2022.00:23:38 EV 127.0.0.1 UDP socket
+01:12:2022.00:23:38 EV 127.0.0.1 UDP bind on port 1222
+01:12:2022.00:25:56 ST 1222 20000 debug
+01:12:2022.00:25:56 EV 127.0.0.1 config-file-read dns_local/SDT1.conf
+01:12:2022.00:25:56 EV 127.0.0.1 SP db-file-read dns_local/animalia.db
+01:12:2022.00:25:56 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+01:12:2022.00:25:56 EV 127.0.0.1 TCP socket
+01:12:2022.00:25:56 EV 127.0.0.1 TCP bind on port 1222
+01:12:2022.00:25:56 EV 127.0.0.1 TCP listening
+01:12:2022.00:25:56 EV 127.0.0.1 UDP socket
+01:12:2022.00:25:56 EV 127.0.0.1 UDP bind on port 1222
+01:12:2022.00:29:58 ST 1222 20000 debug
+01:12:2022.00:29:58 EV 127.0.0.1 config-file-read dns_local/SDT1.conf
+01:12:2022.00:29:58 EV 127.0.0.1 SP db-file-read dns_local/animalia.db
+01:12:2022.00:29:58 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+01:12:2022.00:29:58 EV 127.0.0.1 TCP socket
+01:12:2022.00:29:58 EV 127.0.0.1 TCP bind on port 1222
+01:12:2022.00:29:58 EV 127.0.0.1 TCP listening
+01:12:2022.00:29:58 EV 127.0.0.1 UDP socket
+01:12:2022.00:29:58 EV 127.0.0.1 UDP bind on port 1222
+01:12:2022.00:32:35 ST 1222 20000 debug
+01:12:2022.00:32:35 EV 127.0.0.1 config-file-read dns_local/SDT1.conf
+01:12:2022.00:32:35 EV 127.0.0.1 SP db-file-read dns_local/animalia.db
+01:12:2022.00:32:35 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+01:12:2022.00:32:35 EV 127.0.0.1 TCP socket
+01:12:2022.00:32:35 EV 127.0.0.1 TCP bind on port 1222
+01:12:2022.00:32:35 EV 127.0.0.1 TCP listening
+01:12:2022.00:32:35 EV 127.0.0.1 UDP socket
+01:12:2022.00:32:35 EV 127.0.0.1 UDP bind on port 1222
+01:12:2022.00:32:35 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1
+01:12:2022.00:32:35 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1
+01:12:2022.01:33:30 ST 1222 20000 debug
+01:12:2022.01:33:30 EV 127.0.0.1 config-file-read dns_local/SDT1.conf
+01:12:2022.01:33:30 EV 127.0.0.1 SP db-file-read dns_local/animalia.db
+01:12:2022.01:33:30 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+01:12:2022.01:33:30 EV 127.0.0.1 TCP socket
+01:12:2022.01:33:30 EV 127.0.0.1 TCP bind on port 1222
+01:12:2022.01:33:30 EV 127.0.0.1 TCP listening
+01:12:2022.01:33:30 EV 127.0.0.1 UDP socket
+01:12:2022.01:33:30 EV 127.0.0.1 UDP bind on port 1222
+01:12:2022.01:33:31 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1
+01:12:2022.01:33:32 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1
+01:12:2022.01:33:33 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1
+01:12:2022.01:33:34 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1
+01:12:2022.01:33:35 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1
+01:12:2022.01:33:36 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1
+01:12:2022.01:33:37 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1
+01:12:2022.01:33:38 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1
+01:12:2022.01:33:39 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1
+01:12:2022.01:33:40 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1
+01:12:2022.01:33:41 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1
+01:12:2022.01:33:42 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1
+01:12:2022.01:33:43 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1
+01:12:2022.01:33:44 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1
+01:12:2022.01:33:45 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1
+01:12:2022.01:33:46 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1
+01:12:2022.01:33:47 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1
+01:12:2022.01:33:48 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1
+01:12:2022.01:33:49 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1
+01:12:2022.01:33:50 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1
+01:12:2022.01:33:51 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1
+01:12:2022.01:33:52 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1
+01:12:2022.01:33:53 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1
+01:12:2022.01:33:54 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1
+01:12:2022.01:33:55 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1
+01:12:2022.01:33:56 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1
+01:12:2022.01:33:57 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1
+01:12:2022.01:33:58 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1
+01:12:2022.01:33:59 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1
+01:12:2022.01:34:00 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1
+01:12:2022.01:34:01 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1
+01:12:2022.01:34:02 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1
+01:12:2022.01:34:03 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1
+01:12:2022.01:34:04 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1
+01:12:2022.01:34:05 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1
+01:12:2022.01:34:06 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1
+01:12:2022.01:34:07 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1
+01:12:2022.01:34:08 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1
+01:12:2022.01:34:09 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1
+01:12:2022.01:34:10 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1
+01:12:2022.01:34:11 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1
+01:12:2022.01:34:12 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1
+01:12:2022.01:34:13 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1
+01:12:2022.01:37:18 ST 1222 20000 debug
+01:12:2022.01:37:18 EV 127.0.0.1 config-file-read dns_local/SDT1.conf
+01:12:2022.01:37:18 EV 127.0.0.1 SP db-file-read dns_local/animalia.db
+01:12:2022.01:37:18 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+01:12:2022.01:37:18 EV 127.0.0.1 TCP socket
+01:12:2022.01:37:18 EV 127.0.0.1 TCP bind on port 1222
+01:12:2022.01:37:18 EV 127.0.0.1 TCP listening
+01:12:2022.01:37:18 EV 127.0.0.1 UDP socket
+01:12:2022.01:37:18 EV 127.0.0.1 UDP bind on port 1222
+01:12:2022.01:37:18 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1
+02:12:2022.23:45:44 ST 1222 20000 debug
+02:12:2022.23:45:44 EV 127.0.0.1 config-file-read dns_local/SDT1.conf
+02:12:2022.23:45:44 EV 127.0.0.1 SP db-file-read dns_local/animalia.db
+02:12:2022.23:45:44 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+02:12:2022.23:45:44 EV 127.0.0.1 TCP socket
+02:12:2022.23:45:44 EV 127.0.0.1 TCP bind on port 1222
+02:12:2022.23:45:44 EV 127.0.0.1 TCP listening
+02:12:2022.23:45:44 EV 127.0.0.1 UDP socket
+02:12:2022.23:45:44 EV 127.0.0.1 UDP bind on port 1222
+02:12:2022.23:45:47 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1
+30:12:2022.15:08:12 ST 1222 20000 debug
+30:12:2022.15:08:12 EV 127.0.0.1 config-file-read dns_local/SDT1.conf
+30:12:2022.15:08:12 EV 127.0.0.1 SP db-file-read dns_local/animalia.db
+30:12:2022.15:08:12 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+30:12:2022.15:08:12 EV 127.0.0.1 TCP socket
+30:12:2022.15:08:12 EV 127.0.0.1 TCP bind on port 1222
+30:12:2022.15:08:12 EV 127.0.0.1 TCP listening
+30:12:2022.15:08:12 EV 127.0.0.1 UDP socket
+30:12:2022.15:08:12 EV 127.0.0.1 UDP bind on port 1222
+30:12:2022.15:08:16 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1
+30:12:2022.15:08:16 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1
+30:12:2022.18:21:42 ST 1222 20000 debug
+30:12:2022.18:21:42 EV 127.0.0.1 config-file-read dns_local/SDT1.conf
+30:12:2022.18:21:42 EV 127.0.0.1 SP db-file-read dns_local/animalia.db
+30:12:2022.18:21:42 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+30:12:2022.18:21:42 EV 127.0.0.1 TCP socket
+30:12:2022.18:21:42 EV 127.0.0.1 TCP bind on port 1222
+30:12:2022.18:21:42 EV 127.0.0.1 TCP listening
+30:12:2022.18:21:42 EV 127.0.0.1 UDP socket
+30:12:2022.18:21:42 EV 127.0.0.1 UDP bind on port 1222
+30:12:2022.18:21:46 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1 not made due to version 23434523
+30:12:2022.18:21:46 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1 not made due to version 23434523
+30:12:2022.18:25:12 ST 1222 20000 debug
+30:12:2022.18:25:12 EV 127.0.0.1 config-file-read dns_local/SDT1.conf
+30:12:2022.18:25:12 EV 127.0.0.1 SP db-file-read dns_local/animalia.db
+30:12:2022.18:25:12 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+30:12:2022.18:25:12 EV 127.0.0.1 TCP socket
+30:12:2022.18:25:12 EV 127.0.0.1 TCP bind on port 1222
+30:12:2022.18:25:12 EV 127.0.0.1 TCP listening
+30:12:2022.18:25:12 EV 127.0.0.1 UDP socket
+30:12:2022.18:25:12 EV 127.0.0.1 UDP bind on port 1222
+30:12:2022.18:25:42 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1 not made due to version 23434523
+30:12:2022.18:26:19 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1 not made due to version 23434523
+30:12:2022.18:30:39 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1 not made due to version 23434523
+30:12:2022.18:31:55 ST 1222 20000 debug
+30:12:2022.18:31:55 EV 127.0.0.1 config-file-read dns_local/SDT1.conf
+30:12:2022.18:31:55 EV 127.0.0.1 SP db-file-read dns_local/animalia.db
+30:12:2022.18:31:55 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+30:12:2022.18:31:55 EV 127.0.0.1 TCP socket
+30:12:2022.18:31:55 EV 127.0.0.1 TCP bind on port 1222
+30:12:2022.18:31:55 EV 127.0.0.1 TCP listening
+30:12:2022.18:31:55 EV 127.0.0.1 UDP socket
+30:12:2022.18:31:55 EV 127.0.0.1 UDP bind on port 1222
+30:12:2022.18:33:54 ST 1222 20000 debug
+30:12:2022.18:33:54 EV 127.0.0.1 config-file-read dns_local/SDT1.conf
+30:12:2022.18:33:54 EV 127.0.0.1 SP db-file-read dns_local/animalia.db
+30:12:2022.18:33:54 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+30:12:2022.18:33:54 EV 127.0.0.1 TCP socket
+30:12:2022.18:33:54 EV 127.0.0.1 TCP bind on port 1222
+30:12:2022.18:33:54 EV 127.0.0.1 TCP listening
+30:12:2022.18:33:54 EV 127.0.0.1 UDP socket
+30:12:2022.18:33:54 EV 127.0.0.1 UDP bind on port 1222
+30:12:2022.18:35:08 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1 not made due to version 23434523
+30:12:2022.18:35:22 ST 1222 20000 debug
+30:12:2022.18:35:22 EV 127.0.0.1 config-file-read dns_local/SDT1.conf
+30:12:2022.18:35:22 EV 127.0.0.1 SP db-file-read dns_local/animalia.db
+30:12:2022.18:35:22 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+30:12:2022.18:35:22 EV 127.0.0.1 TCP socket
+30:12:2022.18:35:22 EV 127.0.0.1 TCP bind on port 1222
+30:12:2022.18:35:22 EV 127.0.0.1 TCP listening
+30:12:2022.18:35:22 EV 127.0.0.1 UDP socket
+30:12:2022.18:35:22 EV 127.0.0.1 UDP bind on port 1222
+30:12:2022.18:36:13 ST 1222 20000 debug
+30:12:2022.18:36:13 EV 127.0.0.1 config-file-read dns_local/SDT1.conf
+30:12:2022.18:36:13 EV 127.0.0.1 SP db-file-read dns_local/animalia.db
+30:12:2022.18:36:13 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+30:12:2022.18:36:13 EV 127.0.0.1 TCP socket
+30:12:2022.18:36:13 EV 127.0.0.1 TCP bind on port 1222
+30:12:2022.18:36:13 EV 127.0.0.1 TCP listening
+30:12:2022.18:36:13 EV 127.0.0.1 UDP socket
+30:12:2022.18:36:13 EV 127.0.0.1 UDP bind on port 1222
+30:12:2022.18:37:35 ST 1222 20000 debug
+30:12:2022.18:37:35 EV 127.0.0.1 config-file-read dns_local/SDT1.conf
+30:12:2022.18:37:35 EV 127.0.0.1 SP db-file-read dns_local/animalia.db
+30:12:2022.18:37:35 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+30:12:2022.18:37:35 EV 127.0.0.1 TCP socket
+30:12:2022.18:37:35 EV 127.0.0.1 TCP bind on port 1222
+30:12:2022.18:37:35 EV 127.0.0.1 TCP listening
+30:12:2022.18:37:35 EV 127.0.0.1 UDP socket
+30:12:2022.18:37:35 EV 127.0.0.1 UDP bind on port 1222
+30:12:2022.18:38:45 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1 not made due to version 23434523
+30:12:2022.18:39:41 ST 1222 20000 debug
+30:12:2022.18:39:41 EV 127.0.0.1 config-file-read dns_local/SDT1.conf
+30:12:2022.18:39:41 EV 127.0.0.1 SP db-file-read dns_local/animalia.db
+30:12:2022.18:39:41 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+30:12:2022.18:39:41 EV 127.0.0.1 TCP socket
+30:12:2022.18:39:41 EV 127.0.0.1 TCP bind on port 1222
+30:12:2022.18:39:41 EV 127.0.0.1 TCP listening
+30:12:2022.18:39:41 EV 127.0.0.1 UDP socket
+30:12:2022.18:39:41 EV 127.0.0.1 UDP bind on port 1222
+30:12:2022.18:41:26 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1 not made due to version 23434523
+30:12:2022.18:42:50 ST 1222 20000 debug
+30:12:2022.18:42:50 EV 127.0.0.1 config-file-read dns_local/SDT1.conf
+30:12:2022.18:42:50 EV 127.0.0.1 SP db-file-read dns_local/animalia.db
+30:12:2022.18:42:50 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+30:12:2022.18:42:50 EV 127.0.0.1 TCP socket
+30:12:2022.18:42:50 EV 127.0.0.1 TCP bind on port 1222
+30:12:2022.18:42:50 EV 127.0.0.1 TCP listening
+30:12:2022.18:42:50 EV 127.0.0.1 UDP socket
+30:12:2022.18:42:50 EV 127.0.0.1 UDP bind on port 1222
+30:12:2022.18:43:25 ST 1222 20000 debug
+30:12:2022.18:43:25 EV 127.0.0.1 config-file-read dns_local/SDT1.conf
+30:12:2022.18:43:25 EV 127.0.0.1 SP db-file-read dns_local/animalia.db
+30:12:2022.18:43:25 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+30:12:2022.18:43:25 EV 127.0.0.1 TCP socket
+30:12:2022.18:43:25 EV 127.0.0.1 TCP bind on port 1222
+30:12:2022.18:43:25 EV 127.0.0.1 TCP listening
+30:12:2022.18:43:25 EV 127.0.0.1 UDP socket
+30:12:2022.18:43:25 EV 127.0.0.1 UDP bind on port 1222
+30:12:2022.18:43:27 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1
+30:12:2022.18:55:00 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1
+30:12:2022.18:56:39 ST 1222 20000 debug
+30:12:2022.18:56:39 EV 127.0.0.1 config-file-read dns_local/SDT1.conf
+30:12:2022.18:56:39 EV 127.0.0.1 SP db-file-read dns_local/animalia.db
+30:12:2022.18:56:39 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+30:12:2022.18:56:39 EV 127.0.0.1 TCP socket
+30:12:2022.18:56:39 EV 127.0.0.1 TCP bind on port 1222
+30:12:2022.18:56:39 EV 127.0.0.1 TCP listening
+30:12:2022.18:56:39 EV 127.0.0.1 UDP socket
+30:12:2022.18:56:39 EV 127.0.0.1 UDP bind on port 1222
+30:12:2022.19:01:16 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1
+30:12:2022.19:01:23 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1
+30:12:2022.19:01:30 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1
+30:12:2022.19:01:37 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1
+30:12:2022.19:01:44 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1
+30:12:2022.19:01:51 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1
+30:12:2022.19:04:03 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1 not made due to version 23434523
+30:12:2022.19:06:09 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1 not made due to version 23434523
+30:12:2022.19:06:56 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1
+30:12:2022.19:07:03 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1 not made due to version 23434523
+30:12:2022.19:07:10 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1 not made due to version 23434523
+30:12:2022.19:07:17 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1 not made due to version 23434523
+30:12:2022.19:07:24 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1 not made due to version 23434523
+30:12:2022.19:07:31 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1 not made due to version 23434523
+30:12:2022.19:07:38 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1 not made due to version 23434523
+30:12:2022.19:09:12 ST 1222 20000 debug
+30:12:2022.19:09:12 EV 127.0.0.1 config-file-read dns_local/SDT1.conf
+30:12:2022.19:09:12 EV 127.0.0.1 SP db-file-read dns_local/animalia.db
+30:12:2022.19:09:12 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+30:12:2022.19:09:12 EV 127.0.0.1 TCP socket
+30:12:2022.19:09:12 EV 127.0.0.1 TCP bind on port 1222
+30:12:2022.19:09:12 EV 127.0.0.1 TCP listening
+30:12:2022.19:09:12 EV 127.0.0.1 UDP socket
+30:12:2022.19:09:12 EV 127.0.0.1 UDP bind on port 1222
+30:12:2022.19:09:15 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1
+30:12:2022.19:09:22 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1 not made due to version 23434523
+30:12:2022.19:09:29 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1 not made due to version 23434523
+30:12:2022.19:09:36 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1 not made due to version 23434523
+30:12:2022.19:09:43 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1 not made due to version 23434523
+30:12:2022.19:09:50 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1 not made due to version 23434523
+30:12:2022.19:09:57 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1 not made due to version 23434523
+30:12:2022.19:10:04 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1 not made due to version 23434523
+30:12:2022.19:10:11 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1 not made due to version 23434523
+30:12:2022.19:10:18 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1 not made due to version 23434523
+30:12:2022.19:10:25 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1 not made due to version 23434523
+30:12:2022.19:11:04 ST 1222 20000 debug
+30:12:2022.19:11:04 EV 127.0.0.1 config-file-read dns_local/SDT1.conf
+30:12:2022.19:11:04 EV 127.0.0.1 SP db-file-read dns_local/animalia.db
+30:12:2022.19:11:04 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+30:12:2022.19:11:04 EV 127.0.0.1 TCP socket
+30:12:2022.19:11:04 EV 127.0.0.1 TCP bind on port 1222
+30:12:2022.19:11:04 EV 127.0.0.1 TCP listening
+30:12:2022.19:11:04 EV 127.0.0.1 UDP socket
+30:12:2022.19:11:04 EV 127.0.0.1 UDP bind on port 1222
+30:12:2022.19:11:07 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1
+30:12:2022.19:11:22 ST 1222 20000 debug
+30:12:2022.19:11:22 EV 127.0.0.1 config-file-read dns_local/SDT1.conf
+30:12:2022.19:11:22 EV 127.0.0.1 SP db-file-read dns_local/animalia.db
+30:12:2022.19:11:22 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+30:12:2022.19:11:22 EV 127.0.0.1 TCP socket
+30:12:2022.19:11:22 EV 127.0.0.1 TCP bind on port 1222
+30:12:2022.19:11:22 EV 127.0.0.1 TCP listening
+30:12:2022.19:11:22 EV 127.0.0.1 UDP socket
+30:12:2022.19:11:22 EV 127.0.0.1 UDP bind on port 1222
+30:12:2022.19:11:36 ST 1222 20000 debug
+30:12:2022.19:11:36 EV 127.0.0.1 config-file-read dns_local/SDT1.conf
+30:12:2022.19:11:36 EV 127.0.0.1 SP db-file-read dns_local/animalia.db
+30:12:2022.19:11:36 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+30:12:2022.19:11:36 EV 127.0.0.1 TCP socket
+30:12:2022.19:11:36 EV 127.0.0.1 TCP bind on port 1222
+30:12:2022.19:11:36 EV 127.0.0.1 TCP listening
+30:12:2022.19:11:36 EV 127.0.0.1 UDP socket
+30:12:2022.19:11:36 EV 127.0.0.1 UDP bind on port 1222
+30:12:2022.19:11:53 ST 1222 20000 debug
+30:12:2022.19:11:53 EV 127.0.0.1 config-file-read dns_local/SDT1.conf
+30:12:2022.19:11:53 EV 127.0.0.1 SP db-file-read dns_local/animalia.db
+30:12:2022.19:11:53 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+30:12:2022.19:11:53 EV 127.0.0.1 TCP socket
+30:12:2022.19:11:53 EV 127.0.0.1 TCP bind on port 1222
+30:12:2022.19:11:53 EV 127.0.0.1 TCP listening
+30:12:2022.19:11:53 EV 127.0.0.1 UDP socket
+30:12:2022.19:11:53 EV 127.0.0.1 UDP bind on port 1222
+30:12:2022.19:12:38 ST 1222 20000 debug
+30:12:2022.19:12:38 EV 127.0.0.1 config-file-read dns_local/SDT1.conf
+30:12:2022.19:12:38 EV 127.0.0.1 SP db-file-read dns_local/animalia.db
+30:12:2022.19:12:38 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+30:12:2022.19:12:38 EV 127.0.0.1 TCP socket
+30:12:2022.19:12:38 EV 127.0.0.1 TCP bind on port 1222
+30:12:2022.19:12:38 EV 127.0.0.1 TCP listening
+30:12:2022.19:12:38 EV 127.0.0.1 UDP socket
+30:12:2022.19:12:38 EV 127.0.0.1 UDP bind on port 1222
+30:12:2022.19:12:38 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1 not made due to version 23434524
+30:12:2022.19:12:45 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1 not made due to version 23434524
+30:12:2022.19:12:52 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1 not made due to version 23434524
+30:12:2022.19:12:59 ZT 127.0.0.1 Domain animalia transfer to 127.0.0.1 not made due to version 23434524
+30:12:2022.22:27:07 ST 1222 20000 debug
+30:12:2022.22:27:07 EV 127.0.0.1 config-file-read dns_local/SDT1.conf
+30:12:2022.22:27:07 EV 127.0.0.1 SP db-file-read dns_local/animalia.db
+30:12:2022.22:27:07 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+30:12:2022.22:27:07 EV 127.0.0.1 TCP socket
+30:12:2022.22:27:07 EV 127.0.0.1 TCP bind on port 1222
+30:12:2022.22:27:07 EV 127.0.0.1 TCP listening
+30:12:2022.22:27:07 EV 127.0.0.1 UDP socket
+30:12:2022.22:27:07 EV 127.0.0.1 UDP bind on port 1222
+30:12:2022.22:29:46 ST 1222 20000 debug
+30:12:2022.22:29:46 EV 127.0.0.1 config-file-read dns_local/SDT1.conf
+30:12:2022.22:29:46 EV 127.0.0.1 SP db-file-read dns_local/animalia.db
+30:12:2022.22:29:46 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+30:12:2022.22:29:46 EV 127.0.0.1 TCP socket
+30:12:2022.22:29:46 EV 127.0.0.1 TCP bind on port 1222
+30:12:2022.22:29:46 EV 127.0.0.1 TCP listening
+30:12:2022.22:29:46 EV 127.0.0.1 UDP socket
+30:12:2022.22:29:46 EV 127.0.0.1 UDP bind on port 1222
+30:12:2022.22:31:50 ST 1222 20000 debug
+30:12:2022.22:31:50 EV 127.0.0.1 config-file-read dns_local/SDT1.conf
+30:12:2022.22:31:50 EV 127.0.0.1 SP db-file-read dns_local/animalia.db
+30:12:2022.22:31:50 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+30:12:2022.22:31:50 EV 127.0.0.1 TCP socket
+30:12:2022.22:31:50 EV 127.0.0.1 TCP bind on port 1222
+30:12:2022.22:31:50 EV 127.0.0.1 TCP listening
+30:12:2022.22:31:50 EV 127.0.0.1 UDP socket
+30:12:2022.22:31:50 EV 127.0.0.1 UDP bind on port 1222
+30:12:2022.22:34:53 ST 1234 20000 debug
+30:12:2022.22:34:53 EV 127.0.0.1 config-file-read dns_local/SDT1.conf
+30:12:2022.22:34:53 EV 127.0.0.1 SP db-file-read dns_local/animalia.db
+30:12:2022.22:34:53 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+30:12:2022.22:34:53 EV 127.0.0.1 TCP socket
+30:12:2022.22:34:53 EV 127.0.0.1 TCP bind on port 1234
+30:12:2022.22:34:53 EV 127.0.0.1 TCP listening
+30:12:2022.22:34:53 EV 127.0.0.1 UDP socket
+30:12:2022.22:34:53 EV 127.0.0.1 UDP bind on port 1234
+30:12:2022.22:35:24 ST 1222 20000 debug
+30:12:2022.22:35:24 EV 127.0.0.1 config-file-read dns_local/SDT1.conf
+30:12:2022.22:35:24 EV 127.0.0.1 SP db-file-read dns_local/animalia.db
+30:12:2022.22:35:24 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+30:12:2022.22:35:24 EV 127.0.0.1 TCP socket
+30:12:2022.22:35:24 EV 127.0.0.1 TCP bind on port 1222
+30:12:2022.22:35:24 EV 127.0.0.1 TCP listening
+30:12:2022.22:35:24 EV 127.0.0.1 UDP socket
+30:12:2022.22:35:24 EV 127.0.0.1 UDP bind on port 1222
+30:12:2022.22:48:21 ST 1222 20000 debug
+30:12:2022.22:48:21 EV 127.0.0.1 config-file-read dns_local/SDT1.conf
+30:12:2022.22:48:21 EV 127.0.0.1 SP db-file-read dns_local/animalia.db
+30:12:2022.22:48:21 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+30:12:2022.22:48:21 EV 127.0.0.1 TCP socket
+30:12:2022.22:48:21 EV 127.0.0.1 TCP bind on port 1222
+30:12:2022.22:48:21 EV 127.0.0.1 TCP listening
+30:12:2022.22:48:21 EV 127.0.0.1 UDP socket
+30:12:2022.22:48:21 EV 127.0.0.1 UDP bind on port 1222
+30:12:2022.22:50:52 ST 1222 20000 debug
+30:12:2022.22:50:52 EV 127.0.0.1 config-file-read dns_local/SDT1.conf
+30:12:2022.22:50:52 EV 127.0.0.1 SP db-file-read dns_local/animalia.db
+30:12:2022.22:50:52 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+30:12:2022.22:50:52 EV 127.0.0.1 TCP socket
+30:12:2022.22:50:52 EV 127.0.0.1 TCP bind on port 1222
+30:12:2022.22:50:52 EV 127.0.0.1 TCP listening
+30:12:2022.22:50:52 EV 127.0.0.1 UDP socket
+30:12:2022.22:50:52 EV 127.0.0.1 UDP bind on port 1222
+30:12:2022.23:04:48 ST 1222 20000 debug
+30:12:2022.23:04:48 EV 127.0.0.1 config-file-read dns_local/SDT1.conf
+30:12:2022.23:04:48 EV 127.0.0.1 SP db-file-read dns_local/animalia.db
+30:12:2022.23:04:48 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+30:12:2022.23:04:48 EV 127.0.0.1 TCP socket
+30:12:2022.23:04:48 EV 127.0.0.1 TCP bind on port 1222
+30:12:2022.23:04:48 EV 127.0.0.1 TCP listening
+30:12:2022.23:04:48 EV 127.0.0.1 UDP socket
+30:12:2022.23:04:48 EV 127.0.0.1 UDP bind on port 1222
+30:12:2022.23:06:03 ST 1222 20000 debug
+30:12:2022.23:06:03 EV 127.0.0.1 config-file-read dns_local/SDT1.conf
+30:12:2022.23:06:03 EV 127.0.0.1 SP db-file-read dns_local/animalia.db
+30:12:2022.23:06:03 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+30:12:2022.23:06:03 EV 127.0.0.1 TCP socket
+30:12:2022.23:06:03 EV 127.0.0.1 TCP bind on port 1222
+30:12:2022.23:06:03 EV 127.0.0.1 TCP listening
+30:12:2022.23:06:03 EV 127.0.0.1 UDP socket
+30:12:2022.23:06:03 EV 127.0.0.1 UDP bind on port 1222
+30:12:2022.23:10:11 ST 1222 20000 debug
+30:12:2022.23:10:11 EV 127.0.0.1 config-file-read dns_local/SDT1.conf
+30:12:2022.23:10:11 EV 127.0.0.1 SP db-file-read dns_local/animalia.db
+30:12:2022.23:10:11 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+30:12:2022.23:10:11 EV 127.0.0.1 TCP socket
+30:12:2022.23:10:11 EV 127.0.0.1 TCP bind on port 1222
+30:12:2022.23:10:11 EV 127.0.0.1 TCP listening
+30:12:2022.23:10:11 EV 127.0.0.1 UDP socket
+30:12:2022.23:10:11 EV 127.0.0.1 UDP bind on port 1222
+30:12:2022.23:16:18 ST 1222 20000 debug
+30:12:2022.23:16:18 EV 127.0.0.1 config-file-read dns_local/SDT1.conf
+30:12:2022.23:16:18 EV 127.0.0.1 SP db-file-read dns_local/animalia.db
+30:12:2022.23:16:18 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+30:12:2022.23:16:18 EV 127.0.0.1 TCP socket
+30:12:2022.23:16:18 EV 127.0.0.1 TCP bind on port 1222
+30:12:2022.23:16:18 EV 127.0.0.1 TCP listening
+30:12:2022.23:16:18 EV 127.0.0.1 UDP socket
+30:12:2022.23:16:18 EV 127.0.0.1 UDP bind on port 1222
+30:12:2022.23:18:39 ST 1222 20000 debug
+30:12:2022.23:18:39 EV 127.0.0.1 config-file-read dns_local/SDT1.conf
+30:12:2022.23:18:39 EV 127.0.0.1 SP db-file-read dns_local/animalia.db
+30:12:2022.23:18:39 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+30:12:2022.23:18:39 EV 127.0.0.1 TCP socket
+30:12:2022.23:18:39 EV 127.0.0.1 TCP bind on port 1222
+30:12:2022.23:18:39 EV 127.0.0.1 TCP listening
+30:12:2022.23:18:39 EV 127.0.0.1 UDP socket
+30:12:2022.23:18:39 EV 127.0.0.1 UDP bind on port 1222
+30:12:2022.23:19:12 ST 1222 20000 debug
+30:12:2022.23:19:12 EV 127.0.0.1 config-file-read dns_local/SDT1.conf
+30:12:2022.23:19:12 EV 127.0.0.1 SP db-file-read dns_local/animalia.db
+30:12:2022.23:19:12 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+30:12:2022.23:19:12 EV 127.0.0.1 TCP socket
+30:12:2022.23:19:12 EV 127.0.0.1 TCP bind on port 1222
+30:12:2022.23:19:12 EV 127.0.0.1 TCP listening
+30:12:2022.23:19:12 EV 127.0.0.1 UDP socket
+30:12:2022.23:19:12 EV 127.0.0.1 UDP bind on port 1222
+02:01:2023.00:12:24 ST 1222 20000 debug
+02:01:2023.00:12:24 EV 127.0.0.1 config-file-read dns_local/SDT1.conf
+02:01:2023.00:12:24 EV 127.0.0.1 SP db-file-read dns_local/animalia.db
+02:01:2023.00:12:24 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+02:01:2023.00:12:24 EV 127.0.0.1 TCP socket
+02:01:2023.00:12:24 EV 127.0.0.1 TCP bind on port 1222
+02:01:2023.00:12:24 EV 127.0.0.1 TCP listening
+02:01:2023.00:12:24 EV 127.0.0.1 UDP socket
+02:01:2023.00:12:24 EV 127.0.0.1 UDP bind on port 1222
+02:01:2023.11:30:15 ST 1222 20000 debug
+02:01:2023.11:30:15 EV 127.0.0.1 config-file-read dns_local/SDT1.conf
+02:01:2023.11:30:15 EV 127.0.0.1 SP db-file-read dns_local/animalia.db
+02:01:2023.11:30:15 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+02:01:2023.11:30:15 EV 127.0.0.1 TCP socket
+02:01:2023.11:30:15 EV 127.0.0.1 TCP bind on port 1222
+02:01:2023.11:30:15 EV 127.0.0.1 TCP listening
+02:01:2023.11:30:15 EV 127.0.0.1 UDP socket
+02:01:2023.11:30:15 EV 127.0.0.1 UDP bind on port 1222
+02:01:2023.11:47:25 ST 1222 20000 debug
+02:01:2023.11:47:25 EV 127.0.0.1 config-file-read dns_local/SDT1.conf
+02:01:2023.11:47:25 EV 127.0.0.1 SP db-file-read dns_local/animalia.db
+02:01:2023.11:47:25 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+02:01:2023.11:47:25 EV 127.0.0.1 TCP socket
+02:01:2023.11:47:25 EV 127.0.0.1 TCP bind on port 1222
+02:01:2023.11:47:25 EV 127.0.0.1 TCP listening
+02:01:2023.11:47:25 EV 127.0.0.1 UDP socket
+02:01:2023.11:47:25 EV 127.0.0.1 UDP bind on port 1222
+02:01:2023.14:25:26 ST 1222 20000 debug
+02:01:2023.14:25:26 EV 127.0.0.1 config-file-read dns_local/SDT1.conf
+02:01:2023.14:25:26 EV 127.0.0.1 SP db-file-read dns_local/animalia.db
+02:01:2023.14:25:26 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+02:01:2023.14:25:26 EV 127.0.0.1 TCP socket
+02:01:2023.14:25:26 EV 127.0.0.1 TCP bind on port 1222
+02:01:2023.14:25:26 EV 127.0.0.1 TCP listening
+02:01:2023.14:25:26 EV 127.0.0.1 UDP socket
+02:01:2023.14:25:26 EV 127.0.0.1 UDP bind on port 1222
+02:01:2023.15:13:13 ST 1222 20000 debug
+02:01:2023.15:13:13 EV 127.0.0.1 config-file-read dns_local/SDT1.conf
+02:01:2023.15:13:13 EV 127.0.0.1 SP db-file-read dns_local/animalia.db
+02:01:2023.15:13:13 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+02:01:2023.15:13:13 EV 127.0.0.1 TCP socket
+02:01:2023.15:13:13 EV 127.0.0.1 TCP bind on port 1222
+02:01:2023.15:13:13 EV 127.0.0.1 TCP listening
+02:01:2023.15:13:13 EV 127.0.0.1 UDP socket
+02:01:2023.15:13:13 EV 127.0.0.1 UDP bind on port 1222
+02:01:2023.15:13:47 ST 1222 20000 debug
+02:01:2023.15:13:47 EV 127.0.0.1 config-file-read dns_local/SDT1.conf
+02:01:2023.15:13:47 EV 127.0.0.1 SP db-file-read dns_local/animalia.db
+02:01:2023.15:13:47 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+02:01:2023.15:13:47 EV 127.0.0.1 TCP socket
+02:01:2023.15:13:47 EV 127.0.0.1 TCP bind on port 1222
+02:01:2023.15:13:47 EV 127.0.0.1 TCP listening
+02:01:2023.15:13:47 EV 127.0.0.1 UDP socket
+02:01:2023.15:13:47 EV 127.0.0.1 UDP bind on port 1222
+02:01:2023.15:15:21 ST 1222 20000 debug
+02:01:2023.15:15:21 EV 127.0.0.1 config-file-read dns_local/SDT1.conf
+02:01:2023.15:15:21 EV 127.0.0.1 SP db-file-read dns_local/animalia.db
+02:01:2023.15:15:21 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+02:01:2023.15:15:21 EV 127.0.0.1 TCP socket
+02:01:2023.15:15:21 EV 127.0.0.1 TCP bind on port 1222
+02:01:2023.15:15:21 EV 127.0.0.1 TCP listening
+02:01:2023.15:15:21 EV 127.0.0.1 UDP socket
+02:01:2023.15:15:21 EV 127.0.0.1 UDP bind on port 1222
+02:01:2023.15:16:06 ST 1222 20000 debug
+02:01:2023.15:16:06 EV 127.0.0.1 config-file-read dns_local/SDT1.conf
+02:01:2023.15:16:06 EV 127.0.0.1 SP db-file-read dns_local/animalia.db
+02:01:2023.15:16:06 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+02:01:2023.15:16:06 EV 127.0.0.1 TCP socket
+02:01:2023.15:16:06 EV 127.0.0.1 TCP bind on port 1222
+02:01:2023.15:16:06 EV 127.0.0.1 TCP listening
+02:01:2023.15:16:06 EV 127.0.0.1 UDP socket
+02:01:2023.15:16:06 EV 127.0.0.1 UDP bind on port 1222
+02:01:2023.15:27:29 ST 1222 20000 debug
+02:01:2023.15:27:29 EV 127.0.0.1 config-file-read dns_local/SDT1.conf
+02:01:2023.15:27:29 EV 127.0.0.1 SP db-file-read dns_local/animalia.db
+02:01:2023.15:27:29 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+02:01:2023.15:27:29 EV 127.0.0.1 TCP socket
+02:01:2023.15:27:29 EV 127.0.0.1 TCP bind on port 1222
+02:01:2023.15:27:29 EV 127.0.0.1 TCP listening
+02:01:2023.15:27:29 EV 127.0.0.1 UDP socket
+02:01:2023.15:27:29 EV 127.0.0.1 UDP bind on port 1222
+02:01:2023.15:28:08 ST 1222 20000 debug
+02:01:2023.15:28:08 EV 127.0.0.1 config-file-read dns_local/SDT1.conf
+02:01:2023.15:28:08 EV 127.0.0.1 SP db-file-read dns_local/animalia.db
+02:01:2023.15:28:08 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+02:01:2023.15:28:08 EV 127.0.0.1 TCP socket
+02:01:2023.15:28:08 EV 127.0.0.1 TCP bind on port 1222
+02:01:2023.15:28:08 EV 127.0.0.1 TCP listening
+02:01:2023.15:28:08 EV 127.0.0.1 UDP socket
+02:01:2023.15:28:08 EV 127.0.0.1 UDP bind on port 1222
+02:01:2023.15:39:01 ST 1222 20000 debug
+02:01:2023.15:39:01 EV 127.0.0.1 config-file-read dns_local/SDT1.conf
+02:01:2023.15:39:01 EV 127.0.0.1 SP db-file-read dns_local/animalia.db
+02:01:2023.15:39:01 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+02:01:2023.15:39:01 EV 127.0.0.1 TCP socket
+02:01:2023.15:39:01 EV 127.0.0.1 TCP bind on port 1222
+02:01:2023.15:39:01 EV 127.0.0.1 TCP listening
+02:01:2023.15:39:01 EV 127.0.0.1 UDP socket
+02:01:2023.15:39:01 EV 127.0.0.1 UDP bind on port 1222
+02:01:2023.16:03:05 ST 1222 20000 debug
+02:01:2023.16:03:05 EV 127.0.0.1 config-file-read dns_local/SDT1.conf
+02:01:2023.16:03:05 EV 127.0.0.1 SP db-file-read dns_local/animalia.db
+02:01:2023.16:03:05 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+02:01:2023.16:03:05 EV 127.0.0.1 TCP socket
+02:01:2023.16:03:05 EV 127.0.0.1 TCP bind on port 1222
+02:01:2023.16:03:05 EV 127.0.0.1 TCP listening
+02:01:2023.16:03:05 EV 127.0.0.1 UDP socket
+02:01:2023.16:03:05 EV 127.0.0.1 UDP bind on port 1222
+02:01:2023.16:11:44 ST 1222 20000 debug
+02:01:2023.16:11:44 EV 127.0.0.1 config-file-read dns_local/SDT1.conf
+02:01:2023.16:11:44 EV 127.0.0.1 SP db-file-read dns_local/animalia.db
+02:01:2023.16:11:44 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+02:01:2023.16:11:44 EV 127.0.0.1 TCP socket
+02:01:2023.16:11:44 EV 127.0.0.1 TCP bind on port 1222
+02:01:2023.16:11:44 EV 127.0.0.1 TCP listening
+02:01:2023.16:11:44 EV 127.0.0.1 UDP socket
+02:01:2023.16:11:44 EV 127.0.0.1 UDP bind on port 1222
+02:01:2023.16:24:08 ST 1222 20000 debug
+02:01:2023.16:24:08 EV 127.0.0.1 config-file-read dns_local/SDT1.conf
+02:01:2023.16:24:08 EV 127.0.0.1 SP db-file-read dns_local/animalia.db
+02:01:2023.16:24:08 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+02:01:2023.16:24:08 EV 127.0.0.1 TCP socket
+02:01:2023.16:24:08 EV 127.0.0.1 TCP bind on port 1222
+02:01:2023.16:24:08 EV 127.0.0.1 TCP listening
+02:01:2023.16:24:08 EV 127.0.0.1 UDP socket
+02:01:2023.16:24:08 EV 127.0.0.1 UDP bind on port 1222

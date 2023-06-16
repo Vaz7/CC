@@ -1,0 +1,3 @@
+02:01:2023.16:12:43 SP log-file-created logs_local/SP_an
+02:01:2023.16:12:43 RR 127.0.0.1: 38041,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:12:43 RP 127.0.0.1: 38041,R+A,0,1,1,1;cao.animalia,MX;cao.animalia. MX mx1.cao.animalia. 86400 0,;cao.animalia. NS mogli.cao.animalia. 86400,;mogli.cao.animalia. A 10.2.2.5 86400,

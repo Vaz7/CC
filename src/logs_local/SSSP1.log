@@ -1,0 +1,57 @@
+28:11:2022.15:55:01 SP log-file-created logs_local/SSSP1.log
+28:11:2022.15:55:01 ST 1228 20000 debug
+28:11:2022.15:55:01 EV 127.0.0.1 config-file-read dns_local/SSSP1.conf
+28:11:2022.15:55:01 EV 127.0.0.1 TCP socket
+28:11:2022.15:55:01 EV 127.0.0.1 TCP bind on port 1228
+28:11:2022.15:55:01 EV 127.0.0.1 TCP listening
+28:11:2022.15:55:01 EV 127.0.0.1 UDP socket
+28:11:2022.15:55:01 EV 127.0.0.1 UDP bind on port 1228
+28:11:2022.16:06:45 ST 1228 20000 debug
+28:11:2022.16:06:45 EV 127.0.0.1 config-file-read dns_local/SSSP1.conf
+28:11:2022.16:06:45 EV 127.0.0.1 SS db-TCP-read for domain embryophyta.plantae with 14 lines
+28:11:2022.16:06:45 EV 127.0.0.1 SS db-TCP-read for domain cao.animalia with 14 lines
+28:11:2022.16:06:45 EV 127.0.0.1 TCP socket
+28:11:2022.16:06:45 EV 127.0.0.1 TCP bind on port 1228
+28:11:2022.16:06:45 EV 127.0.0.1 TCP listening
+28:11:2022.16:06:45 EV 127.0.0.1 UDP socket
+28:11:2022.16:06:45 EV 127.0.0.1 UDP bind on port 1228
+28:11:2022.16:19:33 ST 1228 20000 debug
+28:11:2022.16:19:33 EV 127.0.0.1 config-file-read dns_local/SSSP1.conf
+28:11:2022.16:19:33 EV 127.0.0.1 SS failed db-TCP-read for domain embryophyta.plantae with 947345984 lines
+28:11:2022.16:19:33 EV 127.0.0.1 SS db-TCP-read for domain cao.animalia with 14 lines
+28:11:2022.16:19:33 EV 127.0.0.1 TCP socket
+28:11:2022.16:19:33 EV 127.0.0.1 TCP bind on port 1228
+28:11:2022.16:19:33 EV 127.0.0.1 TCP listening
+28:11:2022.16:19:33 EV 127.0.0.1 UDP socket
+28:11:2022.16:19:33 EV 127.0.0.1 UDP bind on port 1228
+01:12:2022.00:32:35 ST 1228 20000 debug
+01:12:2022.00:32:35 EV 127.0.0.1 config-file-read dns_local/SSSP1.conf
+01:12:2022.00:32:35 EV 127.0.0.1 SS failed db-TCP-read for domain embryophyta.plantae with 878774848 lines
+01:12:2022.00:32:35 EV 127.0.0.1 SS db-TCP-read for domain cao.animalia with 14 lines
+01:12:2022.00:32:35 EV 127.0.0.1 TCP socket
+01:12:2022.00:32:35 EV 127.0.0.1 TCP bind on port 1228
+01:12:2022.00:32:35 EV 127.0.0.1 TCP listening
+01:12:2022.00:32:35 EV 127.0.0.1 UDP socket
+01:12:2022.00:32:35 EV 127.0.0.1 UDP bind on port 1228
+30:12:2022.15:08:12 ST 1228 20000 debug
+30:12:2022.15:08:12 EV 127.0.0.1 config-file-read dns_local/SSSP1.conf
+30:12:2022.15:08:12 EV 127.0.0.1 SS failed db-TCP-read for domain embryophyta.plantae with 663685696 lines
+30:12:2022.15:08:12 EV 127.0.0.1 SS failed db-TCP-read for domain cao.animalia with 663685696 lines
+30:12:2022.15:08:12 EV 127.0.0.1 TCP socket
+30:12:2022.15:08:12 EV 127.0.0.1 TCP bind on port 1228
+30:12:2022.15:08:12 EV 127.0.0.1 TCP listening
+30:12:2022.15:08:12 EV 127.0.0.1 UDP socket
+30:12:2022.15:08:12 EV 127.0.0.1 UDP bind on port 1228
+30:12:2022.15:08:16 EV 127.0.0.1 SS db-TCP-read for domain embryophyta.plantae with 14 lines
+30:12:2022.15:08:16 EV 127.0.0.1 SS db-TCP-read for domain cao.animalia with 14 lines
+30:12:2022.18:21:42 ST 1228 20000 debug
+30:12:2022.18:21:42 EV 127.0.0.1 config-file-read dns_local/SSSP1.conf
+30:12:2022.18:21:42 EV 127.0.0.1 SS failed db-TCP-read for domain embryophyta.plantae with -995878336 lines
+30:12:2022.18:21:42 EV 127.0.0.1 SS failed db-TCP-read for domain cao.animalia with -995878336 lines
+30:12:2022.18:21:42 EV 127.0.0.1 TCP socket
+30:12:2022.18:21:42 EV 127.0.0.1 TCP bind on port 1228
+30:12:2022.18:21:42 EV 127.0.0.1 TCP listening
+30:12:2022.18:21:42 EV 127.0.0.1 UDP socket
+30:12:2022.18:21:42 EV 127.0.0.1 UDP bind on port 1228
+30:12:2022.18:21:46 EV 127.0.0.1 SS db-TCP-read for domain embryophyta.plantae with 0 lines
+30:12:2022.18:21:46 EV 127.0.0.1 SS db-TCP-read for domain cao.animalia with 0 lines

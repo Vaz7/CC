@@ -1,0 +1,531 @@
+28:11:2022.15:42:10 SP log-file-created logs/SP.log
+28:11:2022.15:42:10 ST 1222 20000 debug
+28:11:2022.15:42:10 EV 127.0.0.1 config-file-read dns_local/SDT1.conf
+28:11:2022.15:42:10 EV 127.0.0.1 SP db-file-read dns_local/animalia.db
+28:11:2022.15:42:10 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+28:11:2022.15:42:10 EV 127.0.0.1 TCP socket
+28:11:2022.15:42:10 EV 127.0.0.1 TCP bind on port 1222
+28:11:2022.15:42:10 EV 127.0.0.1 TCP listening
+28:11:2022.15:42:10 EV 127.0.0.1 UDP socket
+28:11:2022.15:42:10 EV 127.0.0.1 UDP bind on port 1222
+28:11:2022.15:55:01 EV 127.0.0.1 DB file for domain animalia sent to 127.0.0.1
+28:11:2022.15:55:01 EV 127.0.0.1 DB file for domain animalia sent to 127.0.0.1
+02:01:2023.00:13:02 ST 1500 20000 debug
+02:01:2023.00:13:02 SP 127.0.0.1 line 3 in conf file has invalid type
+02:01:2023.00:13:37 ST 1500 20000 debug
+02:01:2023.00:13:37 EV 127.0.0.1 config-file-read dns_local/ST.conf
+02:01:2023.00:13:37 SP 127.0.0.1 unable to open ST DB file dns/rootServers.db
+02:01:2023.00:14:04 ST 1500 20000 debug
+02:01:2023.00:14:04 EV 127.0.0.1 config-file-read dns_local/ST.conf
+02:01:2023.00:14:04 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+02:01:2023.00:14:04 EV 127.0.0.1 UDP socket
+02:01:2023.00:14:04 EV 127.0.0.1 UDP bind on port 1500
+02:01:2023.00:16:03 ST 1500 20000 debug
+02:01:2023.00:16:03 EV 127.0.0.1 config-file-read dns_local/ST.conf
+02:01:2023.00:16:03 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+02:01:2023.00:16:03 EV 127.0.0.1 UDP socket
+02:01:2023.00:16:03 EV 127.0.0.1 UDP bind on port 1500
+02:01:2023.00:17:15 ST 1500 20000 debug
+02:01:2023.00:17:18 EV 127.0.0.1 config-file-read dns_local/ST.conf
+02:01:2023.00:17:22 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+02:01:2023.00:17:31 EV 127.0.0.1 UDP socket
+02:01:2023.00:17:47 EV 127.0.0.1 UDP bind on port 1500
+02:01:2023.00:21:43 ST 1500 20000 debug
+02:01:2023.00:21:43 EV 127.0.0.1 config-file-read dns_local/ST.conf
+02:01:2023.00:21:43 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+02:01:2023.00:21:43 EV 127.0.0.1 UDP socket
+02:01:2023.00:21:43 EV 127.0.0.1 UDP bind on port 1500
+02:01:2023.00:22:45 ST 1500 20000 debug
+02:01:2023.00:22:45 EV 127.0.0.1 config-file-read dns_local/ST.conf
+02:01:2023.00:22:46 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+02:01:2023.00:22:53 EV 127.0.0.1 UDP socket
+02:01:2023.00:22:59 EV 127.0.0.1 UDP bind on port 1500
+02:01:2023.00:24:25 ST 1500 20000 debug
+02:01:2023.00:24:25 EV 127.0.0.1 config-file-read dns_local/ST.conf
+02:01:2023.00:24:25 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+02:01:2023.00:24:28 EV 127.0.0.1 UDP socket
+02:01:2023.00:24:32 EV 127.0.0.1 UDP bind on port 1500
+02:01:2023.00:25:05 ST 1500 20000 debug
+02:01:2023.00:25:05 EV 127.0.0.1 config-file-read dns_local/ST.conf
+02:01:2023.00:25:05 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+02:01:2023.00:25:06 EV 127.0.0.1 UDP socket
+02:01:2023.00:25:06 EV 127.0.0.1 UDP bind on port 1500
+02:01:2023.00:31:51 ST 1500 20000 debug
+02:01:2023.00:31:51 EV 127.0.0.1 config-file-read dns_local/ST.conf
+02:01:2023.00:31:51 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+02:01:2023.00:31:51 EV 127.0.0.1 UDP socket
+02:01:2023.00:31:51 EV 127.0.0.1 UDP bind on port 1500
+02:01:2023.00:32:01 RR 127.0.0.1: 34583,Q+I,0,0,0,0;sdt1.animalia.,A;;;
+02:01:2023.00:32:01 RP 127.0.0.1: 34583,R+A,0,0,0,0;sdt1.animalia.,A;;;
+02:01:2023.00:32:11 RR 127.0.0.1: 38160,Q+I,0,0,0,0;sdt1.animalia.,A;;;
+02:01:2023.00:32:11 RP 127.0.0.1: 38160,R+A,0,0,0,0;sdt1.animalia.,A;;;
+02:01:2023.00:37:11 RR 127.0.0.1: 24331,Q+I,0,0,0,0;sdt1.animalia.,MX;;;
+02:01:2023.00:37:11 RP 127.0.0.1: 24331,R+A,0,0,0,0;sdt1.animalia.,MX;;;
+02:01:2023.11:29:22 RR 127.0.0.1: 59171,Q+I,0,0,0,0;sdt1.cao.animalia.,MX;;;
+02:01:2023.11:29:22 RP 127.0.0.1: 59171,R+A,0,0,0,0;sdt1.cao.animalia.,MX;;;
+02:01:2023.11:31:05 RR 127.0.0.1: 57496,Q+I,0,0,0,0;sdt1.animalia.,MX;;;
+02:01:2023.11:31:05 RP 127.0.0.1: 57496,R+A,0,0,0,0;sdt1.animalia.,MX;;;
+02:01:2023.11:33:01 ST 1500 20000 debug
+02:01:2023.11:33:01 EV 127.0.0.1 config-file-read dns_local/ST.conf
+02:01:2023.11:33:01 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+02:01:2023.11:33:01 EV 127.0.0.1 UDP socket
+02:01:2023.11:33:01 EV 127.0.0.1 UDP bind on port 1500
+02:01:2023.11:37:48 RR 127.0.0.1: 3218,Q+I,0,0,0,0;sdt1.animalia.,MX;;;
+02:01:2023.11:37:48 RP 127.0.0.1: 3218,R+A,0,0,0,0;sdt1.animalia.,MX;;;
+02:01:2023.11:40:32 RR 127.0.0.1: 61001,Q+I,0,0,0,0;animalia.,MX;;;
+02:01:2023.11:40:32 RP 127.0.0.1: 61001,R+A,0,0,0,0;animalia.,MX;;;
+02:01:2023.11:47:32 ST 1500 20000 debug
+02:01:2023.11:47:32 EV 127.0.0.1 config-file-read dns_local/ST.conf
+02:01:2023.11:47:32 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+02:01:2023.11:47:32 EV 127.0.0.1 UDP socket
+02:01:2023.11:47:32 EV 127.0.0.1 UDP bind on port 1500
+02:01:2023.11:47:37 RR 127.0.0.1: 21303,Q+I,0,0,0,0;animalia.,MX;;;
+02:01:2023.11:47:37 RP 127.0.0.1: 21303,R+A,0,0,0,0;animalia.,MX;;;
+02:01:2023.11:48:30 ST 1500 20000 debug
+02:01:2023.11:48:30 EV 127.0.0.1 config-file-read dns_local/ST.conf
+02:01:2023.11:48:30 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+02:01:2023.11:48:30 EV 127.0.0.1 UDP socket
+02:01:2023.11:48:30 EV 127.0.0.1 UDP bind on port 1500
+02:01:2023.11:52:37 ST 1500 20000 debug
+02:01:2023.11:52:37 EV 127.0.0.1 config-file-read dns_local/ST.conf
+02:01:2023.11:52:37 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+02:01:2023.11:52:37 EV 127.0.0.1 UDP socket
+02:01:2023.11:52:37 EV 127.0.0.1 UDP bind on port 1500
+02:01:2023.11:52:43 RR 127.0.0.1: 10231,Q+I,0,0,0,0;animalia.,MX;;;
+02:01:2023.11:52:43 RP 127.0.0.1: 10231,R+A,0,2,2,3;animalia.,MX;;;,animalia. MX mx1.animalia. 6 0,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,; 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.11:53:50 RR 127.0.0.1: 58894,Q+I,0,0,0,0;sdt1.animalia.,A;;;
+02:01:2023.11:53:50 RP 127.0.0.1: 58894,R+A,0,1,2,2;sdt1.animalia.,A;;;,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.11:54:00 RR 127.0.0.1: 42388,Q+I,0,0,0,0;sd1.animalia.,A;;;
+02:01:2023.11:54:00 RP 127.0.0.1: 42388,R+A,0,0,2,2;sd1.animalia.,A;;;,animalia. NS sdt1.animalia. 6,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.11:54:09 RR 127.0.0.1: 15260,Q+I,0,0,0,0;sdt2.animalia.,A;;;
+02:01:2023.11:54:09 RP 127.0.0.1: 15260,R+A,0,1,2,2;sdt2.animalia.,A;;;,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.11:55:23 ST 1500 20000 debug
+02:01:2023.11:55:23 EV 127.0.0.1 config-file-read dns_local/ST.conf
+02:01:2023.11:55:23 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+02:01:2023.11:55:23 EV 127.0.0.1 UDP socket
+02:01:2023.11:55:23 EV 127.0.0.1 UDP bind on port 1500
+02:01:2023.11:55:26 RR 127.0.0.1: 57200,Q+I,0,0,0,0;sdt2.animalia.,A;;;
+02:01:2023.11:55:26 RP 127.0.0.1: 57200,R+A,0,1,2,2;sdt2.animalia.,A;;;,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.12:14:48 ST 1500 20000 debug
+02:01:2023.12:14:48 EV 127.0.0.1 config-file-read dns_local/ST.conf
+02:01:2023.12:14:48 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+02:01:2023.12:14:48 EV 127.0.0.1 UDP socket
+02:01:2023.12:14:48 EV 127.0.0.1 UDP bind on port 1500
+02:01:2023.12:14:54 RR 127.0.0.1: 12972,Q+I,0,0,0,0;sdt2.animalia.,A;;;
+02:01:2023.12:14:54 RP 127.0.0.1: 12972,R+A,0,1,2,2;sdt2.animalia.,A;;;,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.12:15:02 RR 127.0.0.1: 43356,Q+I,0,0,0,0;sdt2.animalia.,A;;;
+02:01:2023.12:15:02 RP 127.0.0.1: 43356,R+A,0,1,2,2;sdt2.animalia.,A;;;,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.12:15:05 RR 127.0.0.1: 35785,Q+I,0,0,0,0;sdt2.animalia.,A;;;
+02:01:2023.12:15:05 RP 127.0.0.1: 35785,R+A,0,1,2,2;sdt2.animalia.,A;;;,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.12:15:06 RR 127.0.0.1: 51770,Q+I,0,0,0,0;sdt2.animalia.,A;;;
+02:01:2023.12:15:06 RP 127.0.0.1: 51770,R+A,0,1,2,2;sdt2.animalia.,A;;;,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.12:15:06 RR 127.0.0.1: 51770,Q+I,0,0,0,0;sdt2.animalia.,A;;;
+02:01:2023.12:15:06 RP 127.0.0.1: 51770,R+A,0,1,2,2;sdt2.animalia.,A;;;,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.12:15:41 ST 1500 20000 debug
+02:01:2023.12:15:41 EV 127.0.0.1 config-file-read dns_local/ST.conf
+02:01:2023.12:15:41 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+02:01:2023.12:15:41 EV 127.0.0.1 UDP socket
+02:01:2023.12:15:41 EV 127.0.0.1 UDP bind on port 1500
+02:01:2023.12:16:49 RR 127.0.0.1: 17926,Q+I,0,0,0,0;sdt2.animalia.,A;;;
+02:01:2023.12:16:51 RP 127.0.0.1: 17926,R+A,0,1,2,2;sdt2.animalia.,A;;;,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.12:19:24 RR 127.0.0.1: 56403,Q+I,0,0,0,0;sdt2.animalia.,A;;;
+02:01:2023.12:19:24 RP 127.0.0.1: 56403,R+A,0,1,2,2;sdt2.animalia.,A;;;,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.12:26:33 ST 1500 20000 debug
+02:01:2023.12:26:33 EV 127.0.0.1 config-file-read dns_local/ST.conf
+02:01:2023.12:26:33 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+02:01:2023.12:26:33 EV 127.0.0.1 UDP socket
+02:01:2023.12:26:33 EV 127.0.0.1 UDP bind on port 1500
+02:01:2023.12:26:44 RR 127.0.0.1: 40655,Q+I,0,0,0,0;sdt2.animalia.,A;;;
+02:01:2023.12:26:44 RP 127.0.0.1: 40655,R+A,0,1,2,2;sdt2.animalia.,A;;;,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.12:26:48 RR 127.0.0.1: 15803,Q+I,0,0,0,0;sdt2.animalia.,A;;;
+02:01:2023.12:26:48 RP 127.0.0.1: 15803,R+A,0,1,2,2;sdt2.animalia.,A;;;,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.12:26:59 RR 127.0.0.1: 34528,Q+I,0,0,0,0;sdt2.animalia.,A;;;
+02:01:2023.12:26:59 RP 127.0.0.1: 34528,R+A,0,1,0,0;sdt2.animalia.,A;sdt2.animalia. A pê.ø 6,;;
+02:01:2023.12:27:14 RR 127.0.0.1: 43493,Q+I,0,0,0,0;sdt2.animalia.,A;;;
+02:01:2023.12:27:14 RP 127.0.0.1: 43493,R+A,0,1,0,0;sdt2.animalia.,A;sdt2.animalia. A pê.ø 6,;;
+02:01:2023.12:27:15 RR 127.0.0.1: 34061,Q+I,0,0,0,0;sdt2.animalia.,A;;;
+02:01:2023.12:27:15 RP 127.0.0.1: 34061,R+A,0,1,0,0;sdt2.animalia.,A;sdt2.animalia. A pê.ø 6,;;
+02:01:2023.12:27:18 RR 127.0.0.1: 12982,Q+I,0,0,0,0;sdt2.animalia.,A;;;
+02:01:2023.12:27:18 RP 127.0.0.1: 12982,R+A,0,1,0,0;sdt2.animalia.,A;sdt2.animalia. A pê.ø 6,;;
+02:01:2023.12:28:53 ST 1500 20000 debug
+02:01:2023.12:28:53 EV 127.0.0.1 config-file-read dns_local/ST.conf
+02:01:2023.12:28:53 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+02:01:2023.12:28:53 EV 127.0.0.1 UDP socket
+02:01:2023.12:28:53 EV 127.0.0.1 UDP bind on port 1500
+02:01:2023.12:29:06 RR 127.0.0.1: 52870,Q+I,0,0,0,0;sdt2.animalia.,A;;;
+02:01:2023.12:29:06 RP 127.0.0.1: 52870,R+A,0,1,2,2;sdt2.animalia.,A;;;,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.12:29:11 RR 127.0.0.1: 3455,Q+I,0,0,0,0;sdt2.animalia.,A;;;
+02:01:2023.12:29:11 RP 127.0.0.1: 3455,R+A,0,1,2,2;sdt2.animalia.,A;;;,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.12:29:16 RR 127.0.0.1: 60253,Q+I,0,0,0,0;sdt2.animalia.,A;;;
+02:01:2023.12:29:16 RP 127.0.0.1: 60253,R+A,0,1,2,2;sdt2.animalia.,A;;;,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.12:29:19 RR 127.0.0.1: 15917,Q+I,0,0,0,0;sdt2.animalia.,A;;;
+02:01:2023.12:29:19 RP 127.0.0.1: 15917,R+A,0,1,2,2;sdt2.animalia.,A;;;,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.12:29:20 RR 127.0.0.1: 50568,Q+I,0,0,0,0;sdt2.animalia.,A;;;
+02:01:2023.12:29:20 RP 127.0.0.1: 50568,R+A,0,1,2,2;sdt2.animalia.,A;;;,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.12:29:21 RR 127.0.0.1: 21164,Q+I,0,0,0,0;sdt2.animalia.,A;;;
+02:01:2023.12:29:21 RP 127.0.0.1: 21164,R+A,0,1,2,2;sdt2.animalia.,A;;;,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.12:29:24 RR 127.0.0.1: 54060,Q+I,0,0,0,0;sdt2.animalia.,A;;;
+02:01:2023.12:29:24 RP 127.0.0.1: 54060,R+A,0,1,2,2;sdt2.animalia.,A;;;,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.14:24:59 ST 1500 20000 debug
+02:01:2023.14:24:59 EV 127.0.0.1 config-file-read dns_local/ST.conf
+02:01:2023.14:24:59 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+02:01:2023.14:24:59 EV 127.0.0.1 UDP socket
+02:01:2023.14:24:59 EV 127.0.0.1 UDP bind on port 1500
+02:01:2023.14:25:03 RR 127.0.0.1: 51040,Q+I,0,0,0,0;sdt2.animalia.,A;;;
+02:01:2023.14:25:03 RP 127.0.0.1: 51040,R+A,0,1,2,2;sdt2.animalia.,A;;;,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.14:25:10 RR 127.0.0.1: 40785,Q+I,0,0,0,0;sdt2.animalia.,A;;;
+02:01:2023.14:25:10 RP 127.0.0.1: 40785,R+A,0,1,0,0;sdt2.animalia.,A;sdt2.animalia. A 10.2.2.2 6,;;
+02:01:2023.14:25:36 ST 1500 20000 debug
+02:01:2023.14:25:36 EV 127.0.0.1 config-file-read dns_local/ST.conf
+02:01:2023.14:25:36 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+02:01:2023.14:25:36 EV 127.0.0.1 UDP socket
+02:01:2023.14:25:36 EV 127.0.0.1 UDP bind on port 1500
+02:01:2023.14:25:40 RR 127.0.0.1: 3863,Q+I,0,0,0,0;sdt2.animalia.,A;;;
+02:01:2023.14:25:40 RP 127.0.0.1: 3863,R+A,0,1,2,2;sdt2.animalia.,A;;;,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.14:26:02 RR 127.0.0.1: 50230,Q+I,0,0,0,0;sdt2.animalia.,A;;;
+02:01:2023.14:26:02 RP 127.0.0.1: 50230,R+A,0,1,0,0;sdt2.animalia.,A;sdt2.animalia. A 10.2.2.2 6,;;
+02:01:2023.14:26:15 RR 127.0.0.1: 60827,Q+I,0,0,0,0;sdt2.animalia.,A;;;
+02:01:2023.14:26:15 RP 127.0.0.1: 60827,R+A,0,1,0,0;sdt2.animalia.,A;sdt2.animalia. A 10.2.2.2 6,;;
+02:01:2023.14:26:17 RR 127.0.0.1: 52130,Q+I,0,0,0,0;sdt2.animalia.,A;;;
+02:01:2023.14:26:17 RP 127.0.0.1: 52130,R+A,0,1,0,0;sdt2.animalia.,A;sdt2.animalia. A 10.2.2.2 6,;;
+02:01:2023.14:31:30 RR 127.0.0.1: 43452,Q+I,0,0,0,0;sdt2.animalia.,A;;;
+02:01:2023.14:31:30 RP 127.0.0.1: 43452,R+A,0,1,0,0;sdt2.animalia.,A;sdt2.animalia. A 10.2.2.2 6,;;
+02:01:2023.14:31:33 RR 127.0.0.1: 24845,Q+I,0,0,0,0;sdt2.animalia.,A;;;
+02:01:2023.14:31:33 RP 127.0.0.1: 24845,R+A,0,1,0,0;sdt2.animalia.,A;sdt2.animalia. A 10.2.2.2 6,;;
+02:01:2023.14:33:20 RR 127.0.0.1: 39328,Q+I,0,0,0,0;sdt2.animalia.,A;;;
+02:01:2023.14:33:20 RP 127.0.0.1: 39328,R+A,0,1,0,0;sdt2.animalia.,A;sdt2.animalia. A 10.2.2.2 6,;;
+02:01:2023.14:33:23 RR 127.0.0.1: 45935,Q+I,0,0,0,0;sdt2.animalia.,A;;;
+02:01:2023.14:33:23 RP 127.0.0.1: 45935,R+A,0,1,0,0;sdt2.animalia.,A;sdt2.animalia. A 10.2.2.2 6,;;
+02:01:2023.14:33:57 RR 127.0.0.1: 14024,Q+I,0,0,0,0;sdt2.animalia.,A;;;
+02:01:2023.14:33:57 RP 127.0.0.1: 14024,R+A,0,1,0,0;sdt2.animalia.,A;sdt2.animalia. A 10.2.2.2 6,;;
+02:01:2023.14:34:29 RR 127.0.0.1: 27527,Q+I,0,0,0,0;sdt2.animalia.,A;;;
+02:01:2023.14:34:29 RP 127.0.0.1: 27527,R+A,0,1,0,0;sdt2.animalia.,A;sdt2.animalia. A 10.2.2.2 6,;;
+02:01:2023.14:34:31 RR 127.0.0.1: 21542,Q+I,0,0,0,0;sdt2.animalia.,A;;;
+02:01:2023.14:34:31 RP 127.0.0.1: 21542,R+A,0,1,0,0;sdt2.animalia.,A;sdt2.animalia. A 10.2.2.2 6,;;
+02:01:2023.14:35:37 ST 1500 20000 debug
+02:01:2023.14:35:37 EV 127.0.0.1 config-file-read dns_local/ST.conf
+02:01:2023.14:35:37 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+02:01:2023.14:35:37 EV 127.0.0.1 UDP socket
+02:01:2023.14:35:37 EV 127.0.0.1 UDP bind on port 1500
+02:01:2023.14:37:46 RR 127.0.0.1: 23660,Q+I,0,0,0,0;sdt2.animalia.,A;;;
+02:01:2023.14:37:46 RP 127.0.0.1: 23660,R+A,0,1,2,2;sdt2.animalia.,A;;;,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.14:38:35 RR 127.0.0.1: 7681,Q+I,0,0,0,0;sdt2.animalia.,A;;;
+02:01:2023.14:38:35 RP 127.0.0.1: 7681,R+A,0,1,0,0;sdt2.animalia.,A;sdt2.animalia. A 10.2.2.2 6,;;
+02:01:2023.14:41:46 ST 1500 20000 debug
+02:01:2023.14:41:46 EV 127.0.0.1 config-file-read dns_local/ST.conf
+02:01:2023.14:41:46 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+02:01:2023.14:41:46 EV 127.0.0.1 UDP socket
+02:01:2023.14:41:46 EV 127.0.0.1 UDP bind on port 1500
+02:01:2023.14:41:52 RR 127.0.0.1: 45793,Q+I,0,0,0,0;sdt2.animalia.,A;;;
+02:01:2023.14:41:52 RP 127.0.0.1: 45793,R+A,0,1,2,2;sdt2.animalia.,A;;;,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.14:41:53 RR 127.0.0.1: 27897,Q+I,0,0,0,0;sdt2.animalia.,A;;;
+02:01:2023.14:41:53 RP 127.0.0.1: 27897,R+A,0,1,0,0;sdt2.animalia.,A;sdt2.animalia. A 10.2.2.2 6,;;
+02:01:2023.14:41:55 RR 127.0.0.1: 51150,Q+I,0,0,0,0;sdt2.animalia.,A;;;
+02:01:2023.14:41:55 RP 127.0.0.1: 51150,R+A,0,1,0,0;sdt2.animalia.,A;sdt2.animalia. A 10.2.2.2 6,;;
+02:01:2023.14:41:57 RR 127.0.0.1: 59222,Q+I,0,0,0,0;sdt2.animalia.,A;;;
+02:01:2023.14:41:57 RP 127.0.0.1: 59222,R+A,0,1,0,0;sdt2.animalia.,A;sdt2.animalia. A 10.2.2.2 6,;;
+02:01:2023.14:42:00 RR 127.0.0.1: 60931,Q+I,0,0,0,0;sdt2.animalia.,A;;;
+02:01:2023.14:42:00 RP 127.0.0.1: 60931,R+A,0,1,2,2;sdt2.animalia.,A;;;,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.14:42:08 RR 127.0.0.1: 46681,Q+I,0,0,0,0;sdt2.animalia.,A;;;
+02:01:2023.14:42:08 RP 127.0.0.1: 46681,R+A,0,1,2,2;sdt2.animalia.,A;;;,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.14:42:11 RR 127.0.0.1: 59349,Q+I,0,0,0,0;sdt2.animalia.,A;;;
+02:01:2023.14:42:11 RP 127.0.0.1: 59349,R+A,0,1,0,0;sdt2.animalia.,A;sdt2.animalia. A 10.2.2.2 6,;;
+02:01:2023.14:42:12 RR 127.0.0.1: 64112,Q+I,0,0,0,0;sdt2.animalia.,A;;;
+02:01:2023.14:42:12 RP 127.0.0.1: 64112,R+A,0,1,0,0;sdt2.animalia.,A;sdt2.animalia. A 10.2.2.2 6,;;
+02:01:2023.14:42:14 RR 127.0.0.1: 34256,Q+I,0,0,0,0;sdt2.animalia.,A;;;
+02:01:2023.14:42:14 RP 127.0.0.1: 34256,R+A,0,1,0,0;sdt2.animalia.,A;sdt2.animalia. A 10.2.2.2 6,;;
+02:01:2023.14:42:15 RR 127.0.0.1: 33409,Q+I,0,0,0,0;sdt2.animalia.,A;;;
+02:01:2023.14:42:15 RP 127.0.0.1: 33409,R+A,0,1,2,2;sdt2.animalia.,A;;;,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.14:42:16 RR 127.0.0.1: 10365,Q+I,0,0,0,0;sdt2.animalia.,A;;;
+02:01:2023.14:42:16 RP 127.0.0.1: 10365,R+A,0,1,0,0;sdt2.animalia.,A;sdt2.animalia. A 10.2.2.2 6,;;
+02:01:2023.14:42:17 RR 127.0.0.1: 30495,Q+I,0,0,0,0;sdt2.animalia.,A;;;
+02:01:2023.14:42:17 RP 127.0.0.1: 30495,R+A,0,1,0,0;sdt2.animalia.,A;sdt2.animalia. A 10.2.2.2 6,;;
+02:01:2023.14:42:19 RR 127.0.0.1: 45244,Q+I,0,0,0,0;sdt2.animalia.,A;;;
+02:01:2023.14:42:19 RP 127.0.0.1: 45244,R+A,0,1,0,0;sdt2.animalia.,A;sdt2.animalia. A 10.2.2.2 6,;;
+02:01:2023.14:42:28 RR 127.0.0.1: 36432,Q+I,0,0,0,0;sdt2.animalia.,MX;;;
+02:01:2023.14:42:28 RP 127.0.0.1: 36432,R+A,0,0,0,1;sdt2.animalia.,MX;;;,
+02:01:2023.14:42:39 RR 127.0.0.1: 599,Q+I,0,0,0,0;animalia.,MX;;;
+02:01:2023.14:42:39 RP 127.0.0.1: 599,R+A,0,2,2,3;animalia.,MX;;;,animalia. MX mx1.animalia. 6 0,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,; 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.14:42:43 RR 127.0.0.1: 12847,Q+I,0,0,0,0;animalia.,MX;;;
+02:01:2023.14:42:43 RP 127.0.0.1: 12847,R+A,0,2,2,3;animalia.,MX;;;,animalia. MX mx1.animalia. 6 0,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,; 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.14:42:44 RR 127.0.0.1: 10557,Q+I,0,0,0,0;animalia.,MX;;;
+02:01:2023.14:42:44 RP 127.0.0.1: 10557,R+A,0,2,2,3;animalia.,MX;;;,animalia. MX mx1.animalia. 6 0,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,; 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.14:42:44 RR 127.0.0.1: 10557,Q+I,0,0,0,0;animalia.,MX;;;
+02:01:2023.14:42:44 RP 127.0.0.1: 10557,R+A,0,2,2,3;animalia.,MX;;;,animalia. MX mx1.animalia. 6 0,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,; 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.14:42:45 RR 127.0.0.1: 1620,Q+I,0,0,0,0;animalia.,MX;;;
+02:01:2023.14:42:45 RP 127.0.0.1: 1620,R+A,0,2,2,3;animalia.,MX;;;,animalia. MX mx1.animalia. 6 0,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,; 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.14:42:46 RR 127.0.0.1: 27305,Q+I,0,0,0,0;animalia.,MX;;;
+02:01:2023.14:42:46 RP 127.0.0.1: 27305,R+A,0,2,2,3;animalia.,MX;;;,animalia. MX mx1.animalia. 6 0,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,; 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.14:42:46 RR 127.0.0.1: 27305,Q+I,0,0,0,0;animalia.,MX;;;
+02:01:2023.14:42:46 RP 127.0.0.1: 27305,R+A,0,2,2,3;animalia.,MX;;;,animalia. MX mx1.animalia. 6 0,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,; 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.14:42:47 RR 127.0.0.1: 3412,Q+I,0,0,0,0;animalia.,MX;;;
+02:01:2023.14:42:47 RP 127.0.0.1: 3412,R+A,0,2,2,3;animalia.,MX;;;,animalia. MX mx1.animalia. 6 0,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,; 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.14:42:47 RR 127.0.0.1: 3412,Q+I,0,0,0,0;animalia.,MX;;;
+02:01:2023.14:42:47 RP 127.0.0.1: 3412,R+A,0,2,2,3;animalia.,MX;;;,animalia. MX mx1.animalia. 6 0,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,; 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.14:42:48 RR 127.0.0.1: 24719,Q+I,0,0,0,0;animalia.,MX;;;
+02:01:2023.14:42:48 RP 127.0.0.1: 24719,R+A,0,2,2,3;animalia.,MX;;;,animalia. MX mx1.animalia. 6 0,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,; 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.14:42:48 RR 127.0.0.1: 24719,Q+I,0,0,0,0;animalia.,MX;;;
+02:01:2023.14:42:48 RP 127.0.0.1: 24719,R+A,0,2,2,3;animalia.,MX;;;,animalia. MX mx1.animalia. 6 0,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,; 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.14:42:49 RR 127.0.0.1: 49164,Q+I,0,0,0,0;animalia.,MX;;;
+02:01:2023.14:42:49 RP 127.0.0.1: 49164,R+A,0,2,2,3;animalia.,MX;;;,animalia. MX mx1.animalia. 6 0,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,; 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.14:42:49 RR 127.0.0.1: 49164,Q+I,0,0,0,0;animalia.,MX;;;
+02:01:2023.14:42:49 RP 127.0.0.1: 49164,R+A,0,2,2,3;animalia.,MX;;;,animalia. MX mx1.animalia. 6 0,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,; 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.14:42:50 RR 127.0.0.1: 22658,Q+I,0,0,0,0;animalia.,MX;;;
+02:01:2023.14:42:50 RP 127.0.0.1: 22658,R+A,0,2,2,3;animalia.,MX;;;,animalia. MX mx1.animalia. 6 0,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,; 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.14:43:27 RR 127.0.0.1: 5220,Q+I,0,0,0,0;animalia.,MX;;;
+02:01:2023.14:43:27 RP 127.0.0.1: 5220,R+A,0,2,2,3;animalia.,MX;;;,animalia. MX mx1.animalia. 6 0,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,; 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.14:43:28 RR 127.0.0.1: 51138,Q+I,0,0,0,0;animalia.,MX;;;
+02:01:2023.14:43:28 RP 127.0.0.1: 51138,R+A,0,2,2,3;animalia.,MX;;;,animalia. MX mx1.animalia. 6 0,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,; 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.14:43:29 RR 127.0.0.1: 17407,Q+I,0,0,0,0;animalia.,MX;;;
+02:01:2023.14:43:29 RP 127.0.0.1: 17407,R+A,0,2,2,3;animalia.,MX;;;,animalia. MX mx1.animalia. 6 0,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,; 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.14:43:30 RR 127.0.0.1: 18499,Q+I,0,0,0,0;animalia.,MX;;;
+02:01:2023.14:43:30 RP 127.0.0.1: 18499,R+A,0,2,2,3;animalia.,MX;;;,animalia. MX mx1.animalia. 6 0,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,; 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.14:44:28 ST 1500 20000 debug
+02:01:2023.14:44:28 EV 127.0.0.1 config-file-read dns_local/ST.conf
+02:01:2023.14:44:28 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+02:01:2023.14:44:28 EV 127.0.0.1 UDP socket
+02:01:2023.14:44:28 EV 127.0.0.1 UDP bind on port 1500
+02:01:2023.14:44:33 RR 127.0.0.1: 51099,Q+I,0,0,0,0;animalia.,A;;;
+02:01:2023.14:44:33 RP 127.0.0.1: 51099,R+A,0,0,2,2;animalia.,A;;;,animalia. NS sdt1.animalia. 6,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.14:44:40 RR 127.0.0.1: 48276,Q+I,0,0,0,0;sdt1.animalia.,A;;;
+02:01:2023.14:44:40 RP 127.0.0.1: 48276,R+A,0,1,2,2;sdt1.animalia.,A;;;,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.14:44:42 RR 127.0.0.1: 65221,Q+I,0,0,0,0;sdt1.animalia.,A;;;
+02:01:2023.14:44:42 RP 127.0.0.1: 65221,R+A,0,1,0,0;sdt1.animalia.,A;sdt1.animalia. A 10.2.2.1 6,;;
+02:01:2023.14:45:31 ST 1500 20000 debug
+02:01:2023.14:45:31 EV 127.0.0.1 config-file-read dns_local/ST.conf
+02:01:2023.14:45:31 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+02:01:2023.14:45:31 EV 127.0.0.1 UDP socket
+02:01:2023.14:45:31 EV 127.0.0.1 UDP bind on port 1500
+02:01:2023.14:45:48 RR 127.0.0.1: 47941,Q+I,0,0,0,0;animalia.,MX;;;
+02:01:2023.14:45:48 RP 127.0.0.1: 47941,R+A,0,2,2,3;animalia.,MX;;;,animalia. MX mx1.animalia. 6 0,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,; 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.14:45:49 RR 127.0.0.1: 40705,Q+I,0,0,0,0;animalia.,MX;;;
+02:01:2023.14:45:49 RP 127.0.0.1: 40705,R+A,0,2,2,3;animalia.,MX;;;,animalia. MX mx1.animalia. 6 0,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,; 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.14:45:51 RR 127.0.0.1: 28931,Q+I,0,0,0,0;animalia.,MX;;;
+02:01:2023.14:45:51 RP 127.0.0.1: 28931,R+A,0,2,2,3;animalia.,MX;;;,animalia. MX mx1.animalia. 6 0,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,; 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.14:46:12 RR 127.0.0.1: 40737,Q+I,0,0,0,0;animalia.,MX;;;
+02:01:2023.14:46:12 RP 127.0.0.1: 40737,R+A,0,2,2,3;animalia.,MX;;;,animalia. MX mx1.animalia. 6 0,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,; 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.14:46:25 RR 127.0.0.1: 2871,Q+I,0,0,0,0;animalia.,MX;;;
+02:01:2023.14:46:25 RP 127.0.0.1: 2871,R+A,0,2,2,3;animalia.,MX;;;,animalia. MX mx1.animalia. 6 0,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,; 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.14:46:26 RR 127.0.0.1: 37922,Q+I,0,0,0,0;animalia.,MX;;;
+02:01:2023.14:46:26 RP 127.0.0.1: 37922,R+A,0,2,2,3;animalia.,MX;;;,animalia. MX mx1.animalia. 6 0,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,; 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.14:46:27 RR 127.0.0.1: 37064,Q+I,0,0,0,0;animalia.,MX;;;
+02:01:2023.14:46:27 RP 127.0.0.1: 37064,R+A,0,2,2,3;animalia.,MX;;;,animalia. MX mx1.animalia. 6 0,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,; 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.14:46:28 RR 127.0.0.1: 14465,Q+I,0,0,0,0;animalia.,MX;;;
+02:01:2023.14:46:28 RP 127.0.0.1: 14465,R+A,0,2,2,3;animalia.,MX;;;,animalia. MX mx1.animalia. 6 0,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,; 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.14:46:28 RR 127.0.0.1: 14465,Q+I,0,0,0,0;animalia.,MX;;;
+02:01:2023.14:46:28 RP 127.0.0.1: 14465,R+A,0,2,2,3;animalia.,MX;;;,animalia. MX mx1.animalia. 6 0,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,; 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.14:46:29 RR 127.0.0.1: 7100,Q+I,0,0,0,0;animalia.,MX;;;
+02:01:2023.14:46:29 RP 127.0.0.1: 7100,R+A,0,2,2,3;animalia.,MX;;;,animalia. MX mx1.animalia. 6 0,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,; 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.14:46:29 RR 127.0.0.1: 7100,Q+I,0,0,0,0;animalia.,MX;;;
+02:01:2023.14:46:29 RP 127.0.0.1: 7100,R+A,0,2,2,3;animalia.,MX;;;,animalia. MX mx1.animalia. 6 0,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,; 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.14:46:30 RR 127.0.0.1: 40389,Q+I,0,0,0,0;animalia.,MX;;;
+02:01:2023.14:46:30 RP 127.0.0.1: 40389,R+A,0,2,2,3;animalia.,MX;;;,animalia. MX mx1.animalia. 6 0,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,; 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.14:46:31 RR 127.0.0.1: 15779,Q+I,0,0,0,0;animalia.,MX;;;
+02:01:2023.14:46:31 RP 127.0.0.1: 15779,R+A,0,2,2,3;animalia.,MX;;;,animalia. MX mx1.animalia. 6 0,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,; 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.14:47:08 ST 1500 20000 debug
+02:01:2023.14:47:08 EV 127.0.0.1 config-file-read dns_local/ST.conf
+02:01:2023.14:47:08 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+02:01:2023.14:47:08 EV 127.0.0.1 UDP socket
+02:01:2023.14:47:08 EV 127.0.0.1 UDP bind on port 1500
+02:01:2023.14:48:18 ST 1500 20000 debug
+02:01:2023.14:48:18 EV 127.0.0.1 config-file-read dns_local/ST.conf
+02:01:2023.14:48:18 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+02:01:2023.14:48:18 EV 127.0.0.1 UDP socket
+02:01:2023.14:48:18 EV 127.0.0.1 UDP bind on port 1500
+02:01:2023.14:48:31 RR 127.0.0.1: 32233,Q+I,0,0,0,0;animalia.,MX;;;
+02:01:2023.14:48:31 RP 127.0.0.1: 32233,R+A,0,2,2,3;animalia.,MX;;;,animalia. MX mx1.animalia. 6 0,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,; 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.14:48:32 RR 127.0.0.1: 46260,Q+I,0,0,0,0;animalia.,MX;;;
+02:01:2023.14:48:32 RP 127.0.0.1: 46260,R+A,0,2,2,3;animalia.,MX;;;,animalia. MX mx1.animalia. 6 0,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,; 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.14:48:33 RR 127.0.0.1: 60385,Q+I,0,0,0,0;animalia.,MX;;;
+02:01:2023.14:48:33 RP 127.0.0.1: 60385,R+A,0,2,2,3;animalia.,MX;;;,animalia. MX mx1.animalia. 6 0,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,; 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.14:48:34 RR 127.0.0.1: 62043,Q+I,0,0,0,0;animalia.,MX;;;
+02:01:2023.14:48:34 RP 127.0.0.1: 62043,R+A,0,2,2,3;animalia.,MX;;;,animalia. MX mx1.animalia. 6 0,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,; 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.14:48:34 RR 127.0.0.1: 62043,Q+I,0,0,0,0;animalia.,MX;;;
+02:01:2023.14:48:34 RP 127.0.0.1: 62043,R+A,0,2,2,3;animalia.,MX;;;,animalia. MX mx1.animalia. 6 0,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,; 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.14:48:35 RR 127.0.0.1: 22352,Q+I,0,0,0,0;animalia.,MX;;;
+02:01:2023.14:48:35 RP 127.0.0.1: 22352,R+A,0,2,2,3;animalia.,MX;;;,animalia. MX mx1.animalia. 6 0,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,; 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.14:49:02 ST 1500 20000 debug
+02:01:2023.14:49:02 EV 127.0.0.1 config-file-read dns_local/ST.conf
+02:01:2023.14:49:02 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+02:01:2023.14:49:02 EV 127.0.0.1 UDP socket
+02:01:2023.14:49:02 EV 127.0.0.1 UDP bind on port 1500
+02:01:2023.14:52:09 ST 1500 20000 debug
+02:01:2023.14:52:09 EV 127.0.0.1 config-file-read dns_local/ST.conf
+02:01:2023.14:52:09 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+02:01:2023.14:52:09 EV 127.0.0.1 UDP socket
+02:01:2023.14:52:09 EV 127.0.0.1 UDP bind on port 1500
+02:01:2023.14:52:21 RR 127.0.0.1: 21180,Q+I,0,0,0,0;animalia.,MX;;;
+02:01:2023.14:52:21 RP 127.0.0.1: 21180,R+A,0,2,2,3;animalia.,MX;;;,animalia. MX mx1.animalia. 6 0,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,; 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.14:52:21 RR 127.0.0.1: 21180,Q+I,0,0,0,0;animalia.,MX;;;
+02:01:2023.14:52:21 RP 127.0.0.1: 21180,R+A,0,2,0,0;animalia.,MX;animalia. MX mx2.animalia. 6 0,animalia. MX mx1.animalia. 6 0,;;
+02:01:2023.14:52:22 RR 127.0.0.1: 65148,Q+I,0,0,0,0;animalia.,MX;;;
+02:01:2023.14:52:22 RP 127.0.0.1: 65148,R+A,0,2,0,0;animalia.,MX;animalia. MX mx2.animalia. 6 0,animalia. MX mx1.animalia. 6 0,;;
+02:01:2023.14:52:23 RR 127.0.0.1: 39248,Q+I,0,0,0,0;animalia.,MX;;;
+02:01:2023.14:52:23 RP 127.0.0.1: 39248,R+A,0,2,0,0;animalia.,MX;animalia. MX mx2.animalia. 6 0,animalia. MX mx1.animalia. 6 0,;;
+02:01:2023.14:52:29 RR 127.0.0.1: 48611,Q+I,0,0,0,0;animalia.,MX;;;
+02:01:2023.14:52:29 RP 127.0.0.1: 48611,R+A,0,2,2,3;animalia.,MX;;;,animalia. MX mx1.animalia. 6 0,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,; 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.14:52:31 RR 127.0.0.1: 13278,Q+I,0,0,0,0;animalia.,MX;;;
+02:01:2023.14:52:31 RP 127.0.0.1: 13278,R+A,0,2,0,0;animalia.,MX;animalia. MX mx2.animalia. 6 0,animalia. MX mx1.animalia. 6 0,;;
+02:01:2023.14:56:50 ST 1500 20000 debug
+02:01:2023.14:56:50 EV 127.0.0.1 config-file-read dns_local/ST.conf
+02:01:2023.14:56:50 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+02:01:2023.14:56:50 EV 127.0.0.1 UDP socket
+02:01:2023.14:56:50 EV 127.0.0.1 UDP bind on port 1500
+02:01:2023.14:56:54 RR 127.0.0.1: 50059,Q+I,0,0,0,0;animalia.,MX;;;
+02:01:2023.14:56:54 RP 127.0.0.1: 50059,R+A,0,2,2,3;animalia.,MX;;;,animalia. MX mx1.animalia. 6 0,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,; 6,,mx1.animalia. A 10.2.2.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.14:57:04 RR 127.0.0.1: 25051,Q+I,0,0,0,0;sdt1.animalia.,A;;;
+02:01:2023.14:57:04 RP 127.0.0.1: 25051,R+A,0,1,2,2;sdt1.animalia.,A;;;,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.14:57:25 RR 127.0.0.1: 55235,Q+I,0,0,0,0;sdt1.animalia.,A;;;
+02:01:2023.14:57:25 RP 127.0.0.1: 55235,R+A,0,1,2,2;sdt1.animalia.,A;;;,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.14:57:27 RR 127.0.0.1: 21897,Q+I,0,0,0,0;sdt1.animalia.,A;;;
+02:01:2023.14:57:27 RP 127.0.0.1: 21897,R+A,0,1,0,0;sdt1.animalia.,A;sdt1.animalia. A 10.2.2.1 6,;;
+02:01:2023.14:57:46 RR 127.0.0.1: 3828,R+A,0,0,0,0;sdt1.animalia.,A;;;
+02:01:2023.14:57:46 RP 127.0.0.1: 3828,R+A,0,1,2,2;sdt1.animalia.,A;;;,;animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,;sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.14:58:03 RR 127.0.0.1: 40483,Q+I,0,0,0,0;sdt1.plantae.,A;;;
+02:01:2023.14:58:03 RP 127.0.0.1: 40483,R+A,0,1,1,1;sdt1.plantae.,A;;;,;plantae. NS sdt1.plantae. 86400,;sdt1.plantae. A 10.2.2.1 86400,,;sdt1.plantae. A 10.2.2.1 86400,,
+02:01:2023.14:58:17 RR 127.0.0.1: 31050,Q+I,0,0,0,0;sdt1.plantae.,A;;;
+02:01:2023.14:58:17 RP 127.0.0.1: 31050,R+A,0,1,0,0;sdt1.plantae.,A;sdt1.plantae. A 10.2.2.1 86400,;;
+02:01:2023.14:58:18 RR 127.0.0.1: 62730,,0,0,0,0;sdt1.plantae.,A;;;
+02:01:2023.14:58:18 RP 127.0.0.1: 62730,R+A,0,1,0,0;sdt1.plantae.,A;sdt1.plantae. A 10.2.2.1 86400,;;
+02:01:2023.14:58:36 RR 127.0.0.1: 387,,0,0,0,0;sdt1.plantae.,A;;;
+02:01:2023.14:58:36 RP 127.0.0.1: 387,R+A,0,1,0,0;sdt1.plantae.,A;sdt1.plantae. A 10.2.2.1 86400,;;
+02:01:2023.14:59:02 RR 127.0.0.1: 7751,R+A,0,0,0,0;plantae.,MX;;;
+02:01:2023.14:59:02 RP 127.0.0.1: 7751,R+A,0,1,1,2;plantae.,MX;;;,;plantae. NS sdt1.plantae. 86400,;mx1.plantae. A 10.2.2.2 86400,sdt1.plantae. A 10.2.2.1 86400,,;mx1.plantae. A 10.2.2.2 86400,sdt1.plantae. A 10.2.2.1 86400,,sdt1.plantae. A 10.2.2.1 86400,,
+02:01:2023.14:59:05 RR 127.0.0.1: 61014,Q+I,0,0,0,0;plantae.,MX;;;
+02:01:2023.14:59:05 RP 127.0.0.1: 61014,R+A,0,1,0,0;plantae.,MX;plantae. MX mx1.plantae. 86400 0,;;
+02:01:2023.14:59:57 RR 127.0.0.1: 50794,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.14:59:57 RP 127.0.0.1: 50794,R+A,0,0,0,1;cao.animalia.,MX;;;,
+02:01:2023.15:00:31 RR 127.0.0.1: 42143,Q+I,0,0,0,0;sdt1.cao.animalia.,MX;;;
+02:01:2023.15:00:31 RP 127.0.0.1: 42143,R+A,0,0,0,1;sdt1.cao.animalia.,MX;;;,
+02:01:2023.15:01:22 RR 127.0.0.1: 26134,Q+I,0,0,0,0;mogli.cao.animalia.,MX;;;
+02:01:2023.15:01:22 RP 127.0.0.1: 26134,R+A,0,0,0,1;mogli.cao.animalia.,MX;;;,
+02:01:2023.15:01:46 RR 127.0.0.1: 15379,Q+I,0,0,0,0;mogli.cao.animalia.,A;;;
+02:01:2023.15:01:46 RP 127.0.0.1: 15379,R+A,0,1,1,1;mogli.cao.animalia.,A;;;,;cao.animalia. NS mogli.cao.animalia.,;mogli.cao.animalia. A 10.2.2.5 6,,;mogli.cao.animalia. A 10.2.2.5 6,,
+02:01:2023.15:02:44 RR 127.0.0.1: 29583,Q+I,0,0,0,0;mogli.cao.animalia.,A;;;
+02:01:2023.15:02:44 RP 127.0.0.1: 29583,R+A,0,1,1,1;mogli.cao.animalia.,A;;;,;cao.animalia. NS mogli.cao.animalia.,;mogli.cao.animalia. A 10.2.2.5 6,,;mogli.cao.animalia. A 10.2.2.5 6,,
+02:01:2023.15:02:51 RR 127.0.0.1: 15869,Q+I,0,0,0,0;boby.cao.animalia.,A;;;
+02:01:2023.15:02:51 RP 127.0.0.1: 15869,R+A,0,0,1,1;boby.cao.animalia.,A;;;,;mogli.cao.animalia. A 10.2.2.5 6,,
+02:01:2023.15:08:13 RR 127.0.0.1: 32856,Q+I,0,0,0,0;boby.cao.animalia.,MX;;;
+02:01:2023.15:08:13 RP 127.0.0.1: 32856,R+A,0,0,0,1;boby.cao.animalia.,MX;;;,
+02:01:2023.15:08:22 RR 127.0.0.1: 62267,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.15:08:22 RP 127.0.0.1: 62267,R+A,0,0,0,1;cao.animalia.,MX;;;,
+02:01:2023.15:40:46 RR 127.0.0.1: 43088,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.15:40:46 RP 127.0.0.1: 43088,R+A,0,0,3,3;cao.animalia.,MX;;;,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 10.2.2.5 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 10.2.2.5 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mogli.cao.animalia. A 10.2.2.5 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,;ia. A 10.2.2.1 6,,mogli.cao.animalia. A 10.2.2.5 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.15:40:48 RR 127.0.0.1: 29013,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.15:40:48 RP 127.0.0.1: 29013,R+A,0,0,3,3;cao.animalia.,MX;;;,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 10.2.2.5 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 10.2.2.5 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mogli.cao.animalia. A 10.2.2.5 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,;ia. A 10.2.2.1 6,,mogli.cao.animalia. A 10.2.2.5 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.15:40:50 RR 127.0.0.1: 55717,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.15:40:50 RP 127.0.0.1: 55717,R+A,0,0,3,3;cao.animalia.,MX;;;,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 10.2.2.5 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 10.2.2.5 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mogli.cao.animalia. A 10.2.2.5 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,;ia. A 10.2.2.1 6,,mogli.cao.animalia. A 10.2.2.5 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.15:40:51 RR 127.0.0.1: 64423,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.15:40:51 RP 127.0.0.1: 64423,R+A,0,0,3,3;cao.animalia.,MX;;;,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 10.2.2.5 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 10.2.2.5 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mogli.cao.animalia. A 10.2.2.5 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,;ia. A 10.2.2.1 6,,mogli.cao.animalia. A 10.2.2.5 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.16:03:19 ST 1500 20000 debug
+02:01:2023.16:03:19 EV 127.0.0.1 config-file-read dns_local/ST.conf
+02:01:2023.16:03:19 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+02:01:2023.16:03:19 EV 127.0.0.1 UDP socket
+02:01:2023.16:03:19 EV 127.0.0.1 UDP bind on port 1500
+02:01:2023.16:04:16 ST 1500 20000 debug
+02:01:2023.16:04:16 EV 127.0.0.1 config-file-read dns_local/ST.conf
+02:01:2023.16:04:16 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+02:01:2023.16:04:16 EV 127.0.0.1 UDP socket
+02:01:2023.16:04:16 EV 127.0.0.1 UDP bind on port 1500
+02:01:2023.16:07:51 ST 1500 20000 debug
+02:01:2023.16:07:51 EV 127.0.0.1 config-file-read dns_local/ST.conf
+02:01:2023.16:07:51 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+02:01:2023.16:07:51 EV 127.0.0.1 UDP socket
+02:01:2023.16:07:51 EV 127.0.0.1 UDP bind on port 1500
+02:01:2023.16:08:11 RR 127.0.0.1: 4762,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:08:11 RP 127.0.0.1: 4762,R+A,0,0,3,3;cao.animalia.,MX;;;,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 10.2.2.5 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 10.2.2.5 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mogli.cao.animalia. A 10.2.2.5 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,;ia. A 10.2.2.1 6,,mogli.cao.animalia. A 10.2.2.5 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.16:09:09 ST 1500 20000 debug
+02:01:2023.16:09:09 EV 127.0.0.1 config-file-read dns_local/ST.conf
+02:01:2023.16:09:09 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+02:01:2023.16:09:09 EV 127.0.0.1 UDP socket
+02:01:2023.16:09:09 EV 127.0.0.1 UDP bind on port 1500
+02:01:2023.16:09:18 RR 127.0.0.1: 41587,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:09:18 RP 127.0.0.1: 41587,R+A,0,0,3,3;cao.animalia.,MX;;;,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 10.2.2.5 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 10.2.2.5 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mogli.cao.animalia. A 10.2.2.5 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,;ia. A 10.2.2.1 6,,mogli.cao.animalia. A 10.2.2.5 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.16:12:57 RR 127.0.0.1: 36783,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:12:57 RP 127.0.0.1: 36783,R+A,0,0,3,3;cao.animalia.,MX;;;,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 10.2.2.5 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 10.2.2.5 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mogli.cao.animalia. A 10.2.2.5 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,;ia. A 10.2.2.1 6,,mogli.cao.animalia. A 10.2.2.5 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.16:14:09 ST 1500 20000 debug
+02:01:2023.16:14:09 EV 127.0.0.1 config-file-read dns_local/ST.conf
+02:01:2023.16:14:09 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+02:01:2023.16:14:09 EV 127.0.0.1 UDP socket
+02:01:2023.16:14:09 EV 127.0.0.1 UDP bind on port 1500
+02:01:2023.16:24:14 ST 1500 20000 debug
+02:01:2023.16:24:14 EV 127.0.0.1 config-file-read dns_local/ST.conf
+02:01:2023.16:24:14 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+02:01:2023.16:24:14 EV 127.0.0.1 UDP socket
+02:01:2023.16:24:14 EV 127.0.0.1 UDP bind on port 1500
+02:01:2023.16:24:20 RR 127.0.0.1: 39085,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:24:20 RP 127.0.0.1: 39085,R+A,0,0,3,3;cao.animalia.,MX;;;,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,;alia. A 10.2.2.1 6,,mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.16:24:21 RR 127.0.0.1: 39085,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:24:21 RP 127.0.0.1: 39085,R+A,0,0,3,3;cao.animalia.,MX;;;,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,;alia. A 10.2.2.1 6,,mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.16:24:22 RR 127.0.0.1: 39085,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:24:22 RP 127.0.0.1: 39085,R+A,0,0,3,3;cao.animalia.,MX;;;,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,;alia. A 10.2.2.1 6,,mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.16:24:23 RR 127.0.0.1: 39085,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:24:23 RP 127.0.0.1: 39085,R+A,0,0,3,3;cao.animalia.,MX;;;,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,;alia. A 10.2.2.1 6,,mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.16:24:24 RR 127.0.0.1: 39085,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:24:24 RP 127.0.0.1: 39085,R+A,0,0,3,3;cao.animalia.,MX;;;,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,;alia. A 10.2.2.1 6,,mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.16:24:25 RR 127.0.0.1: 39085,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:24:25 RP 127.0.0.1: 39085,R+A,0,0,3,3;cao.animalia.,MX;;;,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,;alia. A 10.2.2.1 6,,mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.16:24:26 RR 127.0.0.1: 39085,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:24:26 RP 127.0.0.1: 39085,R+A,0,0,3,3;cao.animalia.,MX;;;,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,;alia. A 10.2.2.1 6,,mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.16:24:27 RR 127.0.0.1: 39085,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:24:27 RP 127.0.0.1: 39085,R+A,0,0,3,3;cao.animalia.,MX;;;,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,;alia. A 10.2.2.1 6,,mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.16:24:28 RR 127.0.0.1: 39085,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:24:28 RP 127.0.0.1: 39085,R+A,0,0,3,3;cao.animalia.,MX;;;,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,;alia. A 10.2.2.1 6,,mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.16:24:29 RR 127.0.0.1: 39085,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:24:29 RP 127.0.0.1: 39085,R+A,0,0,3,3;cao.animalia.,MX;;;,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,;alia. A 10.2.2.1 6,,mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.16:24:30 RR 127.0.0.1: 39085,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:24:30 RP 127.0.0.1: 39085,R+A,0,0,3,3;cao.animalia.,MX;;;,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,;alia. A 10.2.2.1 6,,mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.16:24:31 RR 127.0.0.1: 39085,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:24:31 RP 127.0.0.1: 39085,R+A,0,0,3,3;cao.animalia.,MX;;;,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,;alia. A 10.2.2.1 6,,mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.16:24:32 RR 127.0.0.1: 39085,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:24:32 RP 127.0.0.1: 39085,R+A,0,0,3,3;cao.animalia.,MX;;;,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,;alia. A 10.2.2.1 6,,mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.16:24:33 RR 127.0.0.1: 39085,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:24:33 RP 127.0.0.1: 39085,R+A,0,0,3,3;cao.animalia.,MX;;;,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,;alia. A 10.2.2.1 6,,mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.16:24:34 RR 127.0.0.1: 39085,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:24:34 RP 127.0.0.1: 39085,R+A,0,0,3,3;cao.animalia.,MX;;;,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,;alia. A 10.2.2.1 6,,mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.16:24:35 RR 127.0.0.1: 39085,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:24:35 RP 127.0.0.1: 39085,R+A,0,0,3,3;cao.animalia.,MX;;;,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,;alia. A 10.2.2.1 6,,mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.16:24:36 RR 127.0.0.1: 39085,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:24:36 RP 127.0.0.1: 39085,R+A,0,0,3,3;cao.animalia.,MX;;;,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,;alia. A 10.2.2.1 6,,mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.16:24:37 RR 127.0.0.1: 39085,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:24:37 RP 127.0.0.1: 39085,R+A,0,0,3,3;cao.animalia.,MX;;;,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,;alia. A 10.2.2.1 6,,mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.16:24:38 RR 127.0.0.1: 39085,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:24:38 RP 127.0.0.1: 39085,R+A,0,0,3,3;cao.animalia.,MX;;;,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,;alia. A 10.2.2.1 6,,mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.16:24:39 RR 127.0.0.1: 39085,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:24:39 RP 127.0.0.1: 39085,R+A,0,0,3,3;cao.animalia.,MX;;;,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,;alia. A 10.2.2.1 6,,mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.16:24:40 RR 127.0.0.1: 39085,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:24:40 RP 127.0.0.1: 39085,R+A,0,0,3,3;cao.animalia.,MX;;;,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,;alia. A 10.2.2.1 6,,mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.16:25:12 ST 1500 20000 debug
+02:01:2023.16:25:12 EV 127.0.0.1 config-file-read dns_local/ST.conf
+02:01:2023.16:25:12 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+02:01:2023.16:25:12 EV 127.0.0.1 UDP socket
+02:01:2023.16:25:12 EV 127.0.0.1 UDP bind on port 1500
+02:01:2023.16:33:53 ST 1500 20000 debug
+02:01:2023.16:33:53 EV 127.0.0.1 config-file-read dns_local/ST.conf
+02:01:2023.16:33:53 EV 127.0.0.1 ST db-file-read dns_local/rootServers.db
+02:01:2023.16:33:53 EV 127.0.0.1 UDP socket
+02:01:2023.16:33:53 EV 127.0.0.1 UDP bind on port 1500
+02:01:2023.16:34:05 RR 127.0.0.1: 60727,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:34:05 RP 127.0.0.1: 60727,R+A,0,0,3,3;cao.animalia.,MX;;;,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,;alia. A 10.2.2.1 6,,mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.16:34:06 RR 127.0.0.1: 60727,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:34:06 RP 127.0.0.1: 60727,R+A,0,0,3,3;cao.animalia.,MX;;;,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,;alia. A 10.2.2.1 6,,mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.16:34:07 RR 127.0.0.1: 60727,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:34:07 RP 127.0.0.1: 60727,R+A,0,0,3,3;cao.animalia.,MX;;;,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,;alia. A 10.2.2.1 6,,mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.16:34:08 RR 127.0.0.1: 60727,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:34:08 RP 127.0.0.1: 60727,R+A,0,0,3,3;cao.animalia.,MX;;;,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,;alia. A 10.2.2.1 6,,mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.16:34:09 RR 127.0.0.1: 60727,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:34:09 RP 127.0.0.1: 60727,R+A,0,0,3,3;cao.animalia.,MX;;;,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,;alia. A 10.2.2.1 6,,mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.16:34:10 RR 127.0.0.1: 60727,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:34:10 RP 127.0.0.1: 60727,R+A,0,0,3,3;cao.animalia.,MX;;;,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,;alia. A 10.2.2.1 6,,mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.16:34:11 RR 127.0.0.1: 60727,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:34:11 RP 127.0.0.1: 60727,R+A,0,0,3,3;cao.animalia.,MX;;;,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,;alia. A 10.2.2.1 6,,mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.16:34:12 RR 127.0.0.1: 60727,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:34:12 RP 127.0.0.1: 60727,R+A,0,0,3,3;cao.animalia.,MX;;;,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,;alia. A 10.2.2.1 6,,mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.16:34:13 RR 127.0.0.1: 60727,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:34:13 RP 127.0.0.1: 60727,R+A,0,0,3,3;cao.animalia.,MX;;;,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,;alia. A 10.2.2.1 6,,mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.16:34:14 RR 127.0.0.1: 60727,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:34:14 RP 127.0.0.1: 60727,R+A,0,0,3,3;cao.animalia.,MX;;;,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,;alia. A 10.2.2.1 6,,mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.16:34:15 RR 127.0.0.1: 60727,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:34:15 RP 127.0.0.1: 60727,R+A,0,0,3,3;cao.animalia.,MX;;;,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,;alia. A 10.2.2.1 6,,mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,
+02:01:2023.16:34:16 RR 127.0.0.1: 60727,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:34:16 RP 127.0.0.1: 60727,R+A,0,0,3,3;cao.animalia.,MX;;;,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,;alia. A 10.2.2.1 6,,mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,,sdt1.animalia. A 10.2.2.1 6,,

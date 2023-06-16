@@ -1,0 +1,748 @@
+28:11:2022.15:55:01 SP log-file-created logs_local/SS-SDT1.log
+28:11:2022.15:55:01 ST 1224 20000 debug
+28:11:2022.15:55:01 EV 127.0.0.1 config-file-read dns_local/SS-SDT1.conf
+28:11:2022.15:55:01 EV 127.0.0.1 SS db-TCP-read for domain animalia with 18 lines
+28:11:2022.15:55:01 EV 127.0.0.1 TCP socket
+28:11:2022.15:55:01 EV 127.0.0.1 TCP bind on port 1224
+28:11:2022.15:55:01 EV 127.0.0.1 TCP listening
+28:11:2022.15:55:01 EV 127.0.0.1 UDP socket
+28:11:2022.15:55:01 EV 127.0.0.1 UDP bind on port 1224
+28:11:2022.16:06:45 ST 1224 20000 debug
+28:11:2022.16:06:45 EV 127.0.0.1 config-file-read dns_local/SS-SDT1.conf
+28:11:2022.16:06:45 EV 127.0.0.1 TCP socket
+28:11:2022.16:06:45 EV 127.0.0.1 TCP bind on port 1224
+28:11:2022.16:06:45 EV 127.0.0.1 TCP listening
+28:11:2022.16:06:45 EV 127.0.0.1 UDP socket
+28:11:2022.16:06:45 EV 127.0.0.1 UDP bind on port 1224
+28:11:2022.16:19:33 ST 1224 20000 debug
+28:11:2022.16:19:33 EV 127.0.0.1 config-file-read dns_local/SS-SDT1.conf
+28:11:2022.16:19:33 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 1521502784 lines
+28:11:2022.16:19:33 EV 127.0.0.1 SS db-TCP-read for domain animalia with 18 lines
+28:11:2022.16:19:33 EV 127.0.0.1 TCP socket
+28:11:2022.16:19:33 EV 127.0.0.1 TCP bind on port 1224
+28:11:2022.16:19:33 EV 127.0.0.1 TCP listening
+28:11:2022.16:19:33 EV 127.0.0.1 UDP socket
+28:11:2022.16:19:33 EV 127.0.0.1 UDP bind on port 1224
+01:12:2022.00:32:35 ST 1224 20000 debug
+01:12:2022.00:32:35 EV 127.0.0.1 config-file-read dns_local/SS-SDT1.conf
+01:12:2022.00:32:35 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 1185290816 lines
+01:12:2022.00:32:35 EV 127.0.0.1 SS db-TCP-read for domain animalia with 18 lines
+01:12:2022.00:32:35 EV 127.0.0.1 TCP socket
+01:12:2022.00:32:35 EV 127.0.0.1 TCP bind on port 1224
+01:12:2022.00:32:35 EV 127.0.0.1 TCP listening
+01:12:2022.00:32:35 EV 127.0.0.1 UDP socket
+01:12:2022.00:32:35 EV 127.0.0.1 UDP bind on port 1224
+01:12:2022.01:12:04 ST 1224 20000 debug
+01:12:2022.01:12:04 EV 127.0.0.1 config-file-read dns_local/SS-SDT1.conf
+01:12:2022.01:12:04 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with -290842048 lines
+01:12:2022.01:12:04 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with -290842048 lines
+01:12:2022.01:12:04 EV 127.0.0.1 TCP socket
+01:12:2022.01:12:04 EV 127.0.0.1 TCP bind on port 1224
+01:12:2022.01:12:04 EV 127.0.0.1 TCP listening
+01:12:2022.01:12:04 EV 127.0.0.1 UDP socket
+01:12:2022.01:12:04 EV 127.0.0.1 UDP bind on port 1224
+01:12:2022.01:12:04 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 1472061069 lines
+01:12:2022.01:12:04 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 1472061069 lines
+01:12:2022.01:12:04 EZ 127.0.0.1 Failed domain 127.0.0.1 transfer to domain: plantae, domain does not exist or client is not authorized
+01:12:2022.01:12:04 EV 127.0.0.1 SS db-TCP-read for domain plantae with 0 lines
+01:12:2022.01:12:04 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 0 lines
+01:12:2022.01:13:55 ST 1224 20000 debug
+01:12:2022.01:13:55 EV 127.0.0.1 config-file-read dns_local/SS-SDT1.conf
+01:12:2022.01:13:55 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 1431718464 lines
+01:12:2022.01:13:55 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 1431718464 lines
+01:12:2022.01:13:58 EV 127.0.0.1 TCP socket
+01:12:2022.01:14:01 EV 127.0.0.1 TCP bind on port 1224
+01:12:2022.01:14:06 EV 127.0.0.1 TCP listening
+01:12:2022.01:14:07 EV 127.0.0.1 UDP socket
+01:12:2022.01:14:09 EV 127.0.0.1 UDP bind on port 1224
+01:12:2022.01:14:15 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with -136180083 lines
+01:12:2022.01:14:15 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with -136180083 lines
+01:12:2022.01:15:21 EZ 127.0.0.1 Failed domain 127.0.0.1 transfer to domain: plantae, domain does not exist or client is not authorized
+01:12:2022.01:15:21 EV 127.0.0.1 SS db-TCP-read for domain plantae with 0 lines
+01:12:2022.01:15:21 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 0 lines
+01:12:2022.01:17:59 ST 1224 20000 debug
+01:12:2022.01:17:59 EV 127.0.0.1 config-file-read dns_local/SS-SDT1.conf
+01:12:2022.01:17:59 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 1998309952 lines
+01:12:2022.01:17:59 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 1998309952 lines
+01:12:2022.01:17:59 EV 127.0.0.1 TCP socket
+01:12:2022.01:17:59 EV 127.0.0.1 TCP bind on port 1224
+01:12:2022.01:17:59 EV 127.0.0.1 TCP listening
+01:12:2022.01:17:59 EV 127.0.0.1 UDP socket
+01:12:2022.01:17:59 EV 127.0.0.1 UDP bind on port 1224
+01:12:2022.01:17:59 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with -592953715 lines
+01:12:2022.01:17:59 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with -592953715 lines
+01:12:2022.01:17:59 EZ 127.0.0.1 Failed domain 127.0.0.1 transfer to domain: plantae, domain does not exist or client is not authorized
+01:12:2022.01:17:59 EV 127.0.0.1 SS db-TCP-read for domain plantae with 0 lines
+01:12:2022.01:17:59 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 0 lines
+01:12:2022.01:19:05 ST 1224 20000 debug
+01:12:2022.01:19:05 EV 127.0.0.1 config-file-read dns_local/SS-SDT1.conf
+01:12:2022.01:19:05 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 1431718464 lines
+01:12:2022.01:19:05 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 1431718464 lines
+01:12:2022.01:19:08 EV 127.0.0.1 TCP socket
+01:12:2022.01:19:10 EV 127.0.0.1 TCP bind on port 1224
+01:12:2022.01:19:11 EV 127.0.0.1 TCP listening
+01:12:2022.01:19:13 EV 127.0.0.1 UDP socket
+01:12:2022.01:19:14 EV 127.0.0.1 UDP bind on port 1224
+01:12:2022.01:19:16 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with -136180083 lines
+01:12:2022.01:19:16 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with -136180083 lines
+01:12:2022.01:19:35 EZ 127.0.0.1 Failed domain 127.0.0.1 transfer to domain: plantae, domain does not exist or client is not authorized
+01:12:2022.01:19:35 EV 127.0.0.1 SS db-TCP-read for domain plantae with 0 lines
+01:12:2022.01:19:35 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 0 lines
+01:12:2022.01:20:16 ST 1224 20000 debug
+01:12:2022.01:20:16 EV 127.0.0.1 config-file-read dns_local/SS-SDT1.conf
+01:12:2022.01:20:16 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 1431718464 lines
+01:12:2022.01:20:16 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 1431718464 lines
+01:12:2022.01:20:18 EV 127.0.0.1 TCP socket
+01:12:2022.01:20:18 EV 127.0.0.1 TCP bind on port 1224
+01:12:2022.01:20:18 EV 127.0.0.1 TCP listening
+01:12:2022.01:20:18 EV 127.0.0.1 UDP socket
+01:12:2022.01:20:20 EV 127.0.0.1 UDP bind on port 1224
+01:12:2022.01:20:20 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with -136180083 lines
+01:12:2022.01:20:20 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with -136180083 lines
+01:12:2022.01:20:34 EZ 127.0.0.1 Failed domain 127.0.0.1 transfer to domain: plantae, domain does not exist or client is not authorized
+01:12:2022.01:20:34 EV 127.0.0.1 SS db-TCP-read for domain plantae with 0 lines
+01:12:2022.01:20:34 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 0 lines
+01:12:2022.01:24:35 ST 1224 20000 debug
+01:12:2022.01:24:35 EV 127.0.0.1 config-file-read dns_local/SS-SDT1.conf
+01:12:2022.01:24:35 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 1431718464 lines
+01:12:2022.01:24:35 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 1431718464 lines
+01:12:2022.01:24:38 EV 127.0.0.1 TCP socket
+01:12:2022.01:24:38 EV 127.0.0.1 TCP bind on port 1224
+01:12:2022.01:24:39 EV 127.0.0.1 TCP listening
+01:12:2022.01:24:40 EV 127.0.0.1 UDP socket
+01:12:2022.01:24:40 EV 127.0.0.1 UDP bind on port 1224
+01:12:2022.01:24:41 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with -136180083 lines
+01:12:2022.01:24:41 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with -136180083 lines
+01:12:2022.01:25:06 EZ 127.0.0.1 Failed domain 127.0.0.1 transfer to domain: plantae, domain does not exist or client is not authorized
+01:12:2022.01:25:06 EV 127.0.0.1 SS db-TCP-read for domain plantae with 0 lines
+01:12:2022.01:25:06 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 0 lines
+01:12:2022.01:27:52 ST 1224 20000 debug
+01:12:2022.01:27:52 EV 127.0.0.1 config-file-read dns_local/SS-SDT1.conf
+01:12:2022.01:27:52 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 1431718464 lines
+01:12:2022.01:27:52 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 1431718464 lines
+01:12:2022.01:28:17 ST 1224 20000 debug
+01:12:2022.01:28:17 EV 127.0.0.1 config-file-read dns_local/SS-SDT1.conf
+01:12:2022.01:32:48 ST 1224 20000 debug
+01:12:2022.01:32:48 EV 127.0.0.1 config-file-read dns_local/SS-SDT1.conf
+01:12:2022.01:32:48 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 1559050816 lines
+01:12:2022.01:32:48 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 1559050816 lines
+01:12:2022.01:32:48 EV 127.0.0.1 TCP socket
+01:12:2022.01:32:48 EV 127.0.0.1 TCP bind on port 1224
+01:12:2022.01:32:48 EV 127.0.0.1 TCP listening
+01:12:2022.01:32:48 EV 127.0.0.1 UDP socket
+01:12:2022.01:32:48 EV 127.0.0.1 UDP bind on port 1224
+01:12:2022.01:32:48 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 1869209229 lines
+01:12:2022.01:32:48 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 1869209229 lines
+01:12:2022.01:32:48 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 1869209229 lines
+01:12:2022.01:32:48 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 1869209229 lines
+01:12:2022.01:32:49 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 1869209229 lines
+01:12:2022.01:32:49 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 1869209229 lines
+01:12:2022.01:32:50 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 1869209229 lines
+01:12:2022.01:32:50 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 1869209229 lines
+01:12:2022.01:32:51 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 1869209229 lines
+01:12:2022.01:32:51 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 1869209229 lines
+01:12:2022.01:32:52 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 1869209229 lines
+01:12:2022.01:32:52 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 1869209229 lines
+01:12:2022.01:32:53 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 1869209229 lines
+01:12:2022.01:32:53 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 1869209229 lines
+01:12:2022.01:32:54 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 1869209229 lines
+01:12:2022.01:32:54 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 1869209229 lines
+01:12:2022.01:32:55 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 1869209229 lines
+01:12:2022.01:32:55 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 1869209229 lines
+01:12:2022.01:32:56 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 1869209229 lines
+01:12:2022.01:32:56 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 1869209229 lines
+01:12:2022.01:32:57 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 1869209229 lines
+01:12:2022.01:32:57 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 1869209229 lines
+01:12:2022.01:32:58 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 1869209229 lines
+01:12:2022.01:32:58 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 1869209229 lines
+01:12:2022.01:32:59 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 1869209229 lines
+01:12:2022.01:32:59 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 1869209229 lines
+01:12:2022.01:33:00 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 1869209229 lines
+01:12:2022.01:33:00 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 1869209229 lines
+01:12:2022.01:33:01 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 1869209229 lines
+01:12:2022.01:33:01 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 1869209229 lines
+01:12:2022.01:33:02 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 1869209229 lines
+01:12:2022.01:33:02 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 1869209229 lines
+01:12:2022.01:33:03 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 1869209229 lines
+01:12:2022.01:33:03 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 1869209229 lines
+01:12:2022.01:33:04 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 1869209229 lines
+01:12:2022.01:33:04 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 1869209229 lines
+01:12:2022.01:33:05 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 1869209229 lines
+01:12:2022.01:33:05 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 1869209229 lines
+01:12:2022.01:33:06 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 1869209229 lines
+01:12:2022.01:33:06 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 1869209229 lines
+01:12:2022.01:33:07 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 1869209229 lines
+01:12:2022.01:33:07 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 1869209229 lines
+01:12:2022.01:33:08 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 1869209229 lines
+01:12:2022.01:33:08 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 1869209229 lines
+01:12:2022.01:33:09 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 1869209229 lines
+01:12:2022.01:33:09 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 1869209229 lines
+01:12:2022.01:33:10 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 1869209229 lines
+01:12:2022.01:33:10 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 1869209229 lines
+01:12:2022.01:33:11 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 1869209229 lines
+01:12:2022.01:33:11 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 1869209229 lines
+01:12:2022.01:33:12 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 1869209229 lines
+01:12:2022.01:33:12 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 1869209229 lines
+01:12:2022.01:33:13 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 1869209229 lines
+01:12:2022.01:33:13 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 1869209229 lines
+01:12:2022.01:33:14 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 1869209229 lines
+01:12:2022.01:33:14 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 1869209229 lines
+01:12:2022.01:33:15 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 1869209229 lines
+01:12:2022.01:33:15 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 1869209229 lines
+01:12:2022.01:33:16 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 1869209229 lines
+01:12:2022.01:33:16 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 1869209229 lines
+01:12:2022.01:33:17 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 1869209229 lines
+01:12:2022.01:33:17 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 1869209229 lines
+01:12:2022.01:33:18 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 1869209229 lines
+01:12:2022.01:33:18 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 1869209229 lines
+01:12:2022.01:33:19 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 1869209229 lines
+01:12:2022.01:33:19 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 1869209229 lines
+01:12:2022.01:33:20 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 1869209229 lines
+01:12:2022.01:33:20 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 1869209229 lines
+01:12:2022.01:33:21 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 1869209229 lines
+01:12:2022.01:33:21 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 1869209229 lines
+01:12:2022.01:33:22 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 1869209229 lines
+01:12:2022.01:33:22 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 1869209229 lines
+01:12:2022.01:33:23 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 1869209229 lines
+01:12:2022.01:33:23 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 1869209229 lines
+01:12:2022.01:33:24 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 1869209229 lines
+01:12:2022.01:33:24 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 1869209229 lines
+01:12:2022.01:33:25 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 1869209229 lines
+01:12:2022.01:33:25 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 1869209229 lines
+01:12:2022.01:33:26 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 1869209229 lines
+01:12:2022.01:33:26 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 1869209229 lines
+01:12:2022.01:33:27 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 1869209229 lines
+01:12:2022.01:33:27 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 1869209229 lines
+01:12:2022.01:33:28 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 1869209229 lines
+01:12:2022.01:33:28 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 1869209229 lines
+01:12:2022.01:33:29 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 1869209229 lines
+01:12:2022.01:33:29 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 1869209229 lines
+01:12:2022.01:33:30 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 1869209229 lines
+01:12:2022.01:33:30 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 1869209229 lines
+01:12:2022.01:33:31 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 1869209229 lines
+01:12:2022.01:33:31 EV 127.0.0.1 SS db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:33:32 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:33:32 EV 127.0.0.1 SS db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:33:33 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:33:33 EV 127.0.0.1 SS db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:33:34 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:33:34 EV 127.0.0.1 SS db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:33:35 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:33:35 EV 127.0.0.1 SS db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:33:36 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:33:36 EV 127.0.0.1 SS db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:33:37 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:33:37 EV 127.0.0.1 SS db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:33:38 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:33:38 EV 127.0.0.1 SS db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:33:39 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:33:39 EV 127.0.0.1 SS db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:33:40 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:33:40 EV 127.0.0.1 SS db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:33:41 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:33:41 EV 127.0.0.1 SS db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:33:42 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:33:42 EV 127.0.0.1 SS db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:33:43 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:33:43 EV 127.0.0.1 SS db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:33:44 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:33:44 EV 127.0.0.1 SS db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:33:45 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:33:45 EV 127.0.0.1 SS db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:33:46 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:33:46 EV 127.0.0.1 SS db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:33:47 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:33:47 EV 127.0.0.1 SS db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:33:48 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:33:48 EV 127.0.0.1 SS db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:33:49 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:33:49 EV 127.0.0.1 SS db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:33:50 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:33:50 EV 127.0.0.1 SS db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:33:51 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:33:51 EV 127.0.0.1 SS db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:33:52 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:33:52 EV 127.0.0.1 SS db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:33:53 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:33:53 EV 127.0.0.1 SS db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:33:54 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:33:54 EV 127.0.0.1 SS db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:33:55 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:33:55 EV 127.0.0.1 SS db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:33:56 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:33:56 EV 127.0.0.1 SS db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:33:57 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:33:57 EV 127.0.0.1 SS db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:33:58 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:33:58 EV 127.0.0.1 SS db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:33:59 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:33:59 EV 127.0.0.1 SS db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:34:00 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:34:00 EV 127.0.0.1 SS db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:34:01 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:34:01 EV 127.0.0.1 SS db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:34:02 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:34:02 EV 127.0.0.1 SS db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:34:03 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:34:03 EV 127.0.0.1 SS db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:34:04 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:34:04 EV 127.0.0.1 SS db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:34:05 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:34:05 EV 127.0.0.1 SS db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:34:06 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:34:06 EV 127.0.0.1 SS db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:34:07 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:34:07 EV 127.0.0.1 SS db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:34:08 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:34:08 EV 127.0.0.1 SS db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:34:09 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:34:09 EV 127.0.0.1 SS db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:34:10 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:34:10 EV 127.0.0.1 SS db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:34:11 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:34:11 EV 127.0.0.1 SS db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:34:12 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:34:12 EV 127.0.0.1 SS db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:34:13 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:34:13 EV 127.0.0.1 SS db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:34:14 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:34:14 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:34:15 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:34:15 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:34:16 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:34:16 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:34:17 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:34:17 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:34:18 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:34:18 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:34:19 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:34:19 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:34:20 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:34:20 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:34:21 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:34:21 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:34:22 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:34:22 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:34:23 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:34:23 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:34:24 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:34:24 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:34:25 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:34:25 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:34:26 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:34:26 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:34:27 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:34:27 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:34:28 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:34:28 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:34:29 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:34:29 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:34:30 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:34:30 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:34:31 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:34:31 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:34:32 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:34:32 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:34:33 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:34:33 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:34:34 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:34:34 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:34:35 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:34:35 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:34:36 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:34:36 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:34:37 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:34:37 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:34:38 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:34:38 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:34:39 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:34:39 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:34:40 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:34:40 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:34:41 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:34:41 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:34:42 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:34:42 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:34:43 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:34:43 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:34:44 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:34:44 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:34:45 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:34:45 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:34:46 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:34:46 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:34:47 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:34:47 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:34:48 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:34:48 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:34:49 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:34:49 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:34:50 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:34:50 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:34:51 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+01:12:2022.01:34:51 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 18 lines
+01:12:2022.01:34:52 EV 127.0.0.1 SS db-TCP-read for domain plantae with 15 lines
+01:12:2022.01:34:52 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 15 lines
+01:12:2022.01:34:53 EV 127.0.0.1 SS db-TCP-read for domain plantae with 15 lines
+01:12:2022.01:34:53 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 15 lines
+01:12:2022.01:34:54 EV 127.0.0.1 SS db-TCP-read for domain plantae with 15 lines
+01:12:2022.01:34:54 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 15 lines
+01:12:2022.01:34:55 EV 127.0.0.1 SS db-TCP-read for domain plantae with 15 lines
+01:12:2022.01:34:55 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 15 lines
+01:12:2022.01:34:56 EV 127.0.0.1 SS db-TCP-read for domain plantae with 15 lines
+01:12:2022.01:34:56 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 15 lines
+01:12:2022.01:34:57 EV 127.0.0.1 SS db-TCP-read for domain plantae with 15 lines
+01:12:2022.01:34:57 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 15 lines
+01:12:2022.01:34:58 EV 127.0.0.1 SS db-TCP-read for domain plantae with 15 lines
+01:12:2022.01:34:58 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 15 lines
+01:12:2022.01:34:59 EV 127.0.0.1 SS db-TCP-read for domain plantae with 15 lines
+01:12:2022.01:34:59 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 15 lines
+01:12:2022.01:35:00 EV 127.0.0.1 SS db-TCP-read for domain plantae with 15 lines
+01:12:2022.01:35:00 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 15 lines
+01:12:2022.01:35:01 EV 127.0.0.1 SS db-TCP-read for domain plantae with 15 lines
+01:12:2022.01:35:01 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 15 lines
+01:12:2022.01:35:02 EV 127.0.0.1 SS db-TCP-read for domain plantae with 15 lines
+01:12:2022.01:35:02 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 15 lines
+01:12:2022.01:35:03 EV 127.0.0.1 SS db-TCP-read for domain plantae with 15 lines
+01:12:2022.01:35:03 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 15 lines
+01:12:2022.01:35:04 EV 127.0.0.1 SS db-TCP-read for domain plantae with 15 lines
+01:12:2022.01:35:04 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 15 lines
+01:12:2022.01:36:49 ST 1224 20000 debug
+01:12:2022.01:36:49 EV 127.0.0.1 config-file-read dns_local/SS-SDT1.conf
+01:12:2022.01:36:49 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with -1497044416 lines
+01:12:2022.01:36:49 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with -1497044416 lines
+01:12:2022.01:36:49 EV 127.0.0.1 TCP socket
+01:12:2022.01:36:49 EV 127.0.0.1 TCP bind on port 1224
+01:12:2022.01:36:49 EV 127.0.0.1 TCP listening
+01:12:2022.01:36:49 EV 127.0.0.1 UDP socket
+01:12:2022.01:36:49 EV 127.0.0.1 UDP bind on port 1224
+01:12:2022.01:36:49 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 771669645 lines
+01:12:2022.01:36:49 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 771669645 lines
+01:12:2022.01:36:49 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 771669645 lines
+01:12:2022.01:36:49 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 771669645 lines
+01:12:2022.01:36:50 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 771669645 lines
+01:12:2022.01:36:50 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 771669645 lines
+01:12:2022.01:36:51 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 771669645 lines
+01:12:2022.01:36:51 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 771669645 lines
+01:12:2022.01:36:52 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 771669645 lines
+01:12:2022.01:36:52 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 771669645 lines
+01:12:2022.01:36:53 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 771669645 lines
+01:12:2022.01:36:53 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 771669645 lines
+01:12:2022.01:36:54 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 771669645 lines
+01:12:2022.01:36:54 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 771669645 lines
+01:12:2022.01:36:55 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 771669645 lines
+01:12:2022.01:36:55 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 771669645 lines
+01:12:2022.01:36:56 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 771669645 lines
+01:12:2022.01:36:56 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 771669645 lines
+01:12:2022.01:36:57 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 771669645 lines
+01:12:2022.01:36:57 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 771669645 lines
+01:12:2022.01:36:58 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 771669645 lines
+01:12:2022.01:36:58 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 771669645 lines
+01:12:2022.01:36:59 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 771669645 lines
+01:12:2022.01:36:59 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 771669645 lines
+01:12:2022.01:37:00 EV 127.0.0.1 SS db-TCP-read for domain plantae with 15 lines
+01:12:2022.01:37:00 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 15 lines
+01:12:2022.01:37:01 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 15 lines
+01:12:2022.01:37:02 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 15 lines
+01:12:2022.01:37:03 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 15 lines
+01:12:2022.01:37:04 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 15 lines
+01:12:2022.01:37:05 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 15 lines
+01:12:2022.01:37:06 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 15 lines
+01:12:2022.01:37:07 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 15 lines
+01:12:2022.01:37:08 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 15 lines
+01:12:2022.01:37:09 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 15 lines
+01:12:2022.01:37:10 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 15 lines
+01:12:2022.01:37:11 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 15 lines
+01:12:2022.01:37:12 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 15 lines
+01:12:2022.01:37:13 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 15 lines
+01:12:2022.01:37:14 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 15 lines
+01:12:2022.01:37:15 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 15 lines
+01:12:2022.01:37:16 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 15 lines
+01:12:2022.01:37:17 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 15 lines
+01:12:2022.01:37:18 EV 127.0.0.1 SS db-TCP-read for domain animalia with 18 lines
+30:12:2022.15:08:12 ST 1224 20000 debug
+30:12:2022.15:08:12 EV 127.0.0.1 config-file-read dns_local/SS-SDT1.conf
+30:12:2022.15:08:12 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with -1258132928 lines
+30:12:2022.15:08:12 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with -1258132928 lines
+30:12:2022.15:08:12 EV 127.0.0.1 TCP socket
+30:12:2022.15:08:12 EV 127.0.0.1 TCP bind on port 1224
+30:12:2022.15:08:12 EV 127.0.0.1 TCP listening
+30:12:2022.15:08:12 EV 127.0.0.1 UDP socket
+30:12:2022.15:08:12 EV 127.0.0.1 UDP bind on port 1224
+30:12:2022.15:08:16 EV 127.0.0.1 SS db-TCP-read for domain plantae with 15 lines
+30:12:2022.15:08:16 EV 127.0.0.1 SS db-TCP-read for domain animalia with 18 lines
+30:12:2022.18:21:42 ST 1224 20000 debug
+30:12:2022.18:21:42 EV 127.0.0.1 config-file-read dns_local/SS-SDT1.conf
+30:12:2022.18:21:42 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with -664278464 lines
+30:12:2022.18:21:42 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with -664278464 lines
+30:12:2022.18:21:42 EV 127.0.0.1 TCP socket
+30:12:2022.18:21:42 EV 127.0.0.1 TCP bind on port 1224
+30:12:2022.18:21:42 EV 127.0.0.1 TCP listening
+30:12:2022.18:21:42 EV 127.0.0.1 UDP socket
+30:12:2022.18:21:42 EV 127.0.0.1 UDP bind on port 1224
+30:12:2022.18:21:46 EV 127.0.0.1 SS db-TCP-read for domain plantae with 0 lines
+30:12:2022.18:21:46 EV 127.0.0.1 SS db-TCP-read for domain animalia with 0 lines
+30:12:2022.18:25:42 ST 1224 20000 debug
+30:12:2022.18:25:42 EV 127.0.0.1 config-file-read dns_local/SS-SDT1.conf
+30:12:2022.18:25:42 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 587491904 lines
+30:12:2022.18:25:42 EV 127.0.0.1 SS db-TCP-read for domain animalia with 0 lines
+30:12:2022.18:25:42 EV 127.0.0.1 TCP socket
+30:12:2022.18:25:42 EV 127.0.0.1 TCP bind on port 1224
+30:12:2022.18:25:42 EV 127.0.0.1 TCP listening
+30:12:2022.18:25:42 EV 127.0.0.1 UDP socket
+30:12:2022.18:25:42 EV 127.0.0.1 UDP bind on port 1224
+30:12:2022.18:25:46 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 548785805 lines
+30:12:2022.18:25:50 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 548785805 lines
+30:12:2022.18:25:54 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 548785805 lines
+30:12:2022.18:25:59 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 548785805 lines
+30:12:2022.18:26:03 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 548785805 lines
+30:12:2022.18:26:07 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 548785805 lines
+30:12:2022.18:26:11 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 548785805 lines
+30:12:2022.18:26:15 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 548785805 lines
+30:12:2022.18:26:19 ST 1224 20000 debug
+30:12:2022.18:26:19 EV 127.0.0.1 config-file-read dns_local/SS-SDT1.conf
+30:12:2022.18:26:19 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 1085672000 lines
+30:12:2022.18:26:19 EV 127.0.0.1 SS db-TCP-read for domain animalia with 0 lines
+30:12:2022.18:26:19 EV 127.0.0.1 TCP socket
+30:12:2022.18:26:19 EV 127.0.0.1 TCP bind on port 1224
+30:12:2022.18:26:19 EV 127.0.0.1 TCP listening
+30:12:2022.18:26:19 EV 127.0.0.1 UDP socket
+30:12:2022.18:26:19 EV 127.0.0.1 UDP bind on port 1224
+30:12:2022.18:26:23 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with -185790835 lines
+30:12:2022.18:26:27 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with -185790835 lines
+30:12:2022.18:26:31 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with -185790835 lines
+30:12:2022.18:26:35 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with -185790835 lines
+30:12:2022.18:26:39 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with -185790835 lines
+30:12:2022.18:27:21 ST 1224 20000 debug
+30:12:2022.18:27:24 EV 127.0.0.1 config-file-read dns_local/SS-SDT1.conf
+30:12:2022.18:29:34 ST 1224 20000 debug
+30:12:2022.18:29:37 EV 127.0.0.1 config-file-read dns_local/SS-SDT1.conf
+30:12:2022.18:29:52 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 1431718464 lines
+30:12:2022.18:32:51 ST 1224 20000 debug
+30:12:2022.18:32:51 EV 127.0.0.1 config-file-read dns_local/SS-SDT1.conf
+30:12:2022.18:33:04 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 1431718464 lines
+30:12:2022.18:33:20 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with 1431718464 lines
+30:12:2022.18:34:19 ST 1224 20000 debug
+30:12:2022.18:34:20 EV 127.0.0.1 config-file-read dns_local/SS-SDT1.conf
+30:12:2022.18:34:26 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 1431718464 lines
+30:12:2022.18:35:42 ST 1224 20000 debug
+30:12:2022.18:35:44 EV 127.0.0.1 config-file-read dns_local/SS-SDT1.conf
+30:12:2022.18:35:50 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 1431718464 lines
+30:12:2022.18:36:43 ST 1224 20000 debug
+30:12:2022.18:36:43 EV 127.0.0.1 config-file-read dns_local/SS-SDT1.conf
+30:12:2022.18:36:48 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 1431718464 lines
+30:12:2022.18:37:55 ST 1224 20000 debug
+30:12:2022.18:37:55 EV 127.0.0.1 config-file-read dns_local/SS-SDT1.conf
+30:12:2022.18:38:02 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 1431718464 lines
+30:12:2022.18:40:12 ST 1224 20000 debug
+30:12:2022.18:40:12 EV 127.0.0.1 config-file-read dns_local/SS-SDT1.conf
+30:12:2022.18:40:18 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 1431718464 lines
+30:12:2022.18:43:07 ST 1224 20000 debug
+30:12:2022.18:43:07 EV 127.0.0.1 config-file-read dns_local/SS-SDT1.conf
+30:12:2022.18:43:07 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with -2135033280 lines
+30:12:2022.18:43:07 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with -2135033280 lines
+30:12:2022.18:43:07 EV 127.0.0.1 TCP socket
+30:12:2022.18:43:07 EV 127.0.0.1 TCP bind on port 1224
+30:12:2022.18:43:07 EV 127.0.0.1 TCP listening
+30:12:2022.18:43:07 EV 127.0.0.1 UDP socket
+30:12:2022.18:43:07 EV 127.0.0.1 UDP bind on port 1224
+30:12:2022.18:43:11 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with -722096499 lines
+30:12:2022.18:43:11 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with -722096499 lines
+30:12:2022.18:43:15 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with -722096499 lines
+30:12:2022.18:43:15 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with -722096499 lines
+30:12:2022.18:43:19 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with -722096499 lines
+30:12:2022.18:43:19 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with -722096499 lines
+30:12:2022.18:43:23 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with -722096499 lines
+30:12:2022.18:43:23 EV 127.0.0.1 SS failed db-TCP-read for domain animalia with -722096499 lines
+30:12:2022.18:43:27 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with -722096499 lines
+30:12:2022.18:43:27 EV 127.0.0.1 SS db-TCP-read for domain animalia with 18 lines
+30:12:2022.18:43:31 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+30:12:2022.18:43:35 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+30:12:2022.18:43:39 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+30:12:2022.18:43:43 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+30:12:2022.18:43:47 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+30:12:2022.18:43:51 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+30:12:2022.18:43:55 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+30:12:2022.18:43:59 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+30:12:2022.18:44:03 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+30:12:2022.18:44:07 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+30:12:2022.18:44:11 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+30:12:2022.18:44:15 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with 18 lines
+30:12:2022.18:55:00 ST 1224 20000 debug
+30:12:2022.18:55:00 EV 127.0.0.1 config-file-read dns_local/SS-SDT1.conf
+30:12:2022.18:55:00 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with -1455142336 lines
+30:12:2022.18:55:00 EV 127.0.0.1 SS db-TCP-read for domain animalia with 18 lines
+30:12:2022.18:55:00 EV 127.0.0.1 TCP socket
+30:12:2022.18:55:00 EV 127.0.0.1 TCP bind on port 1224
+30:12:2022.18:55:00 EV 127.0.0.1 TCP listening
+30:12:2022.18:55:00 EV 127.0.0.1 UDP socket
+30:12:2022.18:55:00 EV 127.0.0.1 UDP bind on port 1224
+30:12:2022.18:55:04 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with -804249971 lines
+30:12:2022.18:55:08 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with -804249971 lines
+30:12:2022.18:55:12 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with -804249971 lines
+30:12:2022.18:55:16 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with -804249971 lines
+30:12:2022.18:55:20 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with -804249971 lines
+30:12:2022.18:55:24 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with -804249971 lines
+30:12:2022.18:55:28 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with -804249971 lines
+30:12:2022.18:55:32 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with -804249971 lines
+30:12:2022.18:55:36 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with -804249971 lines
+30:12:2022.18:55:40 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with -804249971 lines
+30:12:2022.18:55:44 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with -804249971 lines
+30:12:2022.18:55:48 EV 127.0.0.1 SS failed db-TCP-read for domain plantae with -804249971 lines
+30:12:2022.18:57:12 ST 1224 20000 debug
+30:12:2022.18:57:12 EV 127.0.0.1 config-file-read dns_local/SS-SDT1.conf
+30:12:2022.19:01:16 ST 1224 20000 debug
+30:12:2022.19:01:16 EV 127.0.0.1 config-file-read dns_local/SS-SDT1.conf
+30:12:2022.19:01:16 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:01:16 EV 127.0.0.1 SS db-TCP-read for domain animalia with 18 lines
+30:12:2022.19:01:16 EV 127.0.0.1 TCP socket
+30:12:2022.19:01:16 EV 127.0.0.1 TCP bind on port 1224
+30:12:2022.19:01:16 EV 127.0.0.1 TCP listening
+30:12:2022.19:01:16 EV 127.0.0.1 UDP socket
+30:12:2022.19:01:16 EV 127.0.0.1 UDP bind on port 1224
+30:12:2022.19:01:20 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:01:23 EV 127.0.0.1 SS db-TCP-read for domain animalia with 18 lines
+30:12:2022.19:01:24 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:01:28 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:01:30 EV 127.0.0.1 SS db-TCP-read for domain animalia with 18 lines
+30:12:2022.19:01:32 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:01:36 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:01:37 EV 127.0.0.1 SS db-TCP-read for domain animalia with 18 lines
+30:12:2022.19:01:40 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:01:44 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:01:44 EV 127.0.0.1 SS db-TCP-read for domain animalia with 18 lines
+30:12:2022.19:01:48 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:01:51 EV 127.0.0.1 SS db-TCP-read for domain animalia with 18 lines
+30:12:2022.19:01:52 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:03:02 ST 1224 20000 debug
+30:12:2022.19:03:02 EV 127.0.0.1 config-file-read dns_local/SS-SDT1.conf
+30:12:2022.19:03:09 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:05:31 ST 1224 20000 debug
+30:12:2022.19:05:31 EV 127.0.0.1 config-file-read dns_local/SS-SDT1.conf
+30:12:2022.19:05:36 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:06:56 ST 1224 20000 debug
+30:12:2022.19:06:56 EV 127.0.0.1 config-file-read dns_local/SS-SDT1.conf
+30:12:2022.19:06:56 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:06:56 EV 127.0.0.1 SS db-TCP-read for domain animalia with 18 lines
+30:12:2022.19:06:56 EV 127.0.0.1 TCP socket
+30:12:2022.19:06:56 EV 127.0.0.1 TCP bind on port 1224
+30:12:2022.19:06:56 EV 127.0.0.1 TCP listening
+30:12:2022.19:06:56 EV 127.0.0.1 UDP socket
+30:12:2022.19:06:56 EV 127.0.0.1 UDP bind on port 1224
+30:12:2022.19:07:00 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:07:04 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:07:08 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:07:12 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:07:16 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:07:20 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:07:24 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:07:28 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:07:32 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:07:36 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:07:40 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:09:15 ST 1224 20000 debug
+30:12:2022.19:09:15 EV 127.0.0.1 config-file-read dns_local/SS-SDT1.conf
+30:12:2022.19:09:15 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:09:15 EV 127.0.0.1 SS db-TCP-read for domain animalia with 18 lines
+30:12:2022.19:09:15 EV 127.0.0.1 TCP socket
+30:12:2022.19:09:15 EV 127.0.0.1 TCP bind on port 1224
+30:12:2022.19:09:15 EV 127.0.0.1 TCP listening
+30:12:2022.19:09:15 EV 127.0.0.1 UDP socket
+30:12:2022.19:09:15 EV 127.0.0.1 UDP bind on port 1224
+30:12:2022.19:09:19 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:09:22 EV 127.0.0.1 SS not db-TCP-read for domain animalia due to SOASERIAL
+30:12:2022.19:09:23 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:09:27 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:09:29 EV 127.0.0.1 SS not db-TCP-read for domain animalia due to SOASERIAL
+30:12:2022.19:09:31 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:09:35 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:09:36 EV 127.0.0.1 SS not db-TCP-read for domain animalia due to SOASERIAL
+30:12:2022.19:09:39 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:09:43 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:09:43 EV 127.0.0.1 SS not db-TCP-read for domain animalia due to SOASERIAL
+30:12:2022.19:09:47 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:09:50 EV 127.0.0.1 SS not db-TCP-read for domain animalia due to SOASERIAL
+30:12:2022.19:09:51 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:09:55 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:09:57 EV 127.0.0.1 SS not db-TCP-read for domain animalia due to SOASERIAL
+30:12:2022.19:09:59 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:10:03 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:10:04 EV 127.0.0.1 SS not db-TCP-read for domain animalia due to SOASERIAL
+30:12:2022.19:10:07 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:10:11 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:10:11 EV 127.0.0.1 SS not db-TCP-read for domain animalia due to SOASERIAL
+30:12:2022.19:10:15 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:10:18 EV 127.0.0.1 SS not db-TCP-read for domain animalia due to SOASERIAL
+30:12:2022.19:10:19 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:10:23 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:10:25 EV 127.0.0.1 SS not db-TCP-read for domain animalia due to SOASERIAL
+30:12:2022.19:10:27 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:10:31 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:10:32 EV 127.0.0.1 SS failed db-TCP-read for domain animalia
+30:12:2022.19:10:35 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:10:39 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:10:39 EV 127.0.0.1 SS failed db-TCP-read for domain animalia
+30:12:2022.19:10:43 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:10:46 EV 127.0.0.1 SS failed db-TCP-read for domain animalia
+30:12:2022.19:10:47 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:10:51 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:10:53 EV 127.0.0.1 SS failed db-TCP-read for domain animalia
+30:12:2022.19:10:55 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:10:59 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:11:00 EV 127.0.0.1 SS failed db-TCP-read for domain animalia
+30:12:2022.19:11:03 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:11:07 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:11:07 EV 127.0.0.1 SS db-TCP-read for domain animalia with 18 lines
+30:12:2022.19:11:11 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:11:14 EV 127.0.0.1 SS failed db-TCP-read for domain animalia
+30:12:2022.19:11:15 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:11:19 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:11:21 EV 127.0.0.1 SS failed db-TCP-read for domain animalia
+30:12:2022.19:11:23 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:11:27 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:11:28 EV 127.0.0.1 SS failed db-TCP-read for domain animalia
+30:12:2022.19:11:31 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:11:35 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:11:35 EV 127.0.0.1 SS failed db-TCP-read for domain animalia
+30:12:2022.19:11:39 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:11:42 EV 127.0.0.1 SS failed db-TCP-read for domain animalia
+30:12:2022.19:11:43 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:11:47 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:11:49 EV 127.0.0.1 SS failed db-TCP-read for domain animalia
+30:12:2022.19:11:51 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:11:55 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:11:56 EV 127.0.0.1 SS failed db-TCP-read for domain animalia
+30:12:2022.19:11:59 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:12:03 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:12:03 EV 127.0.0.1 SS failed db-TCP-read for domain animalia
+30:12:2022.19:12:07 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:12:10 EV 127.0.0.1 SS failed db-TCP-read for domain animalia
+30:12:2022.19:12:11 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:12:15 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:12:17 EV 127.0.0.1 SS failed db-TCP-read for domain animalia
+30:12:2022.19:12:19 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:12:23 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:12:24 EV 127.0.0.1 SS failed db-TCP-read for domain animalia
+30:12:2022.19:12:27 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:12:31 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:12:31 EV 127.0.0.1 SS failed db-TCP-read for domain animalia
+30:12:2022.19:12:35 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:12:38 EV 127.0.0.1 SS not db-TCP-read for domain animalia due to SOASERIAL
+30:12:2022.19:12:39 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:12:43 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:12:45 EV 127.0.0.1 SS not db-TCP-read for domain animalia due to SOASERIAL
+30:12:2022.19:12:47 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:12:51 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:12:52 EV 127.0.0.1 SS not db-TCP-read for domain animalia due to SOASERIAL
+30:12:2022.19:12:55 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:12:59 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:12:59 EV 127.0.0.1 SS not db-TCP-read for domain animalia due to SOASERIAL
+30:12:2022.19:13:03 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:13:06 EV 127.0.0.1 SS failed db-TCP-read for domain animalia
+30:12:2022.19:13:07 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:13:11 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:13:13 EV 127.0.0.1 SS failed db-TCP-read for domain animalia
+30:12:2022.19:13:15 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:13:19 EV 127.0.0.1 SS failed db-TCP-read for domain plantae
+30:12:2022.19:13:20 EV 127.0.0.1 SS failed db-TCP-read for domain animalia
+30:12:2022.19:13:23 EV 127.0.0.1 SS failed db-TCP-read for domain plantae

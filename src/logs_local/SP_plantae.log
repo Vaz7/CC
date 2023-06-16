@@ -1,0 +1,51 @@
+28:11:2022.15:55:01 SP log-file-created logs_local/SP_plantae.log
+28:11:2022.15:55:01 ST 1227 20000 debug
+28:11:2022.15:55:01 EV 127.0.0.1 config-file-read dns_local/SP_plantae.conf
+28:11:2022.15:55:01 SP 127.0.0.1 line 20 in DB file dns_local/embryophyta.db has invalid cname record
+28:11:2022.16:06:45 ST 1227 20000 debug
+28:11:2022.16:06:45 EV 127.0.0.1 config-file-read dns_local/SP_plantae.conf
+28:11:2022.16:06:45 EV 127.0.0.1 SP db-file-read dns_local/embryophyta.db
+28:11:2022.16:06:45 EV 127.0.0.1 TCP socket
+28:11:2022.16:06:45 EV 127.0.0.1 TCP bind on port 1227
+28:11:2022.16:06:45 EV 127.0.0.1 TCP listening
+28:11:2022.16:06:45 EV 127.0.0.1 UDP socket
+28:11:2022.16:06:45 EV 127.0.0.1 UDP bind on port 1227
+28:11:2022.16:06:45 EV 127.0.0.1 DB file for domain embryophyta.plantae sent to 127.0.0.1
+28:11:2022.16:06:45 EV 127.0.0.1 DB file for domain embryophyta.plantae sent to 127.0.0.1
+28:11:2022.16:19:33 ST 1227 20000 debug
+28:11:2022.16:19:33 EV 127.0.0.1 config-file-read dns_local/SP_plantae.conf
+28:11:2022.16:19:33 EV 127.0.0.1 SP db-file-read dns_local/embryophyta.db
+28:11:2022.16:19:33 EV 127.0.0.1 TCP socket
+28:11:2022.16:19:33 EV 127.0.0.1 TCP bind on port 1227
+28:11:2022.16:19:33 EV 127.0.0.1 TCP listening
+28:11:2022.16:19:33 EV 127.0.0.1 UDP socket
+28:11:2022.16:19:33 EV 127.0.0.1 UDP bind on port 1227
+28:11:2022.16:19:33 EV 127.0.0.1 DB file for domain embryophyta.plantae sent to 127.0.0.1
+01:12:2022.00:32:35 ST 1227 20000 debug
+01:12:2022.00:32:36 EV 127.0.0.1 config-file-read dns_local/SP_plantae.conf
+01:12:2022.00:32:36 EV 127.0.0.1 SP db-file-read dns_local/embryophyta.db
+01:12:2022.00:32:36 EV 127.0.0.1 TCP socket
+01:12:2022.00:32:36 EV 127.0.0.1 TCP bind on port 1227
+01:12:2022.00:32:36 EV 127.0.0.1 TCP listening
+01:12:2022.00:32:36 EV 127.0.0.1 UDP socket
+01:12:2022.00:32:36 EV 127.0.0.1 UDP bind on port 1227
+30:12:2022.15:08:12 ST 1227 20000 debug
+30:12:2022.15:08:12 EV 127.0.0.1 config-file-read dns_local/SP_plantae.conf
+30:12:2022.15:08:12 EV 127.0.0.1 SP db-file-read dns_local/embryophyta.db
+30:12:2022.15:08:12 EV 127.0.0.1 TCP socket
+30:12:2022.15:08:12 EV 127.0.0.1 TCP bind on port 1227
+30:12:2022.15:08:12 EV 127.0.0.1 TCP listening
+30:12:2022.15:08:12 EV 127.0.0.1 UDP socket
+30:12:2022.15:08:12 EV 127.0.0.1 UDP bind on port 1227
+30:12:2022.15:08:16 ZT 127.0.0.1 Domain embryophyta.plantae transfer to 127.0.0.1
+30:12:2022.15:08:16 ZT 127.0.0.1 Domain embryophyta.plantae transfer to 127.0.0.1
+30:12:2022.18:21:42 ST 1227 20000 debug
+30:12:2022.18:21:42 EV 127.0.0.1 config-file-read dns_local/SP_plantae.conf
+30:12:2022.18:21:42 EV 127.0.0.1 SP db-file-read dns_local/embryophyta.db
+30:12:2022.18:21:42 EV 127.0.0.1 TCP socket
+30:12:2022.18:21:42 EV 127.0.0.1 TCP bind on port 1227
+30:12:2022.18:21:42 EV 127.0.0.1 TCP listening
+30:12:2022.18:21:42 EV 127.0.0.1 UDP socket
+30:12:2022.18:21:42 EV 127.0.0.1 UDP bind on port 1227
+30:12:2022.18:21:46 ZT 127.0.0.1 Domain embryophyta.plantae transfer to 127.0.0.1 not made due to version 23434523
+30:12:2022.18:21:46 ZT 127.0.0.1 Domain embryophyta.plantae transfer to 127.0.0.1 not made due to version 23434523

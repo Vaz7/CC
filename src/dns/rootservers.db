@@ -1,0 +1,6 @@
+# exemplo de ficheiro com os root servers
+#
+# Sintaxe: IP:porta dominio
+
+127.0.0.1:100 com.
+127.0.0.1 gov.

@@ -1,0 +1,5 @@
+02:01:2023.14:58:03 SP log-file-created logs_local/SDT2.log
+02:01:2023.14:58:03 RR 127.0.0.1: 40483,Q+I,0,0,0,0;sdt1.plantae.,A;;;
+02:01:2023.14:58:03 RP 127.0.0.1: 40483,R+A,0,1,1,1;sdt1.plantae.,A;sdt1.plantae. A 10.2.2.1 86400,;plantae. NS sdt1.plantae. 86400,;sdt1.plantae. A 10.2.2.1 86400,
+02:01:2023.14:59:02 RR 127.0.0.1: 7751,,0,0,0,0;plantae.,MX;;;
+02:01:2023.14:59:02 RP 127.0.0.1: 7751,R+A,0,1,1,2;plantae,MX;plantae. MX mx1.plantae. 86400 0,;plantae. NS sdt1.plantae. 86400,;mx1.plantae. A 10.2.2.2 86400,sdt1.plantae. A 10.2.2.1 86400,

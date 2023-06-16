@@ -1,0 +1,72 @@
+28:11:2022.15:55:01 SP log-file-created logs_local/SP_animalia.log
+28:11:2022.15:55:01 ST 1226 20000 debug
+28:11:2022.15:55:01 EV 127.0.0.1 config-file-read dns_local/SP_animalia.conf
+28:11:2022.15:55:01 SP 127.0.0.1 line 20 in DB file dns_local/cao.db has invalid cname record
+28:11:2022.16:06:01 ST 1226 20000 debug
+28:11:2022.16:06:01 EV 127.0.0.1 config-file-read dns_local/SP_animalia.conf
+28:11:2022.16:06:01 EV 127.0.0.1 SP db-file-read dns_local/cao.db
+28:11:2022.16:06:01 EV 127.0.0.1 TCP socket
+28:11:2022.16:06:01 EV 127.0.0.1 TCP bind on port 1226
+28:11:2022.16:06:01 EV 127.0.0.1 TCP listening
+28:11:2022.16:06:01 EV 127.0.0.1 UDP socket
+28:11:2022.16:06:01 EV 127.0.0.1 UDP bind on port 1226
+28:11:2022.16:06:45 ST 1226 20000 debug
+28:11:2022.16:06:45 EV 127.0.0.1 config-file-read dns_local/SP_animalia.conf
+28:11:2022.16:06:45 EV 127.0.0.1 SP db-file-read dns_local/cao.db
+28:11:2022.16:06:45 EV 127.0.0.1 TCP socket
+28:11:2022.16:06:45 EV 127.0.0.1 TCP bind on port 1226
+28:11:2022.16:06:45 EV 127.0.0.1 TCP listening
+28:11:2022.16:06:45 EV 127.0.0.1 UDP socket
+28:11:2022.16:06:45 EV 127.0.0.1 UDP bind on port 1226
+28:11:2022.16:06:45 EV 127.0.0.1 DB file for domain cao.animalia sent to 127.0.0.1
+28:11:2022.16:06:45 EV 127.0.0.1 DB file for domain cao.animalia sent to 127.0.0.1
+28:11:2022.16:19:33 ST 1226 20000 debug
+28:11:2022.16:19:33 EV 127.0.0.1 config-file-read dns_local/SP_animalia.conf
+28:11:2022.16:19:33 EV 127.0.0.1 SP db-file-read dns_local/cao.db
+28:11:2022.16:19:33 EV 127.0.0.1 TCP socket
+28:11:2022.16:19:33 EV 127.0.0.1 TCP bind on port 1226
+28:11:2022.16:19:33 EV 127.0.0.1 TCP listening
+28:11:2022.16:19:33 EV 127.0.0.1 UDP socket
+28:11:2022.16:19:33 EV 127.0.0.1 UDP bind on port 1226
+28:11:2022.16:19:33 EV 127.0.0.1 DB file for domain cao.animalia sent to 127.0.0.1
+28:11:2022.16:19:33 EV 127.0.0.1 DB file for domain cao.animalia sent to 127.0.0.1
+28:11:2022.18:23:35 ST 1226 20000 debug
+28:11:2022.18:23:35 EV 127.0.0.1 config-file-read dns_local/SP_animalia.conf
+28:11:2022.18:23:35 EV 127.0.0.1 SP db-file-read dns_local/cao.db
+28:11:2022.18:23:35 EV 127.0.0.1 TCP socket
+28:11:2022.18:23:35 EV 127.0.0.1 TCP bind on port 1226
+28:11:2022.18:23:35 EV 127.0.0.1 TCP listening
+28:11:2022.18:23:35 EV 127.0.0.1 UDP socket
+28:11:2022.18:23:35 EV 127.0.0.1 UDP bind on port 1226
+28:11:2022.18:23:44 RR 127.0.0.1: 21105,Q+R,0,0,0,0;animalia.,MX;;;
+28:11:2022.18:23:44 RP 127.0.0.1: 21105,R+A,0,0,0,0;animalia.,MX;;;
+01:12:2022.00:32:35 ST 1226 20000 debug
+01:12:2022.00:32:35 EV 127.0.0.1 config-file-read dns_local/SP_animalia.conf
+01:12:2022.00:32:35 EV 127.0.0.1 SP db-file-read dns_local/cao.db
+01:12:2022.00:32:35 EV 127.0.0.1 TCP socket
+01:12:2022.00:32:35 EV 127.0.0.1 TCP bind on port 1226
+01:12:2022.00:32:35 EV 127.0.0.1 TCP listening
+01:12:2022.00:32:35 EV 127.0.0.1 UDP socket
+01:12:2022.00:32:35 EV 127.0.0.1 UDP bind on port 1226
+01:12:2022.00:32:35 ZT 127.0.0.1 Domain cao.animalia transfer to 127.0.0.1
+01:12:2022.00:32:35 ZT 127.0.0.1 Domain cao.animalia transfer to 127.0.0.1
+30:12:2022.15:08:12 ST 1226 20000 debug
+30:12:2022.15:08:12 EV 127.0.0.1 config-file-read dns_local/SP_animalia.conf
+30:12:2022.15:08:12 EV 127.0.0.1 SP db-file-read dns_local/cao.db
+30:12:2022.15:08:12 EV 127.0.0.1 TCP socket
+30:12:2022.15:08:12 EV 127.0.0.1 TCP bind on port 1226
+30:12:2022.15:08:12 EV 127.0.0.1 TCP listening
+30:12:2022.15:08:12 EV 127.0.0.1 UDP socket
+30:12:2022.15:08:12 EV 127.0.0.1 UDP bind on port 1226
+30:12:2022.15:08:16 ZT 127.0.0.1 Domain cao.animalia transfer to 127.0.0.1
+30:12:2022.15:08:16 ZT 127.0.0.1 Domain cao.animalia transfer to 127.0.0.1
+30:12:2022.18:21:42 ST 1226 20000 debug
+30:12:2022.18:21:42 EV 127.0.0.1 config-file-read dns_local/SP_animalia.conf
+30:12:2022.18:21:42 EV 127.0.0.1 SP db-file-read dns_local/cao.db
+30:12:2022.18:21:42 EV 127.0.0.1 TCP socket
+30:12:2022.18:21:42 EV 127.0.0.1 TCP bind on port 1226
+30:12:2022.18:21:42 EV 127.0.0.1 TCP listening
+30:12:2022.18:21:42 EV 127.0.0.1 UDP socket
+30:12:2022.18:21:42 EV 127.0.0.1 UDP bind on port 1226
+30:12:2022.18:21:46 ZT 127.0.0.1 Domain cao.animalia transfer to 127.0.0.1 not made due to version 23434523
+30:12:2022.18:21:46 ZT 127.0.0.1 Domain cao.animalia transfer to 127.0.0.1 not made due to version 23434523

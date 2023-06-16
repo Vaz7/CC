@@ -1,0 +1,9 @@
+02:01:2023.16:10:49 SP log-file-created logs_local/SP_an
+02:01:2023.16:10:49 ST 1226 20000 debug
+02:01:2023.16:10:49 EV 127.0.0.1 config-file-read dns_local/SP_animalia.conf
+02:01:2023.16:10:49 EV 127.0.0.1 SP db-file-read dns_local/cao.db
+02:01:2023.16:10:49 EV 127.0.0.1 TCP socket
+02:01:2023.16:10:49 EV 127.0.0.1 TCP bind on port 1226
+02:01:2023.16:10:49 EV 127.0.0.1 TCP listening
+02:01:2023.16:10:49 EV 127.0.0.1 UDP socket
+02:01:2023.16:10:49 EV 127.0.0.1 UDP bind on port 1226

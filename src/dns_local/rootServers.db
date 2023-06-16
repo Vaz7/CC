@@ -1,0 +1,4 @@
+#servidor primario / servidor dominio de topo animalia
+127.0.0.1:1222 animalia.
+#servidor primario plantae / servidor dominio de topo plantae
+127.0.0.1:1223 plantae.

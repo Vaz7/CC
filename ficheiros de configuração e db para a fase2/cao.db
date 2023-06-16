@@ -1,0 +1,21 @@
+# tabela DNS para o dominio de cao.animalia
+
+@ DEFAULT cao.animalia
+TTL DEFAULT 86400
+
+@ SOASP mogli.cao.animalia. TTL
+@ SOAADMIN a99999\.alunos.uminho.pt. TTL
+@ SOASERIAL 23434523 TTL
+@ SOAREFRESH 14400 TTL
+@ SOARETRY 3600 TTL
+@ SOAEXPIRE 604800 TTL
+
+@ NS mogli.cao.animalia. TTL
+
+@ MX mx1.cao.animalia. TTL
+
+mogli A 10.2.2.5
+boby A 10.2.2.100
+
+mx1 CNAME mogli
+selva CNAME mogli

@@ -1,0 +1,28 @@
+# tabela DNS para o dominio de topo animalia
+# com apontadores para os subdominios
+
+@ DEFAULT animalia
+TTL DEFAULT 6
+
+@ SOASP mogli.cao.animalia. TTL
+@ SOAADMIN a99999\.alunos.uminho.pt. TTL
+@ SOASERIAL 23434524 TTL
+@ SOAREFRESH 14400 TTL
+@ SOARETRY 6 TTL
+@ SOAEXPIRE 604800 TTL
+
+@ NS sdt1.animalia. TTL
+@ NS sdt2.animalia. TTL
+
+cao.@ NS mogli.cao.animalia.
+gato.@ NS mogli.cao.animalia.
+
+@ MX mx1.animalia. TTL
+@ MX mx2.animalia. TTL
+
+sdt1 A 10.2.2.1
+sdt2 A 10.2.2.2
+mx1 A 10.2.2.1
+
+mogli.cao A 10.2.2.1
+

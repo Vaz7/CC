@@ -1,0 +1,27 @@
+# tabela DNS para o dominio de topo plantae
+# com apontadores para os subdominios
+
+@ DEFAULT plantae
+TTL DEFAULT 86400
+
+@ SOASP carvalho.embryophyta.plantae. TTL
+@ SOAADMIN a99999\.alunos.uminho.pt. TTL
+@ SOASERIAL 23434523 TTL
+@ SOAREFRESH 14400 TTL
+@ SOARETRY 3600 TTL
+@ SOAEXPIRE 604800 TTL
+
+@ NS sdt1.plantae. TTL
+
+embryophyta.@ NS carvalho.embryophyta.plantae.
+viridiplantae.@ NS carvalho.embryophyta.plantae.
+
+@ MX mx1.plantae. TTL
+
+# mesmo servidor que animalia
+sdt1 A 10.2.2.1
+# o servidor de email é o sdt2
+mx1 A 10.2.2.2
+
+# o carvalho tb responde pelo viridiplantae
+carvalho.embryophyta A 10.2.2.7

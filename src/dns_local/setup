@@ -1,0 +1,16 @@
+# SDT1.conf
+./dnsServer --port 1222 --conf dns_local/SDT1.conf --log logs_local/SDT1.log &
+# SDT2.cond
+./dnsServer --port 1223 --conf dns_local/SDT2.conf --log logs_local/SDT2.log &
+# SS-SDT1
+./dnsServer --port 1224 --conf dns_local/SS-SDT1.conf --log logs_local/SS-SDT1.log &
+# SS-SDT2
+./dnsServer --port 1225 --conf dns_local/SS-SDT2.conf --log logs_local/SS-SDT2.log&
+# SP_animalia
+./dnsServer --port 1226 --conf dns_local/SP_animalia.conf --log logs_local/SP_animalia.log&
+# SP_plantae
+./dnsServer --port 1227 --conf dns_local/SP_plantae.conf  --log logs_local/SP_plantae.log&
+# SS_animalia_plantae
+./dnsServer --port 1228 --conf dns_local/SSSP1.conf --log logs_local/SSSP1.log&
+# SS_animalia_plantae
+./dnsServer --port 1229 --conf dns_local/SSSP2.conf --log logs_local/SSSP2.log&

@@ -1,0 +1,161 @@
+01:12:2022.00:30:03 SP log-file-created logs_local/SDT1.log
+01:12:2022.00:30:03 RR 127.0.0.1: 54789,Q+R,0,0,0,0;sd.animalia.,MX;;;
+01:12:2022.00:30:03 RP 127.0.0.1: 54789,R+A,0,0,0,0;sd.animalia.,MX;;;
+30:12:2022.22:29:11 RR 127.0.0.1: 63551,Q+R,0,0,0,0;example.com,A;;;
+30:12:2022.22:29:11 RP 127.0.0.1: 63551,R+A,0,0,0,0;example.com,A;;;
+30:12:2022.22:29:50 RR 127.0.0.1: 52666,Q+R,0,0,0,0;example.com,A;;;
+30:12:2022.22:29:50 RP 127.0.0.1: 52666,R+A,0,0,0,0;example.com,A;;;
+30:12:2022.22:29:52 RR 127.0.0.1: 22325,Q+R,0,0,0,0;example.com.,A;;;
+30:12:2022.22:29:52 RP 127.0.0.1: 22325,R+A,0,0,0,0;example.com.,A;;;
+30:12:2022.22:48:52 RR 127.0.0.1: 44873,Q+R,0,0,0,0;example.plantae.,A;;;
+30:12:2022.22:48:52 RP 127.0.0.1: 44873,R+A,0,0,0,0;example.plantae.,A;;;
+30:12:2022.23:04:54 RR 127.0.0.1: 39328,Q+R,0,0,0,0;example.plantae.,A;;;
+30:12:2022.23:04:54 RP 127.0.0.1: 39328,R+A,0,0,0,1;example.plantae.,A;;;plantae. A 127.0.0.1:1223,
+30:12:2022.23:10:16 RR 127.0.0.1: 28633,Q+R,0,0,0,0;example.plantae.,A;;;
+30:12:2022.23:10:16 RP 127.0.0.1: 28633,R+A,0,0,0,2;example.plantae.,A;;;. A 127.0.0.1:5000,plantae. A 127.0.0.1:1223,
+30:12:2022.23:10:33 RR 127.0.0.1: 39994,Q+R,0,0,0,0;example.plantae.,MX;;;
+30:12:2022.23:10:33 RP 127.0.0.1: 39994,R+A,0,0,0,0;example.plantae.,MX;;;
+30:12:2022.23:16:21 RR 127.0.0.1: 2239,Q+R,0,0,0,0;example.plantae.,MX;;;
+30:12:2022.23:16:21 RP 127.0.0.1: 2239,R+A,0,0,0,0;example.plantae.,MX;;;
+30:12:2022.23:18:44 RR 127.0.0.1: 19886,Q+R,0,0,0,0;example.plantae.,MX;;;
+30:12:2022.23:18:44 RP 127.0.0.1: 19886,R+A,0,0,0,0;example.plantae.,MX;;;
+30:12:2022.23:19:15 RR 127.0.0.1: 54927,Q+R,0,0,0,0;example.plantae.,MX;;;
+30:12:2022.23:19:15 RP 127.0.0.1: 54927,R+A,0,0,0,2;example.plantae.,MX;;;. A 127.0.0.1:5000,plantae. A 127.0.0.1:1223,
+02:01:2023.00:37:11 RR 127.0.0.1: 24331,Q+I,0,0,0,0;sdt1.animalia.,MX;;;
+02:01:2023.00:37:11 RP 127.0.0.1: 24331,R+A,0,0,0,1;sdt1.animalia.,MX;;;animalia. A 127.0.0.1:1222,
+02:01:2023.11:29:22 RR 127.0.0.1: 59171,Q+I,0,0,0,0;sdt1.cao.animalia.,MX;;;
+02:01:2023.11:29:22 RP 127.0.0.1: 59171,R+A,0,0,0,1;sdt1.cao.animalia.,MX;;;animalia. A 127.0.0.1:1222,
+02:01:2023.11:30:26 RR 127.0.0.1: 28712,Q+I,0,0,0,0;sdt1.cao.animalia.,MX;;;
+02:01:2023.11:30:26 RP 127.0.0.1: 28712,R+A,0,0,0,1;sdt1.cao.animalia.,MX;;;animalia. A 127.0.0.1:1222,
+02:01:2023.11:30:33 RR 127.0.0.1: 20794,Q+I,0,0,0,0;sdt1.animalia.,MX;;;
+02:01:2023.11:30:33 RP 127.0.0.1: 20794,R+A,0,0,0,1;sdt1.animalia.,MX;;;animalia. A 127.0.0.1:1222,
+02:01:2023.11:31:05 RR 127.0.0.1: 57496,Q+I,0,0,0,0;sdt1.animalia.,MX;;;
+02:01:2023.11:31:05 RP 127.0.0.1: 57496,R+A,0,0,0,1;sdt1.animalia.,MX;;;animalia. A 127.0.0.1:1222,
+02:01:2023.11:34:31 RR 127.0.0.1: 3218,Q+I,0,0,0,0;sdt1.animalia.,MX;;;
+02:01:2023.11:34:31 RP 127.0.0.1: 3218,R+A,0,0,0,1;sdt1.animalia.,MX;;;animalia. A 127.0.0.1:1222,
+02:01:2023.11:36:58 RR 127.0.0.1: 45065,Q+I,0,0,0,0;sdt1.animalia.,MX;;;
+02:01:2023.11:36:58 RP 127.0.0.1: 45065,R+A,0,0,0,1;sdt1.animalia.,MX;;;animalia. A 127.0.0.1:1222,
+02:01:2023.14:42:28 RR 127.0.0.1: 36432,Q+I,0,0,0,0;sdt2.animalia.,MX;;;
+02:01:2023.14:42:28 RP 127.0.0.1: 36432,R+A,0,0,0,1;sdt2.animalia.,MX;;;animalia. A 127.0.0.1:1222,
+02:01:2023.14:59:57 RR 127.0.0.1: 50794,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.14:59:57 RP 127.0.0.1: 50794,R+A,0,0,0,1;cao.animalia.,MX;;;animalia. A 127.0.0.1:1222,
+02:01:2023.15:00:31 RR 127.0.0.1: 42143,Q+I,0,0,0,0;sdt1.cao.animalia.,MX;;;
+02:01:2023.15:00:31 RP 127.0.0.1: 42143,R+A,0,0,0,1;sdt1.cao.animalia.,MX;;;animalia. A 127.0.0.1:1222,
+02:01:2023.15:01:22 RR 127.0.0.1: 26134,Q+I,0,0,0,0;mogli.cao.animalia.,MX;;;
+02:01:2023.15:01:22 RP 127.0.0.1: 26134,R+A,0,0,0,1;mogli.cao.animalia.,MX;;;animalia. A 127.0.0.1:1222,
+02:01:2023.15:08:13 RR 127.0.0.1: 32856,Q+I,0,0,0,0;boby.cao.animalia.,MX;;;
+02:01:2023.15:08:13 RP 127.0.0.1: 32856,R+A,0,0,0,1;boby.cao.animalia.,MX;;;animalia. A 127.0.0.1:1222,
+02:01:2023.15:08:22 RR 127.0.0.1: 62267,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.15:08:22 RP 127.0.0.1: 62267,R+A,0,0,0,1;cao.animalia.,MX;;;animalia. A 127.0.0.1:1222,
+02:01:2023.15:08:53 RR 127.0.0.1: 51729,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.15:08:53 RP 127.0.0.1: 51729,R+A,0,0,0,1;cao.animalia.,MX;;;animalia. A 127.0.0.1:1222,
+02:01:2023.15:10:28 RR 127.0.0.1: 13104,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.15:10:28 RP 127.0.0.1: 13104,R+A,0,0,0,1;cao.animalia.,MX;;;animalia. A 127.0.0.1:1222,
+02:01:2023.15:14:00 RR 127.0.0.1: 27286,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.15:14:00 RP 127.0.0.1: 27286,R+A,0,0,0,1;cao.animalia.,MX;;;animalia. A 127.0.0.1:1222,
+02:01:2023.15:16:11 RR 127.0.0.1: 27610,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.15:16:11 RP 127.0.0.1: 27610,R+A,0,0,0,1;cao.animalia.,MX;;;animalia. A 127.0.0.1:1222,
+02:01:2023.15:18:06 RR 127.0.0.1: 16837,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.15:18:12 RP 127.0.0.1: 16837,R+A,0,0,0,1;cao.animalia.,MX;;;animalia. A 127.0.0.1:1222,
+02:01:2023.15:18:28 RR 127.0.0.1: 57979,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.15:18:28 RP 127.0.0.1: 57979,R+A,0,0,0,1;cao.animalia.,MX;;;animalia. A 127.0.0.1:1222,
+02:01:2023.15:27:35 RR 127.0.0.1: 1398,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.15:27:35 RP 127.0.0.1: 1398,R+A,0,0,0,1;cao.animalia.,MX;;;animalia. A 127.0.0.1:1222,
+02:01:2023.15:29:12 RR 127.0.0.1: 19453,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.15:29:12 RP 127.0.0.1: 19453,R+A,0,0,0,1;cao.animalia.,MX;;;animalia. A 127.0.0.1:1222,
+02:01:2023.15:39:07 RR 127.0.0.1: 23058,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.15:39:07 RP 127.0.0.1: 23058,R+A,0,0,3,3;cao.animalia.,MX;;cao.animalia. NS mogli.cao.animalia.,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 10.2.2.5 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,
+02:01:2023.15:39:24 RR 127.0.0.1: 5672,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.15:39:24 RP 127.0.0.1: 5672,R+A,0,0,3,3;cao.animalia.,MX;;cao.animalia. NS mogli.cao.animalia.,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 10.2.2.5 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,
+02:01:2023.15:40:46 RR 127.0.0.1: 43088,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.15:40:46 RP 127.0.0.1: 43088,R+A,0,0,3,3;cao.animalia.,MX;;cao.animalia. NS mogli.cao.animalia.,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 10.2.2.5 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,
+02:01:2023.15:40:48 RR 127.0.0.1: 29013,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.15:40:48 RP 127.0.0.1: 29013,R+A,0,0,3,3;cao.animalia.,MX;;cao.animalia. NS mogli.cao.animalia.,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 10.2.2.5 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,
+02:01:2023.15:40:50 RR 127.0.0.1: 55717,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.15:40:50 RP 127.0.0.1: 55717,R+A,0,0,3,3;cao.animalia.,MX;;cao.animalia. NS mogli.cao.animalia.,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 10.2.2.5 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,
+02:01:2023.15:40:51 RR 127.0.0.1: 64423,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.15:40:51 RP 127.0.0.1: 64423,R+A,0,0,3,3;cao.animalia.,MX;;cao.animalia. NS mogli.cao.animalia.,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 10.2.2.5 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,
+02:01:2023.16:03:51 RR 127.0.0.1: 41725,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:03:51 RP 127.0.0.1: 41725,R+A,0,0,3,3;cao.animalia.,MX;;cao.animalia. NS mogli.cao.animalia.,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 10.2.2.5 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,
+02:01:2023.16:05:37 RR 127.0.0.1: 12362,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:05:37 RP 127.0.0.1: 12362,R+A,0,0,3,3;cao.animalia.,MX;;cao.animalia. NS mogli.cao.animalia.,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 10.2.2.5 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,
+02:01:2023.16:07:56 RR 127.0.0.1: 4762,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:07:56 RP 127.0.0.1: 4762,R+A,0,0,3,3;cao.animalia.,MX;;cao.animalia. NS mogli.cao.animalia.,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 10.2.2.5 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,
+02:01:2023.16:09:15 RR 127.0.0.1: 41587,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:09:15 RP 127.0.0.1: 41587,R+A,0,0,3,3;cao.animalia.,MX;;cao.animalia. NS mogli.cao.animalia.,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 10.2.2.5 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,
+02:01:2023.16:12:54 RR 127.0.0.1: 36783,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:12:54 RP 127.0.0.1: 36783,R+A,0,0,3,3;cao.animalia.,MX;;cao.animalia. NS mogli.cao.animalia.,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 10.2.2.5 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,
+02:01:2023.16:14:49 RR 127.0.0.1: 6299,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:14:49 RP 127.0.0.1: 6299,R+A,0,0,3,3;cao.animalia.,MX;;cao.animalia. NS mogli.cao.animalia.,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 10.2.2.5 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,
+02:01:2023.16:24:19 RR 127.0.0.1: 39085,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:24:19 RP 127.0.0.1: 39085,R+A,0,0,3,3;cao.animalia.,MX;;cao.animalia. NS mogli.cao.animalia.,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,
+02:01:2023.16:24:20 RR 127.0.0.1: 39085,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:24:20 RP 127.0.0.1: 39085,R+A,0,0,3,3;cao.animalia.,MX;;cao.animalia. NS mogli.cao.animalia.,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,
+02:01:2023.16:24:21 RR 127.0.0.1: 39085,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:24:21 RP 127.0.0.1: 39085,R+A,0,0,3,3;cao.animalia.,MX;;cao.animalia. NS mogli.cao.animalia.,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,
+02:01:2023.16:24:22 RR 127.0.0.1: 39085,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:24:22 RP 127.0.0.1: 39085,R+A,0,0,3,3;cao.animalia.,MX;;cao.animalia. NS mogli.cao.animalia.,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,
+02:01:2023.16:24:23 RR 127.0.0.1: 39085,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:24:23 RP 127.0.0.1: 39085,R+A,0,0,3,3;cao.animalia.,MX;;cao.animalia. NS mogli.cao.animalia.,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,
+02:01:2023.16:24:24 RR 127.0.0.1: 39085,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:24:24 RP 127.0.0.1: 39085,R+A,0,0,3,3;cao.animalia.,MX;;cao.animalia. NS mogli.cao.animalia.,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,
+02:01:2023.16:24:25 RR 127.0.0.1: 39085,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:24:25 RP 127.0.0.1: 39085,R+A,0,0,3,3;cao.animalia.,MX;;cao.animalia. NS mogli.cao.animalia.,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,
+02:01:2023.16:24:26 RR 127.0.0.1: 39085,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:24:26 RP 127.0.0.1: 39085,R+A,0,0,3,3;cao.animalia.,MX;;cao.animalia. NS mogli.cao.animalia.,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,
+02:01:2023.16:24:27 RR 127.0.0.1: 39085,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:24:27 RP 127.0.0.1: 39085,R+A,0,0,3,3;cao.animalia.,MX;;cao.animalia. NS mogli.cao.animalia.,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,
+02:01:2023.16:24:28 RR 127.0.0.1: 39085,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:24:28 RP 127.0.0.1: 39085,R+A,0,0,3,3;cao.animalia.,MX;;cao.animalia. NS mogli.cao.animalia.,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,
+02:01:2023.16:24:29 RR 127.0.0.1: 39085,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:24:29 RP 127.0.0.1: 39085,R+A,0,0,3,3;cao.animalia.,MX;;cao.animalia. NS mogli.cao.animalia.,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,
+02:01:2023.16:24:30 RR 127.0.0.1: 39085,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:24:30 RP 127.0.0.1: 39085,R+A,0,0,3,3;cao.animalia.,MX;;cao.animalia. NS mogli.cao.animalia.,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,
+02:01:2023.16:24:31 RR 127.0.0.1: 39085,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:24:31 RP 127.0.0.1: 39085,R+A,0,0,3,3;cao.animalia.,MX;;cao.animalia. NS mogli.cao.animalia.,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,
+02:01:2023.16:24:32 RR 127.0.0.1: 39085,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:24:32 RP 127.0.0.1: 39085,R+A,0,0,3,3;cao.animalia.,MX;;cao.animalia. NS mogli.cao.animalia.,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,
+02:01:2023.16:24:33 RR 127.0.0.1: 39085,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:24:33 RP 127.0.0.1: 39085,R+A,0,0,3,3;cao.animalia.,MX;;cao.animalia. NS mogli.cao.animalia.,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,
+02:01:2023.16:24:34 RR 127.0.0.1: 39085,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:24:34 RP 127.0.0.1: 39085,R+A,0,0,3,3;cao.animalia.,MX;;cao.animalia. NS mogli.cao.animalia.,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,
+02:01:2023.16:24:35 RR 127.0.0.1: 39085,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:24:35 RP 127.0.0.1: 39085,R+A,0,0,3,3;cao.animalia.,MX;;cao.animalia. NS mogli.cao.animalia.,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,
+02:01:2023.16:24:36 RR 127.0.0.1: 39085,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:24:36 RP 127.0.0.1: 39085,R+A,0,0,3,3;cao.animalia.,MX;;cao.animalia. NS mogli.cao.animalia.,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,
+02:01:2023.16:24:37 RR 127.0.0.1: 39085,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:24:37 RP 127.0.0.1: 39085,R+A,0,0,3,3;cao.animalia.,MX;;cao.animalia. NS mogli.cao.animalia.,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,
+02:01:2023.16:24:38 RR 127.0.0.1: 39085,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:24:38 RP 127.0.0.1: 39085,R+A,0,0,3,3;cao.animalia.,MX;;cao.animalia. NS mogli.cao.animalia.,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,
+02:01:2023.16:24:39 RR 127.0.0.1: 39085,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:24:39 RP 127.0.0.1: 39085,R+A,0,0,3,3;cao.animalia.,MX;;cao.animalia. NS mogli.cao.animalia.,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,
+02:01:2023.16:24:40 RR 127.0.0.1: 39085,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:24:40 RP 127.0.0.1: 39085,R+A,0,0,3,3;cao.animalia.,MX;;cao.animalia. NS mogli.cao.animalia.,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,
+02:01:2023.16:25:34 RR 127.0.0.1: 29030,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:25:34 RP 127.0.0.1: 29030,R+A,0,0,3,3;cao.animalia.,MX;;cao.animalia. NS mogli.cao.animalia.,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,
+02:01:2023.16:34:04 RR 127.0.0.1: 60727,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:34:04 RP 127.0.0.1: 60727,R+A,0,0,3,3;cao.animalia.,MX;;cao.animalia. NS mogli.cao.animalia.,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,
+02:01:2023.16:34:05 RR 127.0.0.1: 60727,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:34:05 RP 127.0.0.1: 60727,R+A,0,0,3,3;cao.animalia.,MX;;cao.animalia. NS mogli.cao.animalia.,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,
+02:01:2023.16:34:06 RR 127.0.0.1: 60727,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:34:06 RP 127.0.0.1: 60727,R+A,0,0,3,3;cao.animalia.,MX;;cao.animalia. NS mogli.cao.animalia.,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,
+02:01:2023.16:34:07 RR 127.0.0.1: 60727,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:34:07 RP 127.0.0.1: 60727,R+A,0,0,3,3;cao.animalia.,MX;;cao.animalia. NS mogli.cao.animalia.,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,
+02:01:2023.16:34:08 RR 127.0.0.1: 60727,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:34:08 RP 127.0.0.1: 60727,R+A,0,0,3,3;cao.animalia.,MX;;cao.animalia. NS mogli.cao.animalia.,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,
+02:01:2023.16:34:09 RR 127.0.0.1: 60727,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:34:09 RP 127.0.0.1: 60727,R+A,0,0,3,3;cao.animalia.,MX;;cao.animalia. NS mogli.cao.animalia.,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,
+02:01:2023.16:34:10 RR 127.0.0.1: 60727,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:34:10 RP 127.0.0.1: 60727,R+A,0,0,3,3;cao.animalia.,MX;;cao.animalia. NS mogli.cao.animalia.,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,
+02:01:2023.16:34:11 RR 127.0.0.1: 60727,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:34:11 RP 127.0.0.1: 60727,R+A,0,0,3,3;cao.animalia.,MX;;cao.animalia. NS mogli.cao.animalia.,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,
+02:01:2023.16:34:12 RR 127.0.0.1: 60727,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:34:12 RP 127.0.0.1: 60727,R+A,0,0,3,3;cao.animalia.,MX;;cao.animalia. NS mogli.cao.animalia.,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,
+02:01:2023.16:34:13 RR 127.0.0.1: 60727,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:34:13 RP 127.0.0.1: 60727,R+A,0,0,3,3;cao.animalia.,MX;;cao.animalia. NS mogli.cao.animalia.,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,
+02:01:2023.16:34:14 RR 127.0.0.1: 60727,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:34:14 RP 127.0.0.1: 60727,R+A,0,0,3,3;cao.animalia.,MX;;cao.animalia. NS mogli.cao.animalia.,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,
+02:01:2023.16:34:15 RR 127.0.0.1: 60727,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:34:15 RP 127.0.0.1: 60727,R+A,0,0,3,3;cao.animalia.,MX;;cao.animalia. NS mogli.cao.animalia.,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,
+02:01:2023.16:34:16 RR 127.0.0.1: 60727,Q+I,0,0,0,0;cao.animalia.,MX;;;
+02:01:2023.16:34:16 RP 127.0.0.1: 60727,R+A,0,0,3,3;cao.animalia.,MX;;cao.animalia. NS mogli.cao.animalia.,animalia. NS sdt2.animalia. 6,animalia. NS sdt1.animalia. 6,;mogli.cao.animalia. A 127.0.0.1 6,sdt2.animalia. A 10.2.2.2 6,sdt1.animalia. A 10.2.2.1 6,
